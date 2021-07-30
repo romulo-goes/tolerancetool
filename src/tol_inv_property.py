@@ -1,4 +1,3 @@
-from DESops.basic_operations import composition
 import DESops as d
 
 #Get the successors of a given successor list and event
@@ -42,9 +41,9 @@ def Control(Env, controller):
 # Qinv is a list with the state names of invariant states
 def Compute_tolerance_level(T,f,Qinv_name):
 	Not_Qinv = [v.index for v in T.vs if v['name'] not in Qinv_name]
-	Qinv = [v.index for v in Env.vs if v['name'] in Qinv_name]
+	Qinv = [v.index for v in T.vs if v['name'] in Qinv_name]
 	Tinv = Extend_Env_Qinv(T,Qinv) #Compute T_{Qinv x Act x Qinv}
-	Tinvf = Control(Tinv,controller) #To identify the actions used by controller in each state
+	Tinvf = Control(Tinv,f) #To identify the actions used by controller in each state
 	inacc = d.basic_operations.unary.find_inacc(Tinvf) #Find the unreachable states
 	Acc = [st.index for st in Tinvf.vs if st.index not in inacc] #Find the reachable states
 	Tdelta = Extend_Env_Total(Tinvf,Tinv,Not_Qinv,Acc)
@@ -87,11 +86,3 @@ def Extend_Env_Total(Env,Env_ext,Unsafe,Acc):
             fill_out=True,
         )
 	return Ext
-
-path = "/Users/romulo/Documents/romulo/Research/Postdoc/2021/Robustness/Examples/Toy example lncs/"
-Env = d.read_fsm(path+"toy.fsm")
-controller = {'1':('b',),'2':('b',),'3':('a',),'4':('b',)}
-
-(Delta,Tdelta)=Compute_tolerance_level(Env,controller,['1','2','4'])
-print(len(Tdelta.es))
-print(Delta)

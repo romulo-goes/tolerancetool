@@ -1,0 +1,31 @@
+5
+
+a2	0	5
+m1	a3	c	o
+m2	a3	c	o
+m3	a3	c	o
+m4	a3	c	o
+m5	a3	c	o
+
+a3	0	5
+m1	a4	c	o
+m2	a4	c	o
+m3	a4	c	o
+m4	a4	c	o
+m5	a4	c	o
+
+a4	0	5
+m1	a5	c	o
+m2	a5	c	o
+m3	a5	c	o
+m4	a5	c	o
+m5	a5	c	o
+
+a5	0	5
+m1	a2	c	o
+m2	a2	c	o
+m3	a2	c	o
+m4	a2	c	o
+m5	a2	c	o
+
+a1	0	0
