@@ -12,7 +12,17 @@ sys.path.insert(1, path_src)
 import tol_inv_property as t
 
 Env = d.read_fsm(path_script+"/toy.fsm")
-controller = {'1':('b',),'2':('b',),'3':('a',),'4':('b',)}
+print("Printing LTS T\n",Env)
+print("##################################")
+print("Invariance set: ['1','2','4']")
+print("##################################")
+controller = {'1':('b',),'2':('b',),'3':('none',),'4':('b',)}
+print("Controller for T\n",controller)
+print("##################################")
 (Delta,Tdelta)=t.Compute_tolerance_level(Env,controller,['1','2','4'])
-print(len(Tdelta.es))
-print(Delta)
+print("Printing TDelta - the perturbed system with respect to the tolerance level")
+print(Tdelta)
+print("##################################")
+print("Printing Delta\n", Delta)
+print("##################################")
+print("END OF EXAMPLE")
