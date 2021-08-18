@@ -1,7 +1,10 @@
 import os
 import sys
 import subprocess
+import ctypes
 #Getting absolute path to where script is being executed
+
+
 path_script=os.path.dirname(os.path.realpath(__file__))
 print("############## Running toy example in the paper (Example 3)####################")
 subprocess.run(["python3", path_script+"/examples/Toy Example/toy.py"])

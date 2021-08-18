@@ -1,0 +1,55 @@
+10
+
+1	0	2
+m2	2	c	o
+m1	1	c	o
+
+2	0	4
+m1	1	c	o
+m2	2	c	o
+m3	3	c	o
+m5	5	c	o
+
+3	0	3
+m2	2	c	o
+m3	3	c	o
+m4	4	c	o
+
+4	0	4
+m3	3	c	o
+m4	4	c	o
+m5	5	c	o
+m6	6	c	o
+
+5	0	4
+m4	4	c	o
+m5	5	c	o
+m2	2	c	o
+m7	7	c	o
+
+6	0	4
+m4	4	c	o
+m7	7	c	o
+m6	6	c	o
+m8	8	c	o
+
+7	0	4
+m7	7	c	o
+m6	6	c	o
+m5	5	c	o
+m9	9	c	o
+
+8	0	3
+m8	8	c	o
+m6	6	c	o
+m9	9	c	o
+
+9	0	4
+m9	9	c	o
+m8	8	c	o
+m7	7	c	o
+m10	10	c	o
+
+10	0	2
+m9	9	c	o
+m10	10	c	o

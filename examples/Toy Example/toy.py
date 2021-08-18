@@ -2,6 +2,7 @@
 import os
 import DESops as d
 import sys
+import time
 #Getting absolute path to where script is being executed
 path_script=os.path.dirname(os.path.realpath(__file__))
 #Finding the absolute path to src folder
@@ -19,10 +20,24 @@ print("##################################")
 controller = {'1':('b',),'2':('b',),'3':('none',),'4':('b',)}
 print("Controller for T\n",controller)
 print("##################################")
+start = time.time()
 (Delta,Tdelta)=t.Compute_tolerance_level(Env,controller,['1','2','4'])
+print("Time to compute tolerance ",time.time()-start)
 print("Printing TDelta - the perturbed system with respect to the tolerance level")
 print(Tdelta)
 print("##################################")
 print("Printing Delta\n", Delta)
 print("##################################")
 print("END OF EXAMPLE")
+
+
+# Computing the most and the least tolerant controller.
+# Also, we compute a controller tolerant against deviation [('1','a','3'),('2','a','3')]
+ctr = t.Compute_inv_controller(Env,['1','2','4'])
+print(ctr)
+ctr = t.Compute_empty_controller(Env,['1','2','4'])
+print(ctr)
+(Delta,Tdelta)=t.Compute_tolerance_level(Env,ctr,['1','2','4'])
+print(Tdelta)
+ctr = t.Compute_tolerant_controller(Env,['1','2','4'],[('1','a','3'),('2','a','3')])
+print(ctr)
