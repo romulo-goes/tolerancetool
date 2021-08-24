@@ -120,16 +120,27 @@ def Transition_contraint(T,trans_contraint):
 def Extend_Env_Qinv(Env,Qinv):
 	Ext = d.NFA(Env)
 	events = list(Env.events)
+	edges = [{"pair": (src, tgt), "label": e} for src in Qinv for tgt in Qinv for e in events if (tgt,e) not in Env.vs[src]['out']]
+	Ext.add_edges(
+	[e["pair"] for e in edges],
+	[e["label"] for e in edges],
+	fill_out=True,
+	)
 	# edge_pairs = list(product(Qinv,repeat=2))
 	# edges = edge_pairs*len(events)
 	# events = events*len(edge_pairs)
-	edges = [{"pair": (src, tgt), "label": e} for src in Qinv for tgt in Qinv for e in events if (tgt,e) not in Env.vs[src]['out']]
+	# k = 5
+	# for i in range(5):
+	# 	for j in range(5):
+	# 		edges = [{"pair": (src, tgt), "label": e} for src in Qinv[i*int(len(Qinv)/5):(i+1)*int(len(Qinv)/5)] for tgt in Qinv[j*int(len(Qinv)/5):(j+1)*len(Qinv)] for e in events if (tgt,e) not in Env.vs[src]['out']]
+	# 		Ext.add_edges(
+    #         [e["pair"] for e in edges],
+    #         [e["label"] for e in edges],
+    #         fill_out=True,
+    #     	)
+	
 	# edges = [{"pair": (src, tgt), "label": e} for src in Qinv for tgt in Qinv for e in events if not Env.es.select(_source_eq =src,_target_eq=tgt,label_eq=e)]
-	Ext.add_edges(
-            [e["pair"] for e in edges],
-            [e["label"] for e in edges],
-            fill_out=True,
-        )
+	
 	return Ext 
 
 #Function to extend the environment with tolerable transitions in Q x Act x (Q-Qinv)
