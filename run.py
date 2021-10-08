@@ -10,3 +10,9 @@ subprocess.run(["python3", path_script+"/examples/Toy Example/toy.py"])
 input("Press Enter to continue...")
 print("############## Running motivating example in the paper ####################")
 subprocess.run(["python3", path_script+"/examples/Surveillance Example/surv.py"])
+
+input("Press Enter to continue...")
+print("############## Running scalability example in the paper ####################")
+subprocess.run(["python3", path_script+"/examples/Scalability Surv Example/surv-scale.py"])
+print("############## END OF EXECUTION ####################")
+

@@ -1,0 +1,22 @@
+MODULE control(state)
+	VAR action:{a,b};
+ASSIGN
+init(action):=b;
+next(action):=b;
+MODULE main
+	VAR
+	state: 0..4;
+	ctr: control(next(state));
+ASSIGN
+	init(state):=0;
+	next(state):= case
+		state=0 & ctr.action = a:{0, 1, 2, 3};
+		state=0 & ctr.action = b:{0, 1, 3};
+		state=1 & ctr.action = b:{0, 1, 3};
+		state=1 & ctr.action = a:{0, 1, 3};
+		state=2 & ctr.action = b:{0, 2, 3};
+		state=2 & ctr.action = a:{0, 2, 3};
+		state=3 & ctr.action = b:{1, 3};
+		state=3 & ctr.action = a:{0, 2, 3};
+		TRUE:4;
+	esac;
