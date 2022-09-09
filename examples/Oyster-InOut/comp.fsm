@@ -1,0 +1,65 @@
+16
+
+('s0', '0')	0	2
+snd.oyster	('s1', '1')	uc	o
+snd.oyster_n	('s0', '1')	c	o
+
+('s1', '1')	0	1
+rcv.oyster.gin	('s2', '3')	uc	o
+
+('s0', '1')	0	2
+snd.oyster	('s1', '1')	uc	o
+snd.oyster_n	('s0', '1')	c	o
+
+('s2', '3')	0	2
+snd.oyster_n	('s3', '5')	c	o
+snd.oyster.gin	('s3', '6')	uc	o
+
+('s3', '5')	0	2
+rcv.oyster.fin_n	('s2', '9')	c	o
+rcv.oyster.fin	('s0', '9')	uc	o
+
+('s3', '6')	0	1
+rcv.oyster.fin	('s0', '0')	uc	o
+
+('s3', '7')	0	1
+rcv.oyster.fin	('s0', '1')	uc	o
+
+('s2', '9')	0	4
+snd.oyster_n	('s0', '9')	c	o
+snd.oyster_n	('s3', '9')	c	o
+snd.oyster.gin_n	('s0', '9')	c	o
+snd.oyster.gin	('s3', '9')	uc	o
+
+('s0', '9')	0	3
+snd.oyster	('s1', '9')	uc	o
+snd.oyster_n	('s0', '9')	c	o
+snd.oyster.gin_n	('s3', '9')	c	o
+
+('s3', '9')	0	2
+rcv.oyster.fin_n	('s2', '9')	c	o
+rcv.oyster.fin	('s0', '9')	uc	o
+
+('s1', '9')	0	2
+rcv.oyster.gin	('s2', '9')	uc	o
+rcv.oyster.gin_n	('s0', '9')	c	o
+
+('s3', '1')	0	2
+rcv.oyster.fin_n	('s2', '9')	c	o
+rcv.oyster.fin	('s0', '9')	uc	o
+
+('s0', '2')	0	2
+snd.oyster	('s1', '4')	uc	o
+snd.oyster_n	('s0', '4')	c	o
+
+('s0', '4')	0	2
+snd.oyster	('s1', '4')	uc	o
+snd.oyster_n	('s0', '4')	c	o
+
+('s1', '4')	0	1
+rcv.oyster.gin	('s2', '6')	uc	o
+
+('s2', '6')	0	2
+snd.oyster_n	('s3', '7')	c	o
+snd.oyster.gin	('s3', '6')	uc	o
+

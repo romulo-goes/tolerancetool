@@ -1,0 +1,56 @@
+17
+
+closed	0	2
+syn_bc3	SYNsent	c	o
+listen_B	listen	c	o
+
+SYNsent	0	2
+syn_ack_c4b	i0	c	o
+syn_c4b	i1	c	o
+
+listen	0	1
+syn_c4b	i2	c	o
+
+i0	0	1
+ack_bc3	Estab	c	o
+
+i1	0	1
+ack_bc3	SYNrcv	c	o
+
+i2	0	1
+syn_ack_bc3	SYNrcv	c	o
+
+Estab	0	2
+fin_c4b	i3	c	o
+fin_bc3	FINw1	c	o
+
+SYNrcv	0	1
+ack_c4b	Estab	c	o
+
+i3	0	1
+ack_bc3	Closew	c	o
+
+FINw1	0	2
+ack_c4b	FINw2	c	o
+fin_c4b	i4	c	o
+
+Closew	0	1
+fin_bc3	lastack	c	o
+
+FINw2	0	1
+fin_c4b	i5	c	o
+
+i4	0	1
+ack_bc3	Closing	c	o
+
+i5	0	1
+ack_bc3	timew	c	o
+
+lastack	0	1
+ack_c4b	closed	c	o
+
+Closing	0	1
+ack_c4b	closed	c	o
+
+timew	0	1
+del_tcbb	closed	c	o

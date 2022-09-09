@@ -1,0 +1,47 @@
+5
+
+1,A	0	9
+i	1,B	c	o
+i	2,B	c	o
+a	1,A	c	o
+s	1,A	c	o
+r	1,A	c	o
+a	2,A	c	o
+s	2,A	c	o
+r	2,A	c	o
+o	err	c	o
+
+2,A	0	9
+i	1,B	c	o
+i	2,B	c	o
+a	1,A	c	o
+s	1,A	c	o
+r	1,A	c	o
+a	2,A	c	o
+s	2,A	c	o
+r	2,A	c	o
+o	err	c	o
+
+1,B	0	9
+o	1,A	c	o
+o	2,A	c	o
+a	1,B	c	o
+s	1,B	c	o
+r	1,B	c	o
+a	2,B	c	o
+s	2,B	c	o
+r	2,B	c	o
+i	err	c	o
+
+2,B	0	9
+o	1,A	c	o
+o	2,A	c	o
+a	1,B	c	o
+s	1,B	c	o
+r	1,B	c	o
+a	2,B	c	o
+s	2,B	c	o
+r	2,B	c	o
+i	err	c	o
+
+err	0	0

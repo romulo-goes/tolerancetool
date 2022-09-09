@@ -1,0 +1,32 @@
+8
+
+s0	0	3
+send	s1	c	o
+to	s0	c	o
+a1p	s0	c	o
+
+s1	0	1
+p0	s0	c	o
+
+s2	0	3
+a1p	s2	c	o
+to	s1	c	o
+a0p	s3	c	o
+
+s3	0	1
+done	s4	c	o
+
+s4	0	3
+send	s5	c	o
+to	s4	c	o
+a0p	s4	c	o
+
+s5	0	1
+p1	s6	c	o
+
+s6	0	2
+to	s5	c	o
+a0p	s7	c	o
+
+s7	0	1
+done	s0	c	o

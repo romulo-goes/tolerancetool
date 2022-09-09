@@ -2,6 +2,7 @@ import DESops as d
 from itertools import product
 
 
+
 #Get the successors of a given successor list and event
 def Post(out_list,event):
 	return [x[0] for x in out_list if x[1].label==event]
@@ -57,8 +58,7 @@ def Compute_tolerant_controller(T,Qinv,dist):
 		
 		edges.append((src,tgt))
 		events.append(d.Event(t[1]))
-	# Td.add_edges(edges,events,fill_out=True)	
-	# print(Td)
+	Td.add_edges(edges,events,fill_out=True)	
 	# Need to compute Td. Add transitions d to T
 	controller = Compute_inv_controller(Td,Qinv)
 	return controller
@@ -68,7 +68,7 @@ def Compute_tolerant_controller(T,Qinv,dist):
 def Control(Env, controller):
 	C = d.automata.NFA()
 	# print(names)
-	edges = [] 
+	edges = []
 	for st in range(len(Env.vs)):
 		src_index = st
 		src_name = Env.vs[st]['name']
@@ -91,6 +91,7 @@ def Control(Env, controller):
             fill_out=True,
         )
 	C.events = Env.events
+	C.vs['init'] = [True if x==0 else False for x in range(0,len(Env.vs))]
 	return C
 
 

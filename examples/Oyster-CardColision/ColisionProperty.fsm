@@ -1,0 +1,21 @@
+4
+
+0	0	4
+rcv.oyster.gin	1	c	o
+rcv.card.gin	2	c	o
+rcv.oyster.fin	err	c	o
+rcv.card.fin	err	c	o
+
+1	0	4
+rcv.oyster.fin	0	c	o
+rcv.oyster.gin	err	c	o
+rcv.card.gin	err	c	o
+rcv.card.fin	err	c	o
+
+2	0	4
+rcv.card.fin	0	c	o
+rcv.card.gin	err	c	o
+rcv.oyster.gin	err	c	o
+rcv.oyster.fin	err	c	o
+
+err	0	0

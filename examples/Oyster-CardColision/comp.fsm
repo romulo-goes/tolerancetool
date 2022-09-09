@@ -1,0 +1,258 @@
+64
+
+('s0', '0')	0	4
+snd.card_n	('s0', '1')	c	o
+snd.oyster	('s1', '4')	uc	o
+snd.card	('s4', '1')	uc	o
+snd.oyster_n	('s0', '4')	c	o
+
+('s0', '1')	0	4
+snd.card_n	('s0', '1')	c	o
+snd.oyster	('s1', '8')	uc	o
+snd.card	('s4', '1')	uc	o
+snd.oyster_n	('s0', '8')	c	o
+
+('s1', '4')	0	1
+rcv.oyster.gin	('s2', '12')	uc	o
+
+('s4', '1')	0	1
+rcv.card.gin	('s5', '5')	uc	o
+
+('s0', '4')	0	4
+snd.card_n	('s0', '8')	c	o
+snd.oyster	('s1', '4')	uc	o
+snd.card	('s4', '8')	uc	o
+snd.oyster_n	('s0', '4')	c	o
+
+('s1', '8')	0	1
+rcv.oyster.gin	('s2', '20')	uc	o
+
+('s0', '8')	0	4
+snd.card_n	('s0', '8')	c	o
+snd.oyster	('s1', '8')	uc	o
+snd.card	('s4', '8')	uc	o
+snd.oyster_n	('s0', '8')	c	o
+
+('s2', '12')	0	2
+snd.oyster.gin	('s3', '22')	uc	o
+snd.oyster.gin_n	('s2', '22')	c	o
+
+('s5', '5')	0	2
+snd.card.gin	('s6', '15')	uc	o
+snd.card.gin_n	('s5', '15')	c	o
+
+('s4', '8')	0	1
+rcv.card.gin	('s5', '13')	uc	o
+
+('s2', '20')	0	2
+snd.oyster.gin	('s3', '32')	uc	o
+snd.oyster.gin_n	('s2', '32')	c	o
+
+('s3', '22')	0	1
+rcv.oyster.fin	('s0', '0')	uc	o
+
+('s2', '22')	0	2
+snd.oyster.gin	('s3', '22')	uc	o
+snd.oyster.gin_n	('s2', '22')	c	o
+
+('s6', '15')	0	1
+rcv.card.fin	('s0', '0')	uc	o
+
+('s5', '15')	0	2
+snd.card.gin	('s6', '15')	uc	o
+snd.card.gin_n	('s5', '15')	c	o
+
+('s5', '13')	0	2
+snd.card.gin	('s6', '26')	uc	o
+snd.card.gin_n	('s5', '26')	c	o
+
+('s3', '32')	0	1
+rcv.oyster.fin	('s0', '4')	uc	o
+
+('s2', '32')	0	2
+snd.oyster.gin	('s3', '32')	uc	o
+snd.oyster.gin_n	('s2', '32')	c	o
+
+('s3', '36')	0	1
+rcv.oyster.fin	('s0', '1')	uc	o
+
+('s3', '35')	0	1
+rcv.oyster.fin	('s0', '2')	uc	o
+
+('s2', '35')	0	2
+snd.oyster.gin	('s3', '35')	uc	o
+snd.oyster.gin_n	('s2', '35')	c	o
+
+('s6', '26')	0	1
+rcv.card.fin	('s0', '1')	uc	o
+
+('s6', '28')	0	1
+rcv.card.fin	('s0', '3')	uc	o
+
+('s5', '28')	0	2
+snd.card.gin	('s6', '28')	uc	o
+snd.card.gin_n	('s5', '28')	c	o
+
+('s6', '30')	0	1
+rcv.card.fin	('s0', '4')	uc	o
+
+('s5', '26')	0	2
+snd.card.gin	('s6', '26')	uc	o
+snd.card.gin_n	('s5', '26')	c	o
+
+('s3', '43')	0	1
+rcv.oyster.fin	('s0', '8')	uc	o
+
+('s3', '42')	0	1
+rcv.oyster.fin	('s0', '10')	uc	o
+
+('s2', '42')	0	2
+snd.oyster.gin	('s3', '42')	uc	o
+snd.oyster.gin_n	('s2', '42')	c	o
+
+('s0', '3')	0	4
+snd.card_n	('s0', '7')	c	o
+snd.oyster	('s1', '11')	uc	o
+snd.card	('s4', '7')	uc	o
+snd.oyster_n	('s0', '11')	c	o
+
+('s3', '45')	0	1
+rcv.oyster.fin	('s0', '6')	uc	o
+
+('s0', '2')	0	4
+snd.card_n	('s0', '6')	c	o
+snd.oyster	('s1', '10')	uc	o
+snd.card	('s4', '6')	uc	o
+snd.oyster_n	('s0', '10')	c	o
+
+('s6', '40')	0	1
+rcv.card.fin	('s0', '8')	uc	o
+
+('s6', '38')	0	1
+rcv.card.fin	('s0', '7')	uc	o
+
+('s6', '41')	0	1
+rcv.card.fin	('s0', '11')	uc	o
+
+('s5', '38')	0	2
+snd.card.gin	('s6', '38')	uc	o
+snd.card.gin_n	('s5', '38')	c	o
+
+('s0', '11')	0	4
+snd.card_n	('s0', '19')	c	o
+snd.oyster	('s1', '11')	uc	o
+snd.card	('s4', '19')	uc	o
+snd.oyster_n	('s0', '11')	c	o
+
+('s3', '47')	0	1
+rcv.oyster.fin	('s0', '18')	uc	o
+
+('s0', '10')	0	4
+snd.card_n	('s0', '18')	c	o
+snd.oyster	('s1', '10')	uc	o
+snd.card	('s4', '18')	uc	o
+snd.oyster_n	('s0', '10')	c	o
+
+('s0', '7')	0	4
+snd.card_n	('s0', '7')	c	o
+snd.oyster	('s1', '19')	uc	o
+snd.card	('s4', '7')	uc	o
+snd.oyster_n	('s0', '19')	c	o
+
+('s0', '6')	0	4
+snd.card_n	('s0', '6')	c	o
+snd.oyster	('s1', '18')	uc	o
+snd.card	('s4', '6')	uc	o
+snd.oyster_n	('s0', '18')	c	o
+
+('s0', '9')	0	4
+snd.card_n	('s0', '17')	c	o
+snd.oyster	('s1', '21')	uc	o
+snd.card	('s4', '17')	uc	o
+snd.oyster_n	('s0', '21')	c	o
+
+('s1', '11')	0	1
+rcv.oyster.gin	('s2', '23')	uc	o
+
+('s4', '7')	0	1
+rcv.card.gin	('s5', '15')	uc	o
+
+('s1', '10')	0	1
+rcv.oyster.gin	('s2', '22')	uc	o
+
+('s4', '6')	0	1
+rcv.card.gin	('s5', '14')	uc	o
+
+('s6', '46')	0	1
+rcv.card.fin	('s0', '19')	uc	o
+
+('s0', '19')	0	4
+snd.card_n	('s0', '19')	c	o
+snd.oyster	('s1', '19')	uc	o
+snd.card	('s4', '19')	uc	o
+snd.oyster_n	('s0', '19')	c	o
+
+('s0', '18')	0	4
+snd.card_n	('s0', '18')	c	o
+snd.oyster	('s1', '18')	uc	o
+snd.card	('s4', '18')	uc	o
+snd.oyster_n	('s0', '18')	c	o
+
+('s0', '21')	0	4
+snd.card_n	('s0', '31')	c	o
+snd.oyster	('s1', '21')	uc	o
+snd.card	('s4', '31')	uc	o
+snd.oyster_n	('s0', '21')	c	o
+
+('s4', '19')	0	1
+rcv.card.gin	('s5', '26')	uc	o
+
+('s4', '18')	0	1
+rcv.card.gin	('s5', '25')	uc	o
+
+('s0', '17')	0	4
+snd.card_n	('s0', '17')	c	o
+snd.oyster	('s1', '31')	uc	o
+snd.card	('s4', '17')	uc	o
+snd.oyster_n	('s0', '31')	c	o
+
+('s1', '19')	0	1
+rcv.oyster.gin	('s2', '33')	uc	o
+
+('s1', '18')	0	1
+rcv.oyster.gin	('s2', '32')	uc	o
+
+('s1', '21')	0	1
+rcv.oyster.gin	('s2', '35')	uc	o
+
+('s4', '17')	0	1
+rcv.card.gin	('s5', '28')	uc	o
+
+('s2', '23')	0	2
+snd.oyster.gin	('s3', '35')	uc	o
+snd.oyster.gin_n	('s2', '35')	c	o
+
+('s5', '14')	0	2
+snd.card.gin	('s6', '28')	uc	o
+snd.card.gin_n	('s5', '28')	c	o
+
+('s0', '31')	0	4
+snd.card_n	('s0', '31')	c	o
+snd.oyster	('s1', '31')	uc	o
+snd.card	('s4', '31')	uc	o
+snd.oyster_n	('s0', '31')	c	o
+
+('s4', '31')	0	1
+rcv.card.gin	('s5', '38')	uc	o
+
+('s5', '25')	0	2
+snd.card.gin	('s6', '38')	uc	o
+snd.card.gin_n	('s5', '38')	c	o
+
+('s1', '31')	0	1
+rcv.oyster.gin	('s2', '42')	uc	o
+
+('s2', '33')	0	2
+snd.oyster.gin	('s3', '42')	uc	o
+snd.oyster.gin_n	('s2', '42')	c	o
+

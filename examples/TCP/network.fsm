@@ -1,0 +1,36 @@
+9
+
+E	0	8
+syn_c1n	S1	c	o
+syn_c3n	S3	c	o
+fin_c1n	F1	c	o
+fin_c3n	F3	c	o
+ack_c1n	A1	c	o
+ack_c3n	A3	c	o
+syn_ack_c1n	SA1	c	o
+syn_ack_c3n	SA3	c	o
+
+
+S1	0	1
+syn_nc4	E	c	o
+
+S3	0	1
+syn_nc2	E	c	o
+
+F1	0	1
+fin_nc4	E	c	o
+
+F3	0	1
+fin_nc2	E	c	o
+
+A1	0	1
+ack_nc4	E	c	o
+
+A3	0	1
+ack_nc2	E	c	o
+
+SA1	0	1
+syn_ack_nc4	E	c	o
+
+SA3	0	1
+syn_ack_nc2	E	c	o

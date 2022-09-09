@@ -1,0 +1,43 @@
+3
+
+f0	0	12
+p0	f0	uc	o
+p1	f0	uc	o
+p0	f1	uc	o
+p1	f2	uc	o
+p0p_n	f0	c	o
+p1p_n	f0	c	o
+p1_n	f1	c	o
+p0p_n	f1	c	o
+p1p_n	f1	c	o
+p0_n	f2	c	o
+p0p_n	f2	c	o
+p1p_n	f2	c	o
+
+f1	0	12
+p0	f1	uc	o
+p1	f1	uc	o
+p0p	f1	uc	o
+p0p	f0	uc	o
+p0_n	f0	c	o
+p1_n	f0	c	o
+p1p_n	f0	c	o
+p1p_n	f1	c	o
+p1_n	f2	c	o
+p0_n	f2	c	o
+p0p_n	f2	c	o
+p1p_n	f2	c	o
+
+f2	0	12
+p0	f2	uc	o
+p1	f2	uc	o
+p1p	f2	uc	o
+p1p	f0	uc	o
+p0_n	f0	c	o
+p1_n	f0	c	o
+p0p_n	f0	c	o
+p0p_n	f2	c	o
+p1_n	f1	c	o
+p0_n	f1	c	o
+p0p_n	f1	c	o
+p1p_n	f1	c	o

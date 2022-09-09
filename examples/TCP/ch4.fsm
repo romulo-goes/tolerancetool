@@ -1,0 +1,19 @@
+5
+
+E	0	4
+syn_ack_nc4	SA	c	o
+ack_nc4	A	c	o
+syn_nc4	S	c	o
+fin_nc4	F	c	o
+
+SA	0	1
+syn_ack_c4b	E	c	o
+
+A	0	1
+ack_c4b	E	c	o
+
+S	0	1
+syn_c4b	E	c	o
+
+F	0	1
+fin_c4b	E	c	o

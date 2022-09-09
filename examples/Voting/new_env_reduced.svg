@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by igraph (http://igraph.org/) for use in Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400px"
+   height="400px"
+   version="1.1"
+   id="svg944"
+   sodipodi:docname="new_env_reduced.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview946"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.6740681"
+     inkscape:cx="95.874237"
+     inkscape:cy="242.82167"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs3">
+    <marker
+       inkscape:stockid="Arrow2Mend0"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend0"
+       style="overflow:visible;">
+      <path
+         id="pathArrow0"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;fill:black"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.7) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Lines">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 308.21904,278.37419 C 297.9995,260.7909 315.19147,202.09035 355.3921,108.8768"
+       id="path0"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g0"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text830"><textPath
+         xlink:href="#path0"
+         startOffset="50%"
+         id="textPath828">eo.enter</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 295.54677,287.59004 c -19.24572,-27.59339 -47.91739,-26.90893 -84.15713,-3.52029"
+       id="path1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g0"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g1"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text835"><textPath
+         xlink:href="#path1"
+         startOffset="50%"
+         id="textPath833">v.enter</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 211.38964,284.06975 c 29.09741,73.28096 56.37785,21.19085 84.15713,3.52029"
+       id="path2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g1"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g0"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text840"><textPath
+         xlink:href="#path2"
+         startOffset="50%"
+         id="textPath838">v.exit</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 191.40013,283.48474 C 140.41832,264.30258 89.946252,237.30442 34.872268,280.86895"
+       id="path3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g1"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g2"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text845"><textPath
+         xlink:href="#path3"
+         startOffset="50%"
+         id="textPath843">pw</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 201.39856,283.65182 -50.87914,56.58707"
+       id="path4"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g1"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g1"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text850"><textPath
+         xlink:href="#path4"
+         startOffset="50%"
+         id="textPath848">sel</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 201.39856,283.65182 18.4636,62.4186"
+       id="path5"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g1"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g1"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text855"><textPath
+         xlink:href="#path5"
+         startOffset="50%"
+         id="textPath853">cfm</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 201.39856,283.65182 -11.21091,68.27341"
+       id="path6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g1"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g1"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text860"><textPath
+         xlink:href="#path6"
+         startOffset="50%"
+         id="textPath858">vote</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 207.87318,276.03108 351.59867,106.86377"
+       id="path7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g1"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3"
+       inkscape:connection-end-point="d4" />
+    <text
+       dy="-2%"
+       id="text865"><textPath
+         xlink:href="#path7"
+         startOffset="50%"
+         id="textPath863">eo.enter</textPath></text>
+    <text
+       dy="-2%"
+       id="text870"
+       x="231.53671"
+       y="158.65817"
+       style="white-space:pre;inline-size:9.73551"
+       xml:space="preserve"><tspan
+         x="231.53671"
+         y="158.65817"
+         id="tspan1783"><tspan
+           dx="0 7.4765625"
+           id="tspan1781">pw</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 34.872268,280.86895 c 31.191799,45.0491 72.029142,69.79179 156.527862,2.61579"
+       id="path9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g2"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g1"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text875"><textPath
+         xlink:href="#path9"
+         startOffset="50%"
+         id="textPath873">cfm</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 24.873838,280.70186 -51.620186,265.29681"
+       id="path10"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g2"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g2"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text880"><textPath
+         xlink:href="#path10"
+         startOffset="50%"
+         id="textPath878">pw</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 24.873838,280.70186 -20.278884,207.39509"
+       id="path11"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g2"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g2"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text885"><textPath
+         xlink:href="#path11"
+         startOffset="50%"
+         id="textPath883">sel</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 24.873838,280.70186 1.062417,-96.14874"
+       id="path12"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g2"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g2"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text890"><textPath
+         xlink:href="#path12"
+         startOffset="50%"
+         id="textPath888">vote</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 355.3921,108.8768 c 51.60646,71.55997 7.17597,121.63799 -47.17306,169.49739"
+       id="path13"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g0"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text895"><textPath
+         xlink:href="#path13"
+         startOffset="50%"
+         id="textPath893">eo.exit</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 358.07329,99.243027 406.99487,44.154859"
+       id="path14"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text900"><textPath
+         xlink:href="#path14"
+         startOffset="50%"
+         id="textPath898">sel</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="m 358.07329,99.243027 1.23332,-70.29908"
+       id="path15"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text905"><textPath
+         xlink:href="#path15"
+         startOffset="50%"
+         id="textPath903">cfm</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 358.07329,99.243027 419.32805,74.987789"
+       id="path16"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text910"><textPath
+         xlink:href="#path16"
+         startOffset="50%"
+         id="textPath908">vote</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 358.07329,99.243027 316.14051,19.077409"
+       id="path17"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text915"><textPath
+         xlink:href="#path17"
+         startOffset="50%"
+         id="textPath913">v.enter</textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend0)"
+       d="M 358.07329,99.243027 295.17411,39.22159"
+       id="path18"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g3"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       dy="-2%"
+       id="text920"><textPath
+         xlink:href="#path18"
+         startOffset="50%"
+         id="textPath918">v.exit</textPath></text>
+  </g>
+  <g
+     inkscape:label="Nodes"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <!-- Vertices -->
+    <g
+       id="g0"
+       transform="translate(305.53785,288.00797)">
+      <circle
+         cx="0"
+         cy="0"
+         fill="#80b3ff"
+         id="ellipse923"
+         r="10" />
+      <text
+         y="5"
+         x="0"
+         id="text0"
+         style="font-style:normal;font-weight:normal;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           y="5"
+           x="0"
+           id="tspan0"
+           sodipodi:role="line">s0</tspan></text>
+    </g>
+    <g
+       id="g1"
+       transform="translate(201.39856160448693,283.651823960257)">
+      <ellipse
+         cx="0"
+         cy="0"
+         rx="10"
+         ry="10"
+         fill="#80b3ff"
+         id="ellipse928" />
+      <text
+         y="5.0"
+         x="0"
+         id="text1"
+         style="font-size:16pxpx;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           y="5.0"
+           x="0"
+           id="tspan1"
+           sodipodi:role="line">s1</tspan></text>
+    </g>
+    <g
+       id="g2"
+       transform="translate(24.873838,280.70186)">
+      <circle
+         cx="0"
+         cy="0"
+         fill="#80b3ff"
+         id="ellipse933"
+         r="10" />
+      <text
+         y="5"
+         x="0"
+         id="text2"
+         style="font-style:normal;font-weight:normal;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           y="5"
+           x="0"
+           id="tspan2"
+           sodipodi:role="line">s2</tspan></text>
+    </g>
+    <g
+       id="g3"
+       transform="translate(358.07329,99.243027)">
+      <circle
+         cx="0"
+         cy="0"
+         fill="#80b3ff"
+         id="ellipse938"
+         r="10" />
+      <text
+         y="5"
+         x="0"
+         id="text3"
+         style="font-style:normal;font-weight:normal;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           y="5"
+           x="0"
+           id="tspan3"
+           sodipodi:role="line">s3</tspan></text>
+    </g>
+  </g>
+</svg>

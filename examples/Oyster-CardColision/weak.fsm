@@ -1,0 +1,494 @@
+50
+
+0	0	8
+snd.card	1	uc	o
+snd.oyster.gin	2	uc	o
+snd.card.gin	3	uc	o
+snd.oyster	4	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+1	0	8
+snd.card	1	uc	o
+rcv.card.gin	5	uc	o
+snd.oyster.gin	6	uc	o
+snd.card.gin	7	uc	o
+snd.oyster	8	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+2	0	8
+snd.oyster.gin	2	uc	o
+snd.card	6	uc	o
+snd.card.gin	9	uc	o
+snd.oyster	10	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+3	0	8
+snd.card.gin	3	uc	o
+snd.card	7	uc	o
+snd.oyster.gin	9	uc	o
+snd.oyster	11	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+
+4	0	8
+snd.oyster	4	uc	o
+snd.card	8	uc	o
+snd.oyster.gin	10	uc	o
+snd.card.gin	11	uc	o
+rcv.oyster.gin	12	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+5	0	8
+snd.card	13	uc	o
+snd.oyster.gin	14	uc	o
+snd.card.gin	15	uc	o
+snd.oyster	16	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+6	0	8
+snd.oyster.gin	6	uc	o
+snd.card	6	uc	o
+rcv.card.gin	14	uc	o
+snd.card.gin	17	uc	o
+snd.oyster	18	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+7	0	8
+snd.card.gin	7	uc	o
+snd.card	7	uc	o
+rcv.card.gin	15	uc	o
+snd.oyster.gin	17	uc	o
+snd.oyster	19	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+
+8	0	8
+snd.oyster	8	uc	o
+snd.card	8	uc	o
+rcv.card.gin	13	uc	o
+snd.oyster.gin	18	uc	o
+snd.card.gin	19	uc	o
+rcv.oyster.gin	20	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.fin	49	uc	o
+
+9	0	8
+snd.card.gin	9	uc	o
+snd.oyster.gin	9	uc	o
+snd.card	17	uc	o
+snd.oyster	21	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+
+10	0	8
+snd.oyster	10	uc	o
+snd.oyster.gin	10	uc	o
+snd.card	18	uc	o
+snd.card.gin	21	uc	o
+rcv.oyster.gin	22	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+11	0	8
+snd.oyster	11	uc	o
+snd.card.gin	11	uc	o
+snd.card	19	uc	o
+snd.oyster.gin	21	uc	o
+rcv.oyster.gin	23	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.gin	49	uc	o
+
+12	0	8
+snd.oyster	20	uc	o
+snd.oyster.gin	22	uc	o
+snd.card.gin	23	uc	o
+snd.card	24	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+13	0	8
+snd.card	13	uc	o
+snd.oyster.gin	25	uc	o
+snd.card.gin	26	uc	o
+snd.oyster	27	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+14	0	8
+snd.oyster.gin	14	uc	o
+snd.card	25	uc	o
+snd.card.gin	28	uc	o
+snd.oyster	29	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+15	0	8
+rcv.card.fin	0	uc	o
+snd.card.gin	15	uc	o
+snd.card	26	uc	o
+snd.oyster.gin	28	uc	o
+snd.oyster	30	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+
+16	0	8
+snd.oyster	16	uc	o
+snd.card	27	uc	o
+snd.oyster.gin	29	uc	o
+snd.card.gin	30	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+17	0	8
+snd.card.gin	17	uc	o
+snd.oyster.gin	17	uc	o
+snd.card	17	uc	o
+rcv.card.gin	28	uc	o
+snd.oyster	31	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.gin	49	uc	o
+
+18	0	8
+snd.oyster	18	uc	o
+snd.oyster.gin	18	uc	o
+snd.card	18	uc	o
+rcv.card.gin	25	uc	o
+snd.card.gin	31	uc	o
+rcv.oyster.gin	32	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.fin	49	uc	o
+
+19	0	8
+snd.oyster	19	uc	o
+snd.card.gin	19	uc	o
+snd.card	19	uc	o
+rcv.card.gin	26	uc	o
+snd.oyster.gin	31	uc	o
+rcv.oyster.gin	33	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.fin	49	uc	o
+
+20	0	8
+snd.oyster	20	uc	o
+snd.oyster.gin	32	uc	o
+snd.card.gin	33	uc	o
+snd.card	34	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+21	0	8
+snd.oyster	21	uc	o
+snd.card.gin	21	uc	o
+snd.oyster.gin	21	uc	o
+snd.card	31	uc	o
+rcv.oyster.gin	35	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.fin	err	uc	o
+rcv.card.gin	49	uc	o
+
+22	0	8
+rcv.oyster.fin	0	uc	o
+snd.oyster.gin	22	uc	o
+snd.oyster	32	uc	o
+snd.card.gin	35	uc	o
+snd.card	36	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+23	0	8
+snd.card.gin	23	uc	o
+snd.oyster	33	uc	o
+snd.oyster.gin	35	uc	o
+snd.card	37	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+
+24	0	8
+snd.card	24	uc	o
+snd.oyster	34	uc	o
+snd.oyster.gin	36	uc	o
+snd.card.gin	37	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+25	0	8
+snd.oyster.gin	25	uc	o
+snd.card	25	uc	o
+snd.card.gin	38	uc	o
+snd.oyster	39	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+26	0	8
+rcv.card.fin	1	uc	o
+snd.card.gin	26	uc	o
+snd.card	26	uc	o
+snd.oyster.gin	38	uc	o
+snd.oyster	40	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+
+27	0	8
+snd.oyster	27	uc	o
+snd.card	27	uc	o
+snd.oyster.gin	39	uc	o
+snd.card.gin	40	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.fin	49	uc	o
+
+28	0	8
+rcv.card.fin	3	uc	o
+snd.card.gin	28	uc	o
+snd.oyster.gin	28	uc	o
+snd.card	38	uc	o
+snd.oyster	41	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+
+29	0	8
+snd.oyster	29	uc	o
+snd.oyster.gin	29	uc	o
+snd.card	39	uc	o
+snd.card.gin	41	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+30	0	8
+rcv.card.fin	4	uc	o
+snd.oyster	30	uc	o
+snd.card.gin	30	uc	o
+snd.card	40	uc	o
+snd.oyster.gin	41	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.gin	49	uc	o
+
+31	0	8
+snd.oyster	31	uc	o
+snd.card.gin	31	uc	o
+snd.oyster.gin	31	uc	o
+snd.card	31	uc	o
+rcv.card.gin	38	uc	o
+rcv.oyster.gin	42	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.fin	err	uc	o
+
+32	0	8
+rcv.oyster.fin	4	uc	o
+snd.oyster	32	uc	o
+snd.oyster.gin	32	uc	o
+snd.card.gin	42	uc	o
+snd.card	43	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+33	0	8
+snd.oyster	33	uc	o
+snd.card.gin	33	uc	o
+snd.oyster.gin	42	uc	o
+snd.card	44	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.gin	49	uc	o
+
+34	0	8
+snd.oyster	34	uc	o
+snd.card	34	uc	o
+snd.oyster.gin	43	uc	o
+snd.card.gin	44	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.card.fin	49	uc	o
+
+35	0	8
+rcv.oyster.fin	2	uc	o
+snd.card.gin	35	uc	o
+snd.oyster.gin	35	uc	o
+snd.oyster	42	uc	o
+snd.card	45	uc	o
+rcv.card.fin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.gin	49	uc	o
+
+36	0	8
+rcv.oyster.fin	1	uc	o
+snd.oyster.gin	36	uc	o
+snd.card	36	uc	o
+snd.oyster	43	uc	o
+snd.card.gin	45	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.gin	49	uc	o
+rcv.card.fin	49	uc	o
+
+37	0	8
+snd.card.gin	37	uc	o
+snd.card	37	uc	o
+snd.oyster	44	uc	o
+snd.oyster.gin	45	uc	o
+rcv.card.fin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+rcv.oyster.gin	49	uc	o
+
+38	0	8
+rcv.card.fin	7	uc	o
+snd.card.gin	38	uc	o
+snd.oyster.gin	38	uc	o
+snd.card	38	uc	o
+snd.oyster	46	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.gin	49	uc	o
+
+39	0	8
+snd.oyster	39	uc	o
+snd.oyster.gin	39	uc	o
+snd.card	39	uc	o
+snd.card.gin	46	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.card.fin	49	uc	o
+
+40	0	8
+rcv.card.fin	8	uc	o
+snd.oyster	40	uc	o
+snd.card.gin	40	uc	o
+snd.card	40	uc	o
+snd.oyster.gin	46	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+
+41	0	8
+rcv.card.fin	11	uc	o
+snd.oyster	41	uc	o
+snd.card.gin	41	uc	o
+snd.oyster.gin	41	uc	o
+snd.card	46	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.gin	49	uc	o
+
+42	0	8
+rcv.oyster.fin	10	uc	o
+snd.oyster	42	uc	o
+snd.card.gin	42	uc	o
+snd.oyster.gin	42	uc	o
+snd.card	47	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.fin	err	uc	o
+rcv.card.gin	49	uc	o
+
+43	0	8
+rcv.oyster.fin	8	uc	o
+snd.oyster	43	uc	o
+snd.oyster.gin	43	uc	o
+snd.card	43	uc	o
+snd.card.gin	47	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.card.fin	49	uc	o
+
+44	0	8
+snd.oyster	44	uc	o
+snd.card.gin	44	uc	o
+snd.card	44	uc	o
+snd.oyster.gin	47	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.fin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.fin	49	uc	o
+
+45	0	8
+rcv.oyster.fin	6	uc	o
+snd.card.gin	45	uc	o
+snd.oyster.gin	45	uc	o
+snd.card	45	uc	o
+snd.oyster	47	uc	o
+rcv.card.fin	err	uc	o
+rcv.card.gin	err	uc	o
+rcv.oyster.gin	49	uc	o
+
+46	0	8
+rcv.card.fin	19	uc	o
+snd.oyster	46	uc	o
+snd.card.gin	46	uc	o
+snd.oyster.gin	46	uc	o
+snd.card	46	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.card.gin	err	uc	o
+
+47	0	8
+rcv.oyster.fin	18	uc	o
+snd.oyster	47	uc	o
+snd.card.gin	47	uc	o
+snd.oyster.gin	47	uc	o
+snd.card	47	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.card.fin	err	uc	o
+rcv.card.gin	err	uc	o
+
+err	1	0
+
+49	0	8
+snd.card	49	uc	o
+rcv.card.gin	49	uc	o
+snd.oyster.gin	49	uc	o
+snd.card.gin	49	uc	o
+rcv.card.fin	49	uc	o
+rcv.oyster.fin	49	uc	o
+snd.oyster	49	uc	o
+rcv.oyster.gin	49	uc	o
+

@@ -1,0 +1,11 @@
+2
+
+0	0	2
+snd.oyster	1	uc	o
+snd.card	1	uc	o
+
+1	0	4
+rcv.oyster.gin	0	uc	o
+rcv.card.gin	0	uc	o
+snd.oyster	1	uc	o
+snd.card	1	uc	o

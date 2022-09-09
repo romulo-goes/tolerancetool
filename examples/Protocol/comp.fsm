@@ -1,0 +1,45 @@
+6
+
+('S', '1')	0	4
+s_o	('R', '2')	uc	o
+a_o	('S', '4')	uc	o
+a_n	('R', '4')	c	o
+s_n	('S', '2')	c	o
+
+('R', '2')	0	5
+a_o	('R', '4')	uc	o
+s_n	('R', '4')	c	o
+s_n	('S', '4')	c	o
+a_n	('S', '4')	c	o
+r_o	('S', '3')	uc	o
+
+('S', '4')	0	6
+s_o	('R', '4')	uc	o
+a_o	('S', '4')	uc	o
+a_n	('R', '4')	c	o
+s_n	('S', '4')	c	o
+r_n	('R', '4')	c	o
+r_n	('S', '4')	c	o
+
+('R', '4')	0	6
+a_o	('R', '4')	uc	o
+s_n	('R', '4')	c	o
+s_n	('S', '4')	c	o
+a_n	('S', '4')	c	o
+r_o	('S', '4')	uc	o
+r_n	('R', '4')	c	o
+
+('S', '2')	0	5
+s_o	('R', '4')	uc	o
+a_o	('S', '4')	uc	o
+a_n	('R', '4')	c	o
+s_n	('S', '4')	c	o
+r_n	('S', '3')	c	o
+
+('S', '3')	0	5
+s_o	('R', '4')	uc	o
+a_o	('S', '1')	uc	o
+s_n	('S', '4')	c	o
+r_n	('R', '4')	c	o
+r_n	('S', '4')	c	o
+

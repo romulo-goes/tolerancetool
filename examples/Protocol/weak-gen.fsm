@@ -1,0 +1,46 @@
+8
+
+0	0	4
+s	1	c	o
+r	err	c	o
+a	7	c	o
+g	7	c	o
+
+1	0	4
+r	2	c	o
+g	err	c	o
+s	7	c	o
+a	7	c	o
+
+2	0	4
+a	4	c	o
+g	err	c	o
+s	7	c	o
+r	7	c	o
+
+3	0	4
+s	4	c	o
+r	err	c	o
+a	7	c	o
+g	7	c	o
+
+4	0	4
+g	0	c	o
+r	err	c	o
+s	7	c	o
+a	7	c	o
+
+5	0	4
+a	1	c	o
+g	err	c	o
+s	7	c	o
+r	7	c	o
+
+err	1	0
+
+7	0	4
+s	7	c	o
+a	7	c	o
+r	7	c	o
+g	7	c	o
+

@@ -1,0 +1,15 @@
+4
+
+1	0	2
+a	2	c	o
+b	3	c	o
+
+2	0	2
+a	err	c	o
+b	1	c	o
+
+3	0	2
+a	err	c	o
+b	3	c	o
+
+err	0	0

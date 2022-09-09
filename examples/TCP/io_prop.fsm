@@ -1,0 +1,11 @@
+3
+
+I	0	2
+i	O	c	o
+o	err	c	o
+
+O	0	2
+o	I	c	o
+i	err	c	o
+
+err	0	0

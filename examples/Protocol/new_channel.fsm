@@ -1,0 +1,48 @@
+4
+
+SA	0	4
+s	RA	uc	o
+a	SG	uc	o
+s_n	SA	c	o
+a_n	SA	c	o
+
+RA	0	9
+r	SA	uc	o
+a	RG	uc	o
+s_n	SA	c	o
+a_n	SA	c	o
+s_n	RA	c	o
+a_n	RA	c	o
+s_n	SG	c	o
+a_n	SG	c	o
+s_n	RG	c	o
+
+SG	0	9
+s	RG	uc	o
+g	SA	uc	o
+s_n	SA	c	o
+a_n	SA	c	o
+s_n	RA	c	o
+a_n	RA	c	o
+s_n	SG	c	o
+a_n	SG	c	o
+a_n	RG	c	o
+
+RG	0	16
+r	SG	uc	o
+g	RA	uc	o
+s_n	SA	c	o
+a_n	SA	c	o
+r_n	SA	c	o
+g_n	SA	c	o
+s_n	RA	c	o
+r_n	RA	c	o
+a_n	RA	c	o
+s_n	SG	c	o
+a_n	SG	c	o
+g_n	SG	c	o
+s_n	RG	c	o
+r_n	RG	c	o
+g_n	RG	c	o
+a_n	RG	c	o
+

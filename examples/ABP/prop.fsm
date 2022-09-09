@@ -1,0 +1,11 @@
+3
+
+q0	0	2
+deliver	err	c	o
+send	q1	c	o
+
+q1	0	2
+deliver	q0	c	o
+send	err	c	o
+
+err	1	0

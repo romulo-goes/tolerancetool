@@ -1,0 +1,36 @@
+5
+
+1	0	6
+r_n	err	c	o
+s_n	2	c	o
+a_n	4	c	o
+r_o	err	uc	o
+s_o	2	uc	o
+a_o	4	uc	o
+
+
+2	0	6
+r_n	3	c	o
+s_n	4	c	o
+a_n	4	c	o
+r_o	3	uc	o
+s_o	4	uc	o
+a_o	4	uc	o
+
+3	0	6
+r_n	4	c	o
+s_n	4	c	o
+a_n	1	c	o
+r_o	4	uc	o
+s_o	4	uc	o
+a_o	1	uc	o
+
+4	0	6
+r_n	4	c	o
+s_n	4	c	o
+a_n	4	c	o
+r_o	4	uc	o
+s_o	4	uc	o
+a_o	4	uc	o
+
+err	0	0

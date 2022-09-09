@@ -1,0 +1,183 @@
+37
+
+2,2,0	0	3
+R	2,2,3p2	c	o
+L	2,2,p2	c	o
+M	2,3,0	c	o
+
+1,1,0	0	3
+R	1,1,3p2	c	o
+L	1,1,p2	c	o
+M	1,2,0	c	o
+
+1,1,p2	0	3
+R	1,1,0	c	o
+L	1,1,p	c	o
+M	OUT	c	o
+
+1,1,p	0	3
+R	1,1,p2	c	o
+L	1,1,3p2	c	o
+M	OUT	c	o
+
+1,1,3p2	0	3
+R	1,1,p	c	o
+L	1,1,0	c	o
+M	2,1,3p2	c	o
+
+2,1,0	0	3
+R	2,1,3p2	c	o
+L	2,1,p2	c	o
+M	2,2,0	c	o
+
+2,1,p2	0	3
+R	2,1,0	c	o
+L	2,1,p	c	o
+M	1,1,p2	c	o
+
+2,1,p	0	3
+R	2,1,p2	c	o
+L	2,1,3p2	c	o
+M	OUT	c	o
+
+2,1,3p2	0	3
+R	2,1,p	c	o
+L	2,1,0	c	o
+M	3,1,3p2	c	o
+
+3,1,0	0	3
+R	3,1,3p2	c	o
+L	3,1,p2	c	o
+M	3,2,0	c	o
+
+3,1,p2	0	3
+R	3,1,0	c	o
+L	3,1,p	c	o
+M	2,1,p2	c	o
+
+3,1,p	0	3
+R	3,1,p2	c	o
+L	3,1,3p2	c	o
+M	OUT	c	o
+
+3,1,3p2	0	3
+R	3,1,p	c	o
+L	3,1,0	c	o
+M	OUT	c	o
+
+1,2,0	0	3
+R	1,2,3p2	c	o
+L	1,2,p2	c	o
+M	1,3,0	c	o
+
+1,2,p2	0	3
+R	1,2,0	c	o
+L	1,2,p	c	o
+M	OUT	c	o
+
+1,2,p	0	3
+R	1,2,p2	c	o
+L	1,2,3p2	c	o
+M	1,1,p	c	o
+
+1,2,3p2	0	3
+R	1,2,p	c	o
+L	1,2,0	c	o
+M	2,2,3p2	c	o
+
+2,2,p2	0	3
+R	2,2,0	c	o
+L	2,2,p	c	o
+M	1,2,p2	c	o
+
+2,2,p	0	3
+R	2,2,p2	c	o
+L	2,2,3p2	c	o
+M	2,1,p	c	o
+
+2,2,3p2	0	3
+R	2,2,p	c	o
+L	2,2,0	c	o
+M	3,2,3p2	c	o
+
+3,2,0	0	3
+R	3,2,3p2	c	o
+L	3,2,p2	c	o
+M	3,3,0	c	o
+
+3,2,p2	0	3
+R	3,2,0	c	o
+L	3,2,p	c	o
+M	2,2,p2	c	o
+
+3,2,p	0	3
+R	3,2,p2	c	o
+L	3,2,3p2	c	o
+M	3,1,p	c	o
+
+3,2,3p2	0	3
+R	3,2,p	c	o
+L	3,2,0	c	o
+M	OUT	c	o
+
+1,3,0	0	3
+R	1,3,3p2	c	o
+L	1,3,p2	c	o
+M	OUT	c	o
+
+1,3,p2	0	3
+R	1,3,0	c	o
+L	1,3,p	c	o
+M	OUT	c	o
+
+1,3,p	0	3
+R	1,3,p2	c	o
+L	1,3,3p2	c	o
+M	1,2,p	c	o
+
+1,3,3p2	0	3
+R	1,3,p	c	o
+L	1,3,0	c	o
+M	2,3,3p2	c	o
+
+2,3,0	0	3
+R	2,3,3p2	c	o
+L	2,3,p2	c	o
+M	OUT	c	o
+
+2,3,p2	0	3
+R	2,3,0	c	o
+L	2,3,p	c	o
+M	1,3,p2	c	o
+
+2,3,p	0	3
+R	2,3,p2	c	o
+L	2,3,3p2	c	o
+M	2,2,p	c	o
+
+2,3,3p2	0	3
+R	2,3,p	c	o
+L	2,3,0	c	o
+M	3,3,3p2	c	o
+
+3,3,0	0	3
+R	3,3,3p2	c	o
+L	3,3,p2	c	o
+M	OUT	c	o
+
+3,3,p2	0	3
+R	3,3,0	c	o
+L	3,3,p	c	o
+M	2,3,p2	c	o
+
+3,3,p	0	3
+R	3,3,p2	c	o
+L	3,3,3p2	c	o
+M	3,2,p	c	o
+
+3,3,3p2	0	3
+R	3,3,p	c	o
+L	3,3,0	c	o
+M	OUT	c	o
+
+OUT	0	0

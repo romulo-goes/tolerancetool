@@ -1,0 +1,20 @@
+4
+
+s0	0	3
+snd.oyster	s1	uc	o
+snd.oyster_n	s0	c	o
+snd.oyster.gin_n	s3	c	o
+
+s1	0	2
+rcv.oyster.gin	s2	uc	o
+rcv.oyster.gin_n	s0	c	o
+
+s2	0	4
+snd.oyster.gin	s3	uc	o
+snd.oyster_n	s0	c	o
+snd.oyster.gin_n	s0	c	o
+snd.oyster_n	s3	c	o
+
+s3	0	2
+rcv.oyster.fin	s0	uc	o
+rcv.oyster.fin_n	s2	c	o

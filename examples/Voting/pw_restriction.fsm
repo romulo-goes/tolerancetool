@@ -1,0 +1,20 @@
+3
+
+0	0	2
+eo.enter	2	c	uo
+v.enter	1	c	uo
+
+1	0	6
+v.exit	0	c	uo
+pw	1	c	o
+sel	1	c	o
+cfm	1	c	o
+back	1	c	o
+vote	1	c	o
+
+2	0	5
+eo.exit	0	c	uo
+sel	2	c	o
+cfm	2	c	o
+back	2	c	o
+vote	2	c	o

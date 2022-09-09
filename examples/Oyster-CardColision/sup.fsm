@@ -1,0 +1,1502 @@
+468
+
+0	0	2
+snd.card	1	c	o
+snd.oyster	2	c	o
+
+1	0	2
+rcv.card.gin	3	c	o
+fg	4	uc	uo
+
+2	0	2
+rcv.oyster.gin	5	c	o
+fg	6	uc	uo
+
+3	0	1
+snd.card.gin	7	c	o
+
+4	0	2
+rcv.card.gin	8	c	o
+rmb	1	uc	uo
+
+5	0	1
+snd.oyster.gin	9	c	o
+
+6	0	2
+rmb	2	uc	uo
+rcv.oyster.gin	10	c	o
+
+7	0	1
+rcv.card.fin	11	c	o
+
+8	0	1
+snd.oyster.gin	12	c	o
+
+9	0	1
+rcv.oyster.fin	13	c	o
+
+10	0	1
+snd.card.gin	14	c	o
+
+11	0	2
+snd.card	15	c	o
+snd.oyster	17	c	o
+
+12	0	0
+
+13	0	2
+snd.card	19	c	o
+snd.oyster	20	c	o
+
+14	0	0
+
+15	0	2
+rcv.card.gin	22	c	o
+fg	24	uc	uo
+
+17	0	2
+rcv.oyster.gin	26	c	o
+fg	27	uc	uo
+
+19	0	2
+rcv.card.gin	30	c	o
+fg	31	uc	uo
+
+20	0	2
+rcv.oyster.gin	32	c	o
+fg	33	uc	uo
+
+22	0	1
+snd.card.gin	37	c	o
+
+24	0	2
+rcv.card.gin	39	c	o
+rmb	15	uc	uo
+
+26	0	1
+snd.oyster.gin	42	c	o
+
+27	0	2
+rmb	17	uc	uo
+rcv.oyster.gin	43	c	o
+
+30	0	1
+snd.card.gin	48	c	o
+
+31	0	2
+rcv.card.gin	49	c	o
+rmb	19	uc	uo
+
+32	0	1
+snd.oyster.gin	50	c	o
+
+33	0	2
+rmb	20	uc	uo
+rcv.oyster.gin	51	c	o
+
+37	0	1
+rcv.card.fin	57	c	o
+
+39	0	1
+snd.oyster.gin	58	c	o
+
+42	0	1
+rcv.oyster.fin	60	c	o
+
+43	0	1
+snd.card.gin	61	c	o
+
+48	0	1
+rcv.card.fin	60	c	o
+
+49	0	1
+snd.oyster.gin	64	c	o
+
+50	0	1
+rcv.oyster.fin	65	c	o
+
+51	0	1
+snd.card.gin	66	c	o
+
+57	0	2
+snd.card	69	c	o
+snd.oyster	70	c	o
+
+58	0	0
+
+60	0	2
+snd.card	72	c	o
+snd.oyster	73	c	o
+
+61	0	0
+
+64	0	0
+
+65	0	2
+snd.card	76	c	o
+snd.oyster	77	c	o
+
+66	0	0
+
+69	0	2
+rcv.card.gin	78	c	o
+fg	79	uc	uo
+
+70	0	2
+rcv.oyster.gin	80	c	o
+fg	81	uc	uo
+
+72	0	2
+rcv.card.gin	84	c	o
+fg	85	uc	uo
+
+73	0	2
+rcv.oyster.gin	86	c	o
+fg	87	uc	uo
+
+76	0	2
+rcv.card.gin	92	c	o
+fg	93	uc	uo
+
+77	0	2
+rcv.oyster.gin	94	c	o
+fg	95	uc	uo
+
+78	0	1
+snd.card.gin	96	c	o
+
+79	0	2
+rcv.card.gin	97	c	o
+rmb	69	uc	uo
+
+80	0	1
+snd.oyster.gin	98	c	o
+
+81	0	2
+rmb	70	uc	uo
+rcv.oyster.gin	99	c	o
+
+84	0	1
+snd.card.gin	104	c	o
+
+85	0	2
+rcv.card.gin	105	c	o
+rmb	72	uc	uo
+
+86	0	1
+snd.oyster.gin	106	c	o
+
+87	0	2
+rmb	73	uc	uo
+rcv.oyster.gin	107	c	o
+
+92	0	1
+snd.card.gin	116	c	o
+
+93	0	2
+rcv.card.gin	117	c	o
+rmb	76	uc	uo
+
+94	0	1
+snd.oyster.gin	118	c	o
+
+95	0	2
+rmb	77	uc	uo
+rcv.oyster.gin	119	c	o
+
+96	0	1
+rcv.card.fin	120	c	o
+
+97	0	1
+snd.oyster.gin	121	c	o
+
+98	0	1
+rcv.oyster.fin	122	c	o
+
+99	0	1
+snd.card.gin	123	c	o
+
+104	0	1
+rcv.card.fin	122	c	o
+
+105	0	1
+snd.oyster.gin	126	c	o
+
+106	0	1
+rcv.oyster.fin	127	c	o
+
+107	0	1
+snd.card.gin	128	c	o
+
+116	0	1
+rcv.card.fin	127	c	o
+
+117	0	1
+snd.oyster.gin	133	c	o
+
+118	0	1
+rcv.oyster.fin	134	c	o
+
+119	0	1
+snd.card.gin	135	c	o
+
+120	0	2
+snd.card	136	c	o
+snd.oyster	137	c	o
+
+121	0	0
+
+122	0	2
+snd.card	139	c	o
+snd.oyster	140	c	o
+
+123	0	0
+
+126	0	0
+
+127	0	2
+snd.card	143	c	o
+snd.oyster	144	c	o
+
+128	0	0
+
+133	0	0
+
+134	0	2
+snd.card	146	c	o
+snd.oyster	147	c	o
+
+135	0	0
+
+136	0	2
+rcv.card.gin	148	c	o
+fg	149	uc	uo
+
+137	0	2
+rcv.oyster.gin	150	c	o
+fg	151	uc	uo
+
+139	0	2
+rcv.card.gin	154	c	o
+fg	155	uc	uo
+
+140	0	2
+rcv.oyster.gin	156	c	o
+fg	157	uc	uo
+
+143	0	2
+rcv.card.gin	162	c	o
+fg	163	uc	uo
+
+144	0	2
+rcv.oyster.gin	164	c	o
+fg	165	uc	uo
+
+146	0	2
+rcv.card.gin	168	c	o
+fg	169	uc	uo
+
+147	0	2
+rcv.oyster.gin	170	c	o
+fg	171	uc	uo
+
+148	0	1
+snd.card.gin	172	c	o
+
+149	0	2
+rcv.card.gin	173	c	o
+rmb	136	uc	uo
+
+150	0	1
+snd.oyster.gin	174	c	o
+
+151	0	2
+rmb	137	uc	uo
+rcv.oyster.gin	175	c	o
+
+154	0	1
+snd.card.gin	180	c	o
+
+155	0	2
+rcv.card.gin	181	c	o
+rmb	139	uc	uo
+
+156	0	1
+snd.oyster.gin	182	c	o
+
+157	0	2
+rmb	140	uc	uo
+rcv.oyster.gin	183	c	o
+
+162	0	1
+snd.card.gin	192	c	o
+
+163	0	2
+rcv.card.gin	193	c	o
+rmb	143	uc	uo
+
+164	0	1
+snd.oyster.gin	194	c	o
+
+165	0	2
+rmb	144	uc	uo
+rcv.oyster.gin	195	c	o
+
+168	0	1
+snd.card.gin	200	c	o
+
+169	0	2
+rcv.card.gin	201	c	o
+rmb	146	uc	uo
+
+170	0	1
+snd.oyster.gin	202	c	o
+
+171	0	2
+rmb	147	uc	uo
+rcv.oyster.gin	203	c	o
+
+172	0	1
+rcv.card.fin	204	c	o
+
+173	0	1
+snd.oyster.gin	205	c	o
+
+174	0	1
+rcv.oyster.fin	206	c	o
+
+175	0	1
+snd.card.gin	207	c	o
+
+180	0	1
+rcv.card.fin	206	c	o
+
+181	0	1
+snd.oyster.gin	210	c	o
+
+182	0	1
+rcv.oyster.fin	211	c	o
+
+183	0	1
+snd.card.gin	212	c	o
+
+192	0	1
+rcv.card.fin	211	c	o
+
+193	0	1
+snd.oyster.gin	217	c	o
+
+194	0	1
+rcv.oyster.fin	218	c	o
+
+195	0	1
+snd.card.gin	219	c	o
+
+200	0	1
+rcv.card.fin	218	c	o
+
+201	0	1
+snd.oyster.gin	222	c	o
+
+202	0	1
+rcv.oyster.fin	223	c	o
+
+203	0	1
+snd.card.gin	224	c	o
+
+204	0	2
+snd.card	225	c	o
+snd.oyster	226	c	o
+
+205	0	0
+
+206	0	2
+snd.card	228	c	o
+snd.oyster	229	c	o
+
+207	0	0
+
+210	0	0
+
+211	0	2
+snd.card	232	c	o
+snd.oyster	233	c	o
+
+212	0	0
+
+217	0	0
+
+218	0	2
+snd.card	235	c	o
+snd.oyster	236	c	o
+
+219	0	0
+
+222	0	0
+
+223	0	2
+snd.card	238	c	o
+snd.oyster	239	c	o
+
+224	0	0
+
+225	0	2
+rcv.card.gin	240	c	o
+fg	241	uc	uo
+
+226	0	2
+rcv.oyster.gin	242	c	o
+fg	243	uc	uo
+
+228	0	2
+rcv.card.gin	246	c	o
+fg	247	uc	uo
+
+229	0	2
+rcv.oyster.gin	248	c	o
+fg	249	uc	uo
+
+232	0	2
+rcv.card.gin	254	c	o
+fg	255	uc	uo
+
+233	0	2
+rcv.oyster.gin	256	c	o
+fg	257	uc	uo
+
+235	0	2
+rcv.card.gin	260	c	o
+fg	261	uc	uo
+
+236	0	2
+rcv.oyster.gin	262	c	o
+fg	263	uc	uo
+
+238	0	2
+rcv.card.gin	266	c	o
+fg	267	uc	uo
+
+239	0	2
+rcv.oyster.gin	268	c	o
+fg	269	uc	uo
+
+240	0	1
+snd.card.gin	270	c	o
+
+241	0	2
+rcv.card.gin	271	c	o
+rmb	225	uc	uo
+
+242	0	1
+snd.oyster.gin	272	c	o
+
+243	0	2
+rmb	226	uc	uo
+rcv.oyster.gin	273	c	o
+
+246	0	1
+snd.card.gin	278	c	o
+
+247	0	2
+rcv.card.gin	279	c	o
+rmb	228	uc	uo
+
+248	0	1
+snd.oyster.gin	280	c	o
+
+249	0	2
+rmb	229	uc	uo
+rcv.oyster.gin	281	c	o
+
+254	0	1
+snd.card.gin	290	c	o
+
+255	0	2
+rcv.card.gin	291	c	o
+rmb	232	uc	uo
+
+256	0	1
+snd.oyster.gin	292	c	o
+
+257	0	2
+rmb	233	uc	uo
+rcv.oyster.gin	293	c	o
+
+260	0	1
+snd.card.gin	298	c	o
+
+261	0	2
+rcv.card.gin	299	c	o
+rmb	235	uc	uo
+
+262	0	1
+snd.oyster.gin	300	c	o
+
+263	0	2
+rmb	236	uc	uo
+rcv.oyster.gin	301	c	o
+
+266	0	1
+snd.card.gin	306	c	o
+
+267	0	2
+rcv.card.gin	307	c	o
+rmb	238	uc	uo
+
+268	0	1
+snd.oyster.gin	308	c	o
+
+269	0	2
+rmb	239	uc	uo
+rcv.oyster.gin	309	c	o
+
+270	0	1
+rcv.card.fin	310	c	o
+
+271	0	1
+snd.oyster.gin	311	c	o
+
+272	0	1
+rcv.oyster.fin	312	c	o
+
+273	0	1
+snd.card.gin	313	c	o
+
+278	0	1
+rcv.card.fin	312	c	o
+
+279	0	1
+snd.oyster.gin	316	c	o
+
+280	0	1
+rcv.oyster.fin	317	c	o
+
+281	0	1
+snd.card.gin	318	c	o
+
+290	0	1
+rcv.card.fin	317	c	o
+
+291	0	1
+snd.oyster.gin	323	c	o
+
+292	0	1
+rcv.oyster.fin	324	c	o
+
+293	0	1
+snd.card.gin	325	c	o
+
+298	0	1
+rcv.card.fin	324	c	o
+
+299	0	1
+snd.oyster.gin	328	c	o
+
+300	0	1
+rcv.oyster.fin	329	c	o
+
+301	0	1
+snd.card.gin	330	c	o
+
+306	0	1
+rcv.card.fin	329	c	o
+
+307	0	1
+snd.oyster.gin	333	c	o
+
+308	0	1
+rcv.oyster.fin	334	c	o
+
+309	0	1
+snd.card.gin	335	c	o
+
+310	0	2
+snd.card	336	c	o
+snd.oyster	337	c	o
+
+311	0	0
+
+312	0	2
+snd.card	339	c	o
+snd.oyster	340	c	o
+
+313	0	0
+
+316	0	0
+
+317	0	2
+snd.card	343	c	o
+snd.oyster	344	c	o
+
+318	0	0
+
+323	0	0
+
+324	0	2
+snd.card	346	c	o
+snd.oyster	347	c	o
+
+325	0	0
+
+328	0	0
+
+329	0	2
+snd.card	349	c	o
+snd.oyster	350	c	o
+
+330	0	0
+
+333	0	0
+
+334	0	2
+snd.card	352	c	o
+snd.oyster	353	c	o
+
+335	0	0
+
+336	0	2
+rcv.card.gin	354	c	o
+fg	355	uc	uo
+
+337	0	2
+rcv.oyster.gin	356	c	o
+fg	357	uc	uo
+
+339	0	2
+rcv.card.gin	360	c	o
+fg	361	uc	uo
+
+340	0	2
+rcv.oyster.gin	362	c	o
+fg	363	uc	uo
+
+343	0	2
+rcv.card.gin	368	c	o
+fg	369	uc	uo
+
+344	0	2
+rcv.oyster.gin	370	c	o
+fg	371	uc	uo
+
+346	0	2
+rcv.card.gin	374	c	o
+fg	375	uc	uo
+
+347	0	2
+rcv.oyster.gin	376	c	o
+fg	377	uc	uo
+
+349	0	2
+rcv.card.gin	380	c	o
+fg	381	uc	uo
+
+350	0	2
+rcv.oyster.gin	382	c	o
+fg	383	uc	uo
+
+352	0	2
+rcv.card.gin	386	c	o
+fg	387	uc	uo
+
+353	0	2
+rcv.oyster.gin	388	c	o
+fg	389	uc	uo
+
+354	0	1
+snd.card.gin	390	c	o
+
+355	0	2
+rcv.card.gin	391	c	o
+rmb	336	uc	uo
+
+356	0	1
+snd.oyster.gin	392	c	o
+
+357	0	2
+rmb	337	uc	uo
+rcv.oyster.gin	393	c	o
+
+360	0	1
+snd.card.gin	398	c	o
+
+361	0	2
+rcv.card.gin	399	c	o
+rmb	339	uc	uo
+
+362	0	1
+snd.oyster.gin	400	c	o
+
+363	0	2
+rmb	340	uc	uo
+rcv.oyster.gin	401	c	o
+
+368	0	1
+snd.card.gin	410	c	o
+
+369	0	2
+rcv.card.gin	411	c	o
+rmb	343	uc	uo
+
+370	0	1
+snd.oyster.gin	412	c	o
+
+371	0	2
+rmb	344	uc	uo
+rcv.oyster.gin	413	c	o
+
+374	0	1
+snd.card.gin	418	c	o
+
+375	0	2
+rcv.card.gin	419	c	o
+rmb	346	uc	uo
+
+376	0	1
+snd.oyster.gin	420	c	o
+
+377	0	2
+rmb	347	uc	uo
+rcv.oyster.gin	421	c	o
+
+380	0	1
+snd.card.gin	426	c	o
+
+381	0	2
+rcv.card.gin	427	c	o
+rmb	349	uc	uo
+
+382	0	1
+snd.oyster.gin	428	c	o
+
+383	0	2
+rmb	350	uc	uo
+rcv.oyster.gin	429	c	o
+
+386	0	1
+snd.card.gin	434	c	o
+
+387	0	2
+rcv.card.gin	435	c	o
+rmb	352	uc	uo
+
+388	0	1
+snd.oyster.gin	436	c	o
+
+389	0	2
+rmb	353	uc	uo
+rcv.oyster.gin	437	c	o
+
+390	0	0
+
+391	0	1
+snd.oyster.gin	438	c	o
+
+392	0	1
+rcv.oyster.fin	439	c	o
+
+393	0	1
+snd.card.gin	440	c	o
+
+398	0	1
+rcv.card.fin	439	c	o
+
+399	0	1
+snd.oyster.gin	443	c	o
+
+400	0	1
+rcv.oyster.fin	444	c	o
+
+401	0	1
+snd.card.gin	445	c	o
+
+410	0	1
+rcv.card.fin	444	c	o
+
+411	0	1
+snd.oyster.gin	450	c	o
+
+412	0	1
+rcv.oyster.fin	451	c	o
+
+413	0	1
+snd.card.gin	452	c	o
+
+418	0	1
+rcv.card.fin	451	c	o
+
+419	0	1
+snd.oyster.gin	455	c	o
+
+420	0	1
+rcv.oyster.fin	456	c	o
+
+421	0	1
+snd.card.gin	457	c	o
+
+426	0	1
+rcv.card.fin	456	c	o
+
+427	0	1
+snd.oyster.gin	460	c	o
+
+428	0	1
+rcv.oyster.fin	461	c	o
+
+429	0	1
+snd.card.gin	462	c	o
+
+434	0	1
+rcv.card.fin	461	c	o
+
+435	0	1
+snd.oyster.gin	465	c	o
+
+436	0	0
+
+437	0	1
+snd.card.gin	466	c	o
+
+438	0	0
+
+439	0	2
+snd.card	468	c	o
+snd.oyster	469	c	o
+
+440	0	0
+
+443	0	0
+
+444	0	2
+snd.card	471	c	o
+snd.oyster	472	c	o
+
+445	0	0
+
+450	0	0
+
+451	0	2
+snd.card	474	c	o
+snd.oyster	475	c	o
+
+452	0	0
+
+455	0	0
+
+456	0	2
+snd.card	477	c	o
+snd.oyster	478	c	o
+
+457	0	0
+
+460	0	0
+
+461	0	2
+snd.card	480	c	o
+snd.oyster	481	c	o
+
+462	0	0
+
+465	0	0
+
+466	0	0
+
+468	0	2
+rcv.card.gin	484	c	o
+fg	485	uc	uo
+
+469	0	2
+rcv.oyster.gin	486	c	o
+fg	487	uc	uo
+
+471	0	2
+rcv.card.gin	490	c	o
+fg	491	uc	uo
+
+472	0	2
+rcv.oyster.gin	492	c	o
+fg	493	uc	uo
+
+474	0	2
+rcv.card.gin	496	c	o
+fg	497	uc	uo
+
+475	0	2
+rcv.oyster.gin	498	c	o
+fg	499	uc	uo
+
+477	0	2
+rcv.card.gin	502	c	o
+fg	503	uc	uo
+
+478	0	2
+rcv.oyster.gin	504	c	o
+fg	505	uc	uo
+
+480	0	2
+rcv.card.gin	508	c	o
+fg	509	uc	uo
+
+481	0	2
+rcv.oyster.gin	510	c	o
+fg	511	uc	uo
+
+484	0	1
+snd.card.gin	516	c	o
+
+485	0	2
+rcv.card.gin	517	c	o
+rmb	468	uc	uo
+
+486	0	1
+snd.oyster.gin	518	c	o
+
+487	0	2
+rmb	469	uc	uo
+rcv.oyster.gin	519	c	o
+
+490	0	1
+snd.card.gin	524	c	o
+
+491	0	2
+rcv.card.gin	525	c	o
+rmb	471	uc	uo
+
+492	0	1
+snd.oyster.gin	526	c	o
+
+493	0	2
+rmb	472	uc	uo
+rcv.oyster.gin	527	c	o
+
+496	0	1
+snd.card.gin	532	c	o
+
+497	0	2
+rcv.card.gin	533	c	o
+rmb	474	uc	uo
+
+498	0	1
+snd.oyster.gin	534	c	o
+
+499	0	2
+rmb	475	uc	uo
+rcv.oyster.gin	535	c	o
+
+502	0	1
+snd.card.gin	540	c	o
+
+503	0	2
+rcv.card.gin	541	c	o
+rmb	477	uc	uo
+
+504	0	1
+snd.oyster.gin	542	c	o
+
+505	0	2
+rmb	478	uc	uo
+rcv.oyster.gin	543	c	o
+
+508	0	1
+snd.card.gin	548	c	o
+
+509	0	2
+rcv.card.gin	549	c	o
+rmb	480	uc	uo
+
+510	0	1
+snd.oyster.gin	550	c	o
+
+511	0	2
+rmb	481	uc	uo
+rcv.oyster.gin	551	c	o
+
+516	0	0
+
+517	0	1
+snd.oyster.gin	554	c	o
+
+518	0	1
+rcv.oyster.fin	555	c	o
+
+519	0	1
+snd.card.gin	556	c	o
+
+524	0	1
+rcv.card.fin	555	c	o
+
+525	0	1
+snd.oyster.gin	559	c	o
+
+526	0	1
+rcv.oyster.fin	560	c	o
+
+527	0	1
+snd.card.gin	561	c	o
+
+532	0	1
+rcv.card.fin	560	c	o
+
+533	0	1
+snd.oyster.gin	564	c	o
+
+534	0	1
+rcv.oyster.fin	565	c	o
+
+535	0	1
+snd.card.gin	566	c	o
+
+540	0	1
+rcv.card.fin	565	c	o
+
+541	0	1
+snd.oyster.gin	569	c	o
+
+542	0	1
+rcv.oyster.fin	570	c	o
+
+543	0	1
+snd.card.gin	571	c	o
+
+548	0	1
+rcv.card.fin	570	c	o
+
+549	0	1
+snd.oyster.gin	574	c	o
+
+550	0	0
+
+551	0	1
+snd.card.gin	575	c	o
+
+554	0	0
+
+555	0	2
+snd.card	577	c	o
+snd.oyster	578	c	o
+
+556	0	0
+
+559	0	0
+
+560	0	2
+snd.card	580	c	o
+snd.oyster	581	c	o
+
+561	0	0
+
+564	0	0
+
+565	0	2
+snd.card	583	c	o
+snd.oyster	584	c	o
+
+566	0	0
+
+569	0	0
+
+570	0	2
+snd.card	586	c	o
+snd.oyster	587	c	o
+
+571	0	0
+
+574	0	0
+
+575	0	0
+
+577	0	2
+rcv.card.gin	590	c	o
+fg	591	uc	uo
+
+578	0	2
+rcv.oyster.gin	592	c	o
+fg	593	uc	uo
+
+580	0	2
+rcv.card.gin	596	c	o
+fg	597	uc	uo
+
+581	0	2
+rcv.oyster.gin	598	c	o
+fg	599	uc	uo
+
+583	0	2
+rcv.card.gin	602	c	o
+fg	603	uc	uo
+
+584	0	2
+rcv.oyster.gin	604	c	o
+fg	605	uc	uo
+
+586	0	2
+rcv.card.gin	608	c	o
+fg	609	uc	uo
+
+587	0	2
+rcv.oyster.gin	610	c	o
+fg	611	uc	uo
+
+590	0	1
+snd.card.gin	616	c	o
+
+591	0	2
+rcv.card.gin	617	c	o
+rmb	577	uc	uo
+
+592	0	1
+snd.oyster.gin	618	c	o
+
+593	0	2
+rmb	578	uc	uo
+rcv.oyster.gin	619	c	o
+
+596	0	1
+snd.card.gin	624	c	o
+
+597	0	2
+rcv.card.gin	625	c	o
+rmb	580	uc	uo
+
+598	0	1
+snd.oyster.gin	626	c	o
+
+599	0	2
+rmb	581	uc	uo
+rcv.oyster.gin	627	c	o
+
+602	0	1
+snd.card.gin	632	c	o
+
+603	0	2
+rcv.card.gin	633	c	o
+rmb	583	uc	uo
+
+604	0	1
+snd.oyster.gin	634	c	o
+
+605	0	2
+rmb	584	uc	uo
+rcv.oyster.gin	635	c	o
+
+608	0	1
+snd.card.gin	640	c	o
+
+609	0	2
+rcv.card.gin	641	c	o
+rmb	586	uc	uo
+
+610	0	1
+snd.oyster.gin	642	c	o
+
+611	0	2
+rmb	587	uc	uo
+rcv.oyster.gin	643	c	o
+
+616	0	0
+
+617	0	1
+snd.oyster.gin	646	c	o
+
+618	0	1
+rcv.oyster.fin	647	c	o
+
+619	0	1
+snd.card.gin	648	c	o
+
+624	0	1
+rcv.card.fin	647	c	o
+
+625	0	1
+snd.oyster.gin	651	c	o
+
+626	0	1
+rcv.oyster.fin	652	c	o
+
+627	0	1
+snd.card.gin	653	c	o
+
+632	0	1
+rcv.card.fin	652	c	o
+
+633	0	1
+snd.oyster.gin	656	c	o
+
+634	0	1
+rcv.oyster.fin	657	c	o
+
+635	0	1
+snd.card.gin	658	c	o
+
+640	0	1
+rcv.card.fin	657	c	o
+
+641	0	1
+snd.oyster.gin	661	c	o
+
+642	0	0
+
+643	0	1
+snd.card.gin	662	c	o
+
+646	0	0
+
+647	0	2
+snd.card	664	c	o
+snd.oyster	665	c	o
+
+648	0	0
+
+651	0	0
+
+652	0	2
+snd.card	667	c	o
+snd.oyster	668	c	o
+
+653	0	0
+
+656	0	0
+
+657	0	2
+snd.card	670	c	o
+snd.oyster	671	c	o
+
+658	0	0
+
+661	0	0
+
+662	0	0
+
+664	0	2
+fg	674	uc	uo
+rcv.card.gin	675	c	o
+
+665	0	2
+rcv.oyster.gin	676	c	o
+fg	677	uc	uo
+
+667	0	2
+fg	680	uc	uo
+rcv.card.gin	681	c	o
+
+668	0	2
+rcv.oyster.gin	682	c	o
+fg	683	uc	uo
+
+670	0	2
+fg	686	uc	uo
+rcv.card.gin	687	c	o
+
+671	0	2
+rcv.oyster.gin	688	c	o
+fg	689	uc	uo
+
+674	0	2
+rcv.card.gin	694	c	o
+rmb	664	uc	uo
+
+675	0	1
+snd.card.gin	695	c	o
+
+676	0	1
+snd.oyster.gin	696	c	o
+
+677	0	2
+rcv.oyster.gin	697	c	o
+rmb	665	uc	uo
+
+680	0	2
+rcv.card.gin	702	c	o
+rmb	667	uc	uo
+
+681	0	1
+snd.card.gin	703	c	o
+
+682	0	1
+snd.oyster.gin	704	c	o
+
+683	0	2
+rcv.oyster.gin	705	c	o
+rmb	668	uc	uo
+
+686	0	2
+rcv.card.gin	710	c	o
+rmb	670	uc	uo
+
+687	0	1
+snd.card.gin	711	c	o
+
+688	0	1
+snd.oyster.gin	712	c	o
+
+689	0	2
+rcv.oyster.gin	713	c	o
+rmb	671	uc	uo
+
+694	0	1
+snd.oyster.gin	716	c	o
+
+695	0	0
+
+696	0	1
+rcv.oyster.fin	717	c	o
+
+697	0	1
+snd.card.gin	718	c	o
+
+702	0	1
+snd.oyster.gin	721	c	o
+
+703	0	1
+rcv.card.fin	717	c	o
+
+704	0	1
+rcv.oyster.fin	722	c	o
+
+705	0	1
+snd.card.gin	723	c	o
+
+710	0	1
+snd.oyster.gin	726	c	o
+
+711	0	1
+rcv.card.fin	722	c	o
+
+712	0	0
+
+713	0	1
+snd.card.gin	727	c	o
+
+716	0	0
+
+717	0	2
+snd.card	729	c	o
+snd.oyster	730	c	o
+
+718	0	0
+
+721	0	0
+
+722	0	2
+snd.card	732	c	o
+snd.oyster	733	c	o
+
+723	0	0
+
+726	0	0
+
+727	0	0
+
+729	0	2
+fg	736	uc	uo
+rcv.card.gin	737	c	o
+
+730	0	2
+rcv.oyster.gin	738	c	o
+fg	739	uc	uo
+
+732	0	2
+fg	742	uc	uo
+rcv.card.gin	743	c	o
+
+733	0	2
+rcv.oyster.gin	744	c	o
+fg	745	uc	uo
+
+736	0	2
+rcv.card.gin	750	c	o
+rmb	729	uc	uo
+
+737	0	1
+snd.card.gin	751	c	o
+
+738	0	1
+snd.oyster.gin	752	c	o
+
+739	0	2
+rcv.oyster.gin	753	c	o
+rmb	730	uc	uo
+
+742	0	2
+rcv.card.gin	758	c	o
+rmb	732	uc	uo
+
+743	0	1
+snd.card.gin	759	c	o
+
+744	0	1
+snd.oyster.gin	760	c	o
+
+745	0	2
+rcv.oyster.gin	761	c	o
+rmb	733	uc	uo
+
+750	0	1
+snd.oyster.gin	764	c	o
+
+751	0	0
+
+752	0	1
+rcv.oyster.fin	765	c	o
+
+753	0	1
+snd.card.gin	766	c	o
+
+758	0	1
+snd.oyster.gin	769	c	o
+
+759	0	1
+rcv.card.fin	765	c	o
+
+760	0	0
+
+761	0	1
+snd.card.gin	770	c	o
+
+764	0	0
+
+765	0	2
+snd.card	772	c	o
+snd.oyster	773	c	o
+
+766	0	0
+
+769	0	0
+
+770	0	0
+
+772	0	2
+fg	776	uc	uo
+rcv.card.gin	777	c	o
+
+773	0	2
+rcv.oyster.gin	778	c	o
+fg	779	uc	uo
+
+776	0	2
+rcv.card.gin	784	c	o
+rmb	772	uc	uo
+
+777	0	1
+snd.card.gin	785	c	o
+
+778	0	1
+snd.oyster.gin	786	c	o
+
+779	0	2
+rcv.oyster.gin	787	c	o
+rmb	773	uc	uo
+
+784	0	1
+snd.oyster.gin	790	c	o
+
+785	0	0
+
+786	0	0
+
+787	0	1
+snd.card.gin	791	c	o
+
+790	0	0
+
+791	0	0
+

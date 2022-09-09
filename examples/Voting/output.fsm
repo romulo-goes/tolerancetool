@@ -1,0 +1,103 @@
+10
+
+0	0	9
+v.enter	0	c	o
+v.exit	0	c	o
+eo.enter	1	c	o
+sel	2	c	o
+eo.exit	9	c	o
+back	9	c	o
+vote	9	c	o
+cfm	9	c	o
+pw	9	c	o
+
+1	0	9
+eo.exit	0	c	o
+sel	3	c	o
+back	9	c	o
+vote	9	c	o
+v.exit	9	c	o
+cfm	9	c	o
+pw	9	c	o
+eo.enter	9	c	o
+v.enter	9	c	o
+
+2	0	9
+back	0	c	o
+v.enter	2	c	o
+v.exit	2	c	o
+eo.enter	3	c	o
+vote	4	c	o
+sel	9	c	o
+cfm	9	c	o
+eo.exit	9	c	o
+pw	9	c	o
+
+3	0	9
+back	1	c	o
+eo.exit	2	c	o
+vote	5	c	o
+sel	9	c	o
+v.exit	9	c	o
+cfm	9	c	o
+pw	9	c	o
+eo.enter	9	c	o
+v.enter	9	c	o
+
+4	0	9
+back	2	c	o
+v.enter	4	c	o
+v.exit	4	c	o
+eo.enter	5	c	o
+pw	6	c	o
+sel	9	c	o
+vote	9	c	o
+cfm	9	c	o
+eo.exit	9	c	o
+
+5	0	9
+back	3	c	o
+eo.exit	4	c	o
+pw	7	c	o
+sel	9	c	o
+vote	9	c	o
+v.exit	9	c	o
+cfm	9	c	o
+eo.enter	9	c	o
+v.enter	9	c	o
+
+6	0	9
+cfm	0	c	o
+v.exit	6	c	o
+v.enter	6	c	o
+eo.enter	7	c	o
+eo.exit	9	c	o
+back	9	c	o
+sel	9	c	o
+vote	9	c	o
+pw	9	c	o
+
+7	0	9
+eo.exit	6	c	o
+cfm	err	c	o
+back	9	c	o
+sel	9	c	o
+vote	9	c	o
+v.exit	9	c	o
+pw	9	c	o
+eo.enter	9	c	o
+v.enter	9	c	o
+
+err	1	0
+
+9	0	9
+v.enter	9	c	o
+eo.exit	9	c	o
+back	9	c	o
+sel	9	c	o
+vote	9	c	o
+v.exit	9	c	o
+cfm	9	c	o
+pw	9	c	o
+eo.enter	9	c	o
+

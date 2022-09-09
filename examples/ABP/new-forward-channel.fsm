@@ -1,0 +1,30 @@
+3
+
+f0	0	6
+p0	f0	uc	o
+p1	f0	uc	o
+p0	f1	uc	o
+p1	f2	uc	o
+p1	f1	uc	o
+p0	f2	uc	o
+
+f1	0	8
+p0	f1	uc	o
+p1	f1	uc	o
+p0p	f1	uc	o
+p0p	f0	uc	o
+p0	f0	uc	o
+p1	f0	uc	o
+p1	f2	uc	o
+p0	f2	uc	o
+
+f2	0	8
+p0	f2	uc	o
+p1	f2	uc	o
+p1p	f2	uc	o
+p1p	f0	uc	o
+p0	f0	uc	o
+p1	f0	uc	o
+p1	f1	uc	o
+p0	f1	uc	o
+

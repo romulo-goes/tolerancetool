@@ -1,0 +1,34 @@
+6
+
+0	0	4
+a	1	uc	o
+b	err	uc	o
+a_n	1	c	o
+b_n	err	c	o
+
+1	0	4
+a	2	uc	o
+b	3	uc	o
+a_n	2	c	o
+b_n	3	c	o
+
+2	0	4
+b	0	uc	o
+a	2	uc	o
+b_n	0	c	o
+a_n	2	c	o
+
+3	0	4
+a	1	uc	o
+b	3	uc	o
+a_n	1	c	o
+b_n	3	c	o
+
+err	1	0
+
+5	0	4
+a	5	uc	o
+b	5	uc	o
+a_n	5	c	o
+b_n	5	c	o
+

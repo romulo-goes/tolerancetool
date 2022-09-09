@@ -1,0 +1,7 @@
+2
+
+s0c	0	1
+send	s1c	c	o
+
+s1c	0	1
+done	s0c	c	o

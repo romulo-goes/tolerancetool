@@ -1,0 +1,387 @@
+21
+
+('s0', '0')	0	15
+v.enter	('s0', '1')	uc	uo
+v.enter	('s1', '1')	uc	uo
+v.enter	('s1', '1')	uc	uo
+v.enter	('s2', '1')	uc	uo
+v.enter	('s3', '1')	uc	uo
+v.enter	('s4', '1')	uc	uo
+v.enter	('s5', '1')	uc	uo
+v.enter	('s6', '1')	uc	uo
+eo.enter	('s0', '2')	uc	uo
+eo.enter	('s2', '2')	uc	uo
+eo.enter	('s3', '2')	uc	uo
+eo.enter	('s4', '2')	uc	uo
+eo.enter	('s5', '2')	uc	uo
+eo.enter	('s6', '2')	uc	uo
+eo.enter	('s6', '2')	uc	uo
+
+('s0', '1')	0	18
+pw	('s1', '1')	uc	o
+pw	('s3', '1')	uc	o
+pw	('s4', '1')	uc	o
+back	('s0', '1')	c	o
+vote	('s0', '1')	uc	o
+vote	('s1', '1')	uc	o
+vote	('s5', '1')	uc	o
+sel	('s0', '1')	uc	o
+sel	('s1', '1')	uc	o
+sel	('s4', '1')	uc	o
+sel	('s5', '1')	uc	o
+v.exit	('s0', '0')	uc	uo
+v.exit	('s1', '0')	uc	uo
+v.exit	('s2', '0')	uc	uo
+v.exit	('s3', '0')	uc	uo
+v.exit	('s4', '0')	uc	uo
+v.exit	('s5', '0')	uc	uo
+v.exit	('s6', '0')	uc	uo
+
+('s1', '1')	0	15
+pw	('s1', '1')	uc	o
+pw	('s2', '1')	uc	o
+pw	('s2', '1')	uc	o
+pw	('s3', '1')	uc	o
+pw	('s4', '1')	uc	o
+pw	('s6', '1')	uc	o
+back	('s1', '1')	c	o
+vote	('s1', '1')	uc	o
+sel	('s1', '1')	uc	o
+sel	('s4', '1')	uc	o
+v.exit	('s1', '0')	uc	uo
+v.exit	('s2', '0')	uc	uo
+v.exit	('s3', '0')	uc	uo
+v.exit	('s4', '0')	uc	uo
+v.exit	('s6', '0')	uc	uo
+
+('s2', '1')	0	27
+pw	('s1', '1')	uc	o
+pw	('s3', '1')	uc	o
+pw	('s4', '1')	uc	o
+back	('s2', '1')	c	o
+vote	('s1', '1')	uc	o
+vote	('s2', '1')	uc	o
+vote	('s3', '1')	uc	o
+vote	('s4', '1')	uc	o
+vote	('s6', '1')	uc	o
+sel	('s1', '1')	uc	o
+sel	('s2', '1')	uc	o
+sel	('s3', '1')	uc	o
+sel	('s3', '1')	uc	o
+sel	('s4', '1')	uc	o
+sel	('s6', '1')	uc	o
+cfm	('s0', '1')	uc	o
+cfm	('s1', '1')	uc	o
+cfm	('s2', '1')	uc	o
+cfm	('s3', '1')	uc	o
+cfm	('s4', '1')	uc	o
+cfm	('s5', '1')	uc	o
+cfm	('s6', '1')	uc	o
+v.exit	('s1', '0')	uc	uo
+v.exit	('s2', '0')	uc	uo
+v.exit	('s3', '0')	uc	uo
+v.exit	('s4', '0')	uc	uo
+v.exit	('s6', '0')	uc	uo
+
+('s3', '1')	0	24
+pw	('s1', '1')	uc	o
+pw	('s3', '1')	uc	o
+pw	('s4', '1')	uc	o
+back	('s3', '1')	c	o
+vote	('s1', '1')	uc	o
+vote	('s2', '1')	uc	o
+vote	('s3', '1')	uc	o
+vote	('s4', '1')	uc	o
+vote	('s4', '1')	uc	o
+vote	('s6', '1')	uc	o
+sel	('s1', '1')	uc	o
+sel	('s4', '1')	uc	o
+cfm	('s0', '1')	uc	o
+cfm	('s1', '1')	uc	o
+cfm	('s2', '1')	uc	o
+cfm	('s3', '1')	uc	o
+cfm	('s4', '1')	uc	o
+cfm	('s5', '1')	uc	o
+cfm	('s6', '1')	uc	o
+v.exit	('s1', '0')	uc	uo
+v.exit	('s2', '0')	uc	uo
+v.exit	('s3', '0')	uc	uo
+v.exit	('s4', '0')	uc	uo
+v.exit	('s6', '0')	uc	uo
+
+('s4', '1')	0	20
+pw	('s1', '1')	uc	o
+pw	('s3', '1')	uc	o
+pw	('s4', '1')	uc	o
+back	('s4', '1')	c	o
+vote	('s1', '1')	uc	o
+sel	('s1', '1')	uc	o
+sel	('s4', '1')	uc	o
+cfm	('s0', '1')	uc	o
+cfm	('s1', '1')	uc	o
+cfm	('s2', '1')	uc	o
+cfm	('s3', '1')	uc	o
+cfm	('s4', '1')	uc	o
+cfm	('s5', '1')	uc	o
+cfm	('s5', '1')	uc	o
+cfm	('s6', '1')	uc	o
+v.exit	('s1', '0')	uc	uo
+v.exit	('s2', '0')	uc	uo
+v.exit	('s3', '0')	uc	uo
+v.exit	('s4', '0')	uc	uo
+v.exit	('s6', '0')	uc	uo
+
+('s5', '1')	0	19
+pw	('s1', '1')	uc	o
+pw	('s3', '1')	uc	o
+pw	('s4', '1')	uc	o
+back	('s5', '1')	c	o
+vote	('s0', '1')	uc	o
+vote	('s1', '1')	uc	o
+vote	('s5', '1')	uc	o
+sel	('s0', '1')	uc	o
+sel	('s1', '1')	uc	o
+sel	('s4', '1')	uc	o
+sel	('s5', '1')	uc	o
+v.exit	('s0', '0')	uc	uo
+v.exit	('s0', '0')	uc	uo
+v.exit	('s1', '0')	uc	uo
+v.exit	('s2', '0')	uc	uo
+v.exit	('s3', '0')	uc	uo
+v.exit	('s4', '0')	uc	uo
+v.exit	('s5', '0')	uc	uo
+v.exit	('s6', '0')	uc	uo
+
+('s6', '1')	0	29
+pw	('s1', '1')	uc	o
+pw	('s3', '1')	uc	o
+pw	('s4', '1')	uc	o
+back	('s6', '1')	c	o
+vote	('s1', '1')	uc	o
+vote	('s2', '1')	uc	o
+vote	('s3', '1')	uc	o
+vote	('s4', '1')	uc	o
+vote	('s6', '1')	uc	o
+vote	('s6', '1')	uc	o
+sel	('s1', '1')	uc	o
+sel	('s2', '1')	uc	o
+sel	('s3', '1')	uc	o
+sel	('s4', '1')	uc	o
+sel	('s6', '1')	uc	o
+sel	('s6', '1')	uc	o
+cfm	('s0', '1')	uc	o
+cfm	('s1', '1')	uc	o
+cfm	('s2', '1')	uc	o
+cfm	('s3', '1')	uc	o
+cfm	('s4', '1')	uc	o
+cfm	('s5', '1')	uc	o
+cfm	('s6', '1')	uc	o
+cfm	('s6', '1')	uc	o
+v.exit	('s1', '0')	uc	uo
+v.exit	('s2', '0')	uc	uo
+v.exit	('s3', '0')	uc	uo
+v.exit	('s4', '0')	uc	uo
+v.exit	('s6', '0')	uc	uo
+
+('s0', '2')	0	13
+back	('s0', '2')	c	o
+vote	('s0', '2')	uc	o
+vote	('s1', '2')	uc	o
+vote	('s5', '2')	uc	o
+sel	('s0', '2')	uc	o
+sel	('s1', '2')	uc	o
+sel	('s4', '2')	uc	o
+sel	('s5', '2')	uc	o
+eo.exit	('s1', '0')	uc	uo
+eo.exit	('s2', '0')	uc	uo
+eo.exit	('s3', '0')	uc	uo
+eo.exit	('s4', '0')	uc	uo
+eo.exit	('s6', '0')	uc	uo
+
+('s2', '2')	0	26
+back	('s2', '2')	c	o
+vote	('s1', '2')	uc	o
+vote	('s2', '2')	uc	o
+vote	('s3', '2')	uc	o
+vote	('s4', '2')	uc	o
+vote	('s6', '2')	uc	o
+sel	('s1', '2')	uc	o
+sel	('s2', '2')	uc	o
+sel	('s3', '2')	uc	o
+sel	('s3', '2')	uc	o
+sel	('s4', '2')	uc	o
+sel	('s6', '2')	uc	o
+eo.exit	('s0', '0')	uc	uo
+eo.exit	('s1', '0')	uc	uo
+eo.exit	('s2', '0')	uc	uo
+eo.exit	('s3', '0')	uc	uo
+eo.exit	('s4', '0')	uc	uo
+eo.exit	('s5', '0')	uc	uo
+eo.exit	('s6', '0')	uc	uo
+cfm	('s0', '2')	uc	o
+cfm	('s1', '2')	uc	o
+cfm	('s2', '2')	uc	o
+cfm	('s3', '2')	uc	o
+cfm	('s4', '2')	uc	o
+cfm	('s5', '2')	uc	o
+cfm	('s6', '2')	uc	o
+
+('s3', '2')	0	21
+back	('s3', '2')	c	o
+vote	('s1', '2')	uc	o
+vote	('s2', '2')	uc	o
+vote	('s3', '2')	uc	o
+vote	('s4', '2')	uc	o
+vote	('s4', '2')	uc	o
+vote	('s6', '2')	uc	o
+sel	('s1', '2')	uc	o
+sel	('s4', '2')	uc	o
+eo.exit	('s1', '0')	uc	uo
+eo.exit	('s2', '0')	uc	uo
+eo.exit	('s3', '0')	uc	uo
+eo.exit	('s4', '0')	uc	uo
+eo.exit	('s6', '0')	uc	uo
+cfm	('s0', '2')	uc	o
+cfm	('s1', '2')	uc	o
+cfm	('s2', '2')	uc	o
+cfm	('s3', '2')	uc	o
+cfm	('s4', '2')	uc	o
+cfm	('s5', '2')	uc	o
+cfm	('s6', '2')	uc	o
+
+('s4', '2')	0	17
+back	('s4', '2')	c	o
+vote	('s1', '2')	uc	o
+sel	('s1', '2')	uc	o
+sel	('s4', '2')	uc	o
+eo.exit	('s1', '0')	uc	uo
+eo.exit	('s2', '0')	uc	uo
+eo.exit	('s3', '0')	uc	uo
+eo.exit	('s4', '0')	uc	uo
+eo.exit	('s6', '0')	uc	uo
+cfm	('s0', '2')	uc	o
+cfm	('s1', '2')	uc	o
+cfm	('s2', '2')	uc	o
+cfm	('s3', '2')	uc	o
+cfm	('s4', '2')	uc	o
+cfm	('s5', '2')	uc	o
+cfm	('s5', '2')	uc	o
+cfm	('s6', '2')	uc	o
+
+('s5', '2')	0	13
+back	('s5', '2')	c	o
+vote	('s0', '2')	uc	o
+vote	('s1', '2')	uc	o
+vote	('s5', '2')	uc	o
+sel	('s0', '2')	uc	o
+sel	('s1', '2')	uc	o
+sel	('s4', '2')	uc	o
+sel	('s5', '2')	uc	o
+eo.exit	('s1', '0')	uc	uo
+eo.exit	('s2', '0')	uc	uo
+eo.exit	('s3', '0')	uc	uo
+eo.exit	('s4', '0')	uc	uo
+eo.exit	('s6', '0')	uc	uo
+
+('s6', '2')	0	29
+back	('s6', '2')	c	o
+vote	('s1', '2')	uc	o
+vote	('s2', '2')	uc	o
+vote	('s3', '2')	uc	o
+vote	('s4', '2')	uc	o
+vote	('s6', '2')	uc	o
+vote	('s6', '2')	uc	o
+sel	('s1', '2')	uc	o
+sel	('s2', '2')	uc	o
+sel	('s3', '2')	uc	o
+sel	('s4', '2')	uc	o
+sel	('s6', '2')	uc	o
+sel	('s6', '2')	uc	o
+eo.exit	('s0', '0')	uc	uo
+eo.exit	('s0', '0')	uc	uo
+eo.exit	('s1', '0')	uc	uo
+eo.exit	('s2', '0')	uc	uo
+eo.exit	('s3', '0')	uc	uo
+eo.exit	('s4', '0')	uc	uo
+eo.exit	('s5', '0')	uc	uo
+eo.exit	('s6', '0')	uc	uo
+cfm	('s0', '2')	uc	o
+cfm	('s1', '2')	uc	o
+cfm	('s2', '2')	uc	o
+cfm	('s3', '2')	uc	o
+cfm	('s4', '2')	uc	o
+cfm	('s5', '2')	uc	o
+cfm	('s6', '2')	uc	o
+cfm	('s6', '2')	uc	o
+
+('s1', '0')	0	7
+v.enter	('s1', '1')	uc	uo
+v.enter	('s2', '1')	uc	uo
+v.enter	('s3', '1')	uc	uo
+v.enter	('s4', '1')	uc	uo
+v.enter	('s6', '1')	uc	uo
+eo.enter	('s0', '2')	uc	uo
+eo.enter	('s5', '2')	uc	uo
+
+('s2', '0')	0	7
+v.enter	('s1', '1')	uc	uo
+v.enter	('s2', '1')	uc	uo
+v.enter	('s3', '1')	uc	uo
+v.enter	('s4', '1')	uc	uo
+v.enter	('s6', '1')	uc	uo
+eo.enter	('s0', '2')	uc	uo
+eo.enter	('s5', '2')	uc	uo
+
+('s3', '0')	0	7
+v.enter	('s1', '1')	uc	uo
+v.enter	('s2', '1')	uc	uo
+v.enter	('s3', '1')	uc	uo
+v.enter	('s4', '1')	uc	uo
+v.enter	('s6', '1')	uc	uo
+eo.enter	('s0', '2')	uc	uo
+eo.enter	('s5', '2')	uc	uo
+
+('s4', '0')	0	7
+v.enter	('s1', '1')	uc	uo
+v.enter	('s2', '1')	uc	uo
+v.enter	('s3', '1')	uc	uo
+v.enter	('s4', '1')	uc	uo
+v.enter	('s6', '1')	uc	uo
+eo.enter	('s0', '2')	uc	uo
+eo.enter	('s5', '2')	uc	uo
+
+('s5', '0')	0	13
+v.enter	('s0', '1')	uc	uo
+v.enter	('s1', '1')	uc	uo
+v.enter	('s2', '1')	uc	uo
+v.enter	('s3', '1')	uc	uo
+v.enter	('s4', '1')	uc	uo
+v.enter	('s5', '1')	uc	uo
+v.enter	('s6', '1')	uc	uo
+eo.enter	('s0', '2')	uc	uo
+eo.enter	('s2', '2')	uc	uo
+eo.enter	('s3', '2')	uc	uo
+eo.enter	('s4', '2')	uc	uo
+eo.enter	('s5', '2')	uc	uo
+eo.enter	('s6', '2')	uc	uo
+
+('s6', '0')	0	7
+v.enter	('s1', '1')	uc	uo
+v.enter	('s2', '1')	uc	uo
+v.enter	('s3', '1')	uc	uo
+v.enter	('s4', '1')	uc	uo
+v.enter	('s6', '1')	uc	uo
+eo.enter	('s0', '2')	uc	uo
+eo.enter	('s5', '2')	uc	uo
+
+('s1', '2')	0	9
+back	('s1', '2')	c	o
+vote	('s1', '2')	uc	o
+sel	('s1', '2')	uc	o
+sel	('s4', '2')	uc	o
+eo.exit	('s1', '0')	uc	uo
+eo.exit	('s2', '0')	uc	uo
+eo.exit	('s3', '0')	uc	uo
+eo.exit	('s4', '0')	uc	uo
+eo.exit	('s6', '0')	uc	uo
+

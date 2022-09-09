@@ -1,0 +1,47 @@
+4
+
+SA	0	4
+s	RA	uc	o
+a	SG	uc	o
+s	SA	c	o
+a	SA	c	o
+
+RA	0	9
+r	SA	uc	o
+a	RG	uc	o
+s	SA	c	o
+a	SA	c	o
+s	RA	c	o
+a	RA	c	o
+s	SG	c	o
+a	SG	c	o
+s	RG	c	o
+
+SG	0	9
+s	RG	uc	o
+g	SA	uc	o
+s	SA	c	o
+a	SA	c	o
+s	RA	c	o
+a	RA	c	o
+s	SG	c	o
+a	SG	c	o
+a	RG	c	o
+
+RG	0	16
+r	SG	uc	o
+g	RA	uc	o
+r	SA	c	o
+g	SA	c	o
+r	RA	c	o
+g	SG	c	o
+r	RG	c	o
+g	RG	c	o
+a	RG	c	o
+a	SG	c	o
+a	SA	c	o
+a	RA	c	o
+s	RG	c	o
+s	SG	c	o
+s	SA	c	o
+s	RA	c	o

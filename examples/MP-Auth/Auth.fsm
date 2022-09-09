@@ -1,0 +1,15 @@
+3
+
+0	0	4
+bA.m1	1	c	uo
+bB.m1	1	c	uo
+eA.m1	err	c	uo
+eB.m1	err	c	uo
+
+1	0	4
+bA.m1	1	c	uo
+bB.m1	1	c	uo
+eA.m1	1	c	uo
+eB.m1	1	c	uo
+
+err	0	0

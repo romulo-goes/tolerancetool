@@ -1,0 +1,32 @@
+9
+
+A	0	2
+i	B	c	o
+r	D	c	o
+
+B	0	2
+s	C	c	o
+r	E	c	o
+
+C	0	1
+r	F	c	o
+
+D	0	2
+i	E	c	o
+o	G	c	o
+
+E	0	2
+s	F	c	o
+o	H	c	o
+
+F	0	1
+o	I	c	o
+
+G	0	1
+i	H	c	o
+
+H	0	1
+s	I	c	o
+
+I	0	1
+a	A	c	o

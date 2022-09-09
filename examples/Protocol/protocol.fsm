@@ -1,0 +1,51 @@
+9
+
+EI	0	4
+i	EO	c	o
+s	SI	c	o
+a	AI	c	o
+o	err	c	o
+
+SI	0	4
+i	SO	c	o
+r	EI	c	o
+a	SAI	c	o
+o	err	c	o
+
+SAI	0	4
+i	SAO	c	o
+r	AI	c	o
+g	SI	c	o
+o	err	c	o
+
+AI	0	4
+i	AO	c	o
+g	EI	c	o
+s	SAI	c	o
+o	err	c	o
+
+EO	0	4
+o	EI	c	o
+s	SO	c	o
+a	AO	c	o
+i	err	c	o
+
+SO	0	4
+i	err	c	o
+r	EO	c	o
+a	SAO	c	o
+i	SI	c	o
+
+SAO	0	4
+i	err	c	o
+r	AO	c	o
+g	SO	c	o
+o	SAI	c	o
+
+AO	0	4
+i	err	c	o
+g	EO	c	o
+s	SAO	c	o
+o	AI	c	o
+
+err	0	0

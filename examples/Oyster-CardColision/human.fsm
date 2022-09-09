@@ -1,0 +1,43 @@
+7
+
+s0	0	6
+snd.oyster	s1	uc	o
+snd.card	s4	uc	o
+snd.oyster_n	s0	c	o
+snd.oyster.gin_n	s3	c	o
+snd.card_n	s0	c	o
+snd.card.gin_n	s6	c	o
+
+s1	0	2
+rcv.oyster.gin	s2	uc	o
+rcv.oyster.gin_n	s0	c	o
+
+s2	0	7
+snd.oyster.gin	s3	uc	o
+snd.oyster_n	s0	c	o
+snd.oyster.gin_n	s2	c	o
+snd.card.gin_n	s0	c	o
+snd.card_n	s0	c	o
+snd.card.gin_n	s5	c	o
+snd.card.gin_n	s6	c	o
+
+s3	0	2
+rcv.oyster.fin	s0	uc	o
+rcv.oyster.fin_n	s2	c	o
+
+s4	0	2
+rcv.card.gin	s5	uc	o
+rcv.card.gin_n	s0	c	o
+
+s5	0	7
+snd.card.gin	s6	uc	o
+snd.card_n	s0	c	o
+snd.card.gin_n	s5	c	o
+snd.oyster.gin_n	s0	c	o
+snd.oyster_n	s0	c	o
+snd.oyster.gin_n	s2	c	o
+snd.oyster.gin_n	s3	c	o
+
+s6	0	2
+rcv.card.fin	s0	uc	o
+rcv.card.fin_n	s5	c	o

@@ -1,0 +1,58 @@
+10
+
+0	0	4
+p1p	1	c	o
+p0	2	c	o
+p0p	err	c	o
+p1	9	c	o
+
+1	0	4
+p1p	4	c	o
+p0	5	c	o
+p0p	err	c	o
+p1	9	c	o
+
+2	0	4
+p1p	5	c	o
+p0p	3	c	o
+p1	9	c	o
+p0	9	c	o
+
+3	0	4
+p1p	err	c	o
+p1	9	c	o
+p0	9	c	o
+p0p	9	c	o
+
+4	0	4
+p1p	4	c	o
+p0	7	c	o
+p0p	err	c	o
+p1	9	c	o
+
+5	0	4
+p1p	7	c	o
+p0p	6	c	o
+p1	9	c	o
+p0	9	c	o
+
+6	0	4
+p1p	err	c	o
+p1	9	c	o
+p0	9	c	o
+p0p	9	c	o
+
+7	0	4
+p1p	7	c	o
+p0p	6	c	o
+p1	9	c	o
+p0	9	c	o
+
+err	1	0
+
+9	0	4
+p1	9	c	o
+p1p	9	c	o
+p0	9	c	o
+p0p	9	c	o
+

@@ -1,0 +1,44 @@
+13
+
+0	0	2
+snd.card	1	c	o
+snd.oyster	2	c	o
+
+1	0	2
+fg	3	uc	uo
+rcv.card.gin	4	c	o
+
+2	0	2
+rcv.oyster.gin	5	c	o
+fg	6	uc	uo
+
+3	0	2
+rcv.card.gin	7	c	o
+rmb	1	uc	uo
+
+4	0	1
+snd.card.gin	8	c	o
+
+5	0	1
+snd.oyster.gin	9	c	o
+
+6	0	2
+rcv.oyster.gin	10	c	o
+rmb	2	uc	uo
+
+7	0	1
+snd.oyster.gin	11	c	o
+
+8	0	1
+rcv.card.fin	0	c	o
+
+9	0	1
+rcv.oyster.fin	0	c	o
+
+10	0	1
+snd.card.gin	12	c	o
+
+11	0	0
+
+12	0	0
+

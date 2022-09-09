@@ -1,0 +1,19 @@
+5
+
+E	0	4
+syn_ack_bc3	SA	c	o
+ack_bc3	A	c	o
+syn_bc3	S	c	o
+fin_bc3	F	c	o
+
+SA	0	1
+syn_ack_c3n	E	c	o
+
+A	0	1
+ack_c3n	E	c	o
+
+S	0	1
+syn_c3n	E	c	o
+
+F	0	1
+fin_c3n	E	c	o

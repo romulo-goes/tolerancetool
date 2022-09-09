@@ -1,0 +1,58 @@
+10
+
+0	0	4
+snd.oyster	1	uc	o
+snd.oyster.gin	2	uc	o
+rcv.oyster.gin	9	uc	o
+rcv.oyster.fin	9	uc	o
+
+1	0	4
+snd.oyster	1	uc	o
+rcv.oyster.gin	3	uc	o
+snd.oyster.gin	4	uc	o
+rcv.oyster.fin	9	uc	o
+
+2	0	4
+snd.oyster.gin	2	uc	o
+snd.oyster	4	uc	o
+rcv.oyster.fin	err	uc	o
+rcv.oyster.gin	9	uc	o
+
+3	0	4
+snd.oyster	5	uc	o
+snd.oyster.gin	6	uc	o
+rcv.oyster.gin	9	uc	o
+rcv.oyster.fin	9	uc	o
+
+4	0	4
+snd.oyster.gin	4	uc	o
+snd.oyster	4	uc	o
+rcv.oyster.gin	6	uc	o
+rcv.oyster.fin	err	uc	o
+
+5	0	4
+snd.oyster	5	uc	o
+snd.oyster.gin	7	uc	o
+rcv.oyster.gin	err	uc	o
+rcv.oyster.fin	9	uc	o
+
+6	0	4
+rcv.oyster.fin	0	uc	o
+snd.oyster.gin	6	uc	o
+snd.oyster	7	uc	o
+rcv.oyster.gin	9	uc	o
+
+7	0	4
+rcv.oyster.fin	1	uc	o
+snd.oyster.gin	7	uc	o
+snd.oyster	7	uc	o
+rcv.oyster.gin	err	uc	o
+
+err	1	0
+
+9	0	4
+snd.oyster.gin	9	uc	o
+rcv.oyster.gin	9	uc	o
+rcv.oyster.fin	9	uc	o
+snd.oyster	9	uc	o
+

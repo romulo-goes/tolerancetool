@@ -15,6 +15,7 @@ ego = d.read_fsm(path_script+"/ego_simpler.fsm")
 adv = d.read_fsm(path_script+"/adv_simpler.fsm")
 
 Env = d.composition.parallel(ego,adv)
+d.write_fsm(path_script+'/srv-model.fsm',Env)
 
 # print([v['name'] for v in Env.vs if v['name'][1].find(v['name'][0])>=0])
 Unsafe = [('2','a2'),('3','a3'),('4','a4'),('5','a5')]

@@ -1,0 +1,19 @@
+5
+
+0	0	2
+a	1	c	o
+b	err	c	o
+
+1	0	2
+a	2	c	o
+b	3	c	o
+
+2	0	2
+a	2	c	o
+b	0	c	o
+
+3	0	2
+b	3	c	o
+a	1	c	o
+
+err	0	0

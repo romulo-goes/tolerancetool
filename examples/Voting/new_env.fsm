@@ -1,0 +1,103 @@
+4
+
+s0	0	16
+eo.enter	s3	uc	uo
+v.enter	s1	uc	uo
+v.enter	s0	uc	uo
+v.exit	s0	uc	uo
+eo.enter	s0	uc	uo
+sel	s0	uc	uo
+vote	s0	uc	uo
+v.enter	s1	uc	uo
+v.exit	s1	uc	uo
+v.enter	s2	uc	uo
+v.exit	s2	uc	uo
+eo.exit	s2	uc	uo
+v.enter	s3	uc	uo
+v.exit	s3	uc	uo
+eo.enter	s3	uc	uo
+eo.exit	s3	uc	uo
+
+s1	0	33
+v.exit	s0	uc	uo
+pw	s2	uc	uo
+sel	s1	uc	uo
+cfm	s1	uc	uo
+vote	s1	uc	uo
+v.enter	s0	uc	uo
+v.exit	s0	uc	uo
+eo.enter	s0	uc	uo
+eo.exit	s0	uc	uo
+sel	s0	uc	uo
+vote	s0	uc	uo
+cfm	s0	uc	uo
+v.enter	s1	uc	uo
+v.exit	s1	uc	uo
+eo.exit	s1	uc	uo
+sel	s1	uc	uo
+vote	s1	uc	uo
+cfm	s1	uc	uo
+v.enter	s2	uc	uo
+v.exit	s2	uc	uo
+eo.exit	s2	uc	uo
+pw	s2	uc	uo
+sel	s2	uc	uo
+vote	s2	uc	uo
+cfm	s2	uc	uo
+v.enter	s3	uc	uo
+v.exit	s3	uc	uo
+eo.enter	s3	uc	uo
+eo.exit	s3	uc	uo
+pw	s3	uc	uo
+sel	s3	uc	uo
+vote	s3	uc	uo
+cfm	s3	uc	uo
+
+s2	0	23
+cfm	s1	uc	uo
+pw	s2	uc	uo
+sel	s2	uc	uo
+vote	s2	uc	uo
+eo.enter	s0	uc	uo
+eo.exit	s0	uc	uo
+cfm	s0	uc	uo
+eo.exit	s1	uc	uo
+cfm	s1	uc	uo
+v.enter	s2	uc	uo
+v.exit	s2	uc	uo
+eo.exit	s2	uc	uo
+pw	s2	uc	uo
+sel	s2	uc	uo
+vote	s2	uc	uo
+cfm	s2	uc	uo
+v.enter	s3	uc	uo
+v.exit	s3	uc	uo
+eo.exit	s3	uc	uo
+pw	s3	uc	uo
+sel	s3	uc	uo
+vote	s3	uc	uo
+cfm	s3	uc	uo
+
+s3	0	21
+eo.exit	s0	uc	uo
+sel	s3	uc	uo
+cfm	s3	uc	uo
+vote	s3	uc	uo
+eo.enter	s0	uc	uo
+eo.exit	s0	uc	uo
+cfm	s0	uc	uo
+eo.exit	s1	uc	uo
+cfm	s1	uc	uo
+v.enter	s2	uc	uo
+v.exit	s2	uc	uo
+eo.exit	s2	uc	uo
+sel	s2	uc	uo
+vote	s2	uc	uo
+cfm	s2	uc	uo
+v.enter	s3	uc	uo
+v.exit	s3	uc	uo
+eo.exit	s3	uc	uo
+sel	s3	uc	uo
+vote	s3	uc	uo
+cfm	s3	uc	uo
+

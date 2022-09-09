@@ -1,0 +1,2762 @@
+324
+
+(('s0', 's5'), 's5')	0	2
+snd.card	(('s4', 's5'), 's5')	c	o
+snd.oyster	(('s1', 's5'), 's5')	c	o
+
+(('s4', 's5'), 's5')	0	2
+rcv.card.gin	(('s5', 's5'), 's5')	c	o
+fg	(('s8', 's5'), 's5')	uc	uo
+
+(('s1', 's5'), 's5')	0	2
+fg	(('s7', 's5'), 's5')	uc	uo
+rcv.oyster.gin	(('s2', 's5'), 's5')	c	o
+
+(('s5', 's5'), 's5')	0	1
+snd.card.gin	(('s6', 's5'), 's5')	c	o
+
+(('s8', 's5'), 's5')	0	2
+rcv.card.gin	(('s2', 's5'), 's5')	c	o
+rmb	(('s4', 's5'), 's5')	uc	uo
+
+(('s7', 's5'), 's5')	0	2
+rmb	(('s1', 's5'), 's5')	uc	uo
+rcv.oyster.gin	(('s5', 's5'), 's5')	c	o
+
+(('s2', 's5'), 's5')	0	1
+snd.oyster.gin	(('s3', 's5'), 's5')	c	o
+
+(('s6', 's5'), 's5')	0	1
+rcv.card.fin	(('s0', 's4'), 's5')	c	o
+
+(('s3', 's5'), 's5')	0	1
+rcv.oyster.fin	(('s0', 's5'), 's4')	c	o
+
+(('s0', 's4'), 's5')	0	3
+rld.card.1	(('s0', 's5'), 's5')	c	o
+snd.card	(('s4', 's4'), 's5')	c	o
+snd.oyster	(('s1', 's4'), 's5')	c	o
+
+(('s0', 's5'), 's4')	0	3
+snd.card	(('s4', 's5'), 's4')	c	o
+snd.oyster	(('s1', 's5'), 's4')	c	o
+rld.oyster.1	(('s0', 's5'), 's5')	c	o
+
+(('s4', 's4'), 's5')	0	3
+rcv.card.gin	(('s5', 's4'), 's5')	c	o
+fg	(('s8', 's4'), 's5')	uc	uo
+rld.card.1	(('s4', 's5'), 's5')	c	o
+
+(('s1', 's4'), 's5')	0	3
+fg	(('s7', 's4'), 's5')	uc	uo
+rcv.oyster.gin	(('s2', 's4'), 's5')	c	o
+rld.card.1	(('s1', 's5'), 's5')	c	o
+
+(('s4', 's5'), 's4')	0	3
+rcv.card.gin	(('s5', 's5'), 's4')	c	o
+fg	(('s8', 's5'), 's4')	uc	uo
+rld.oyster.1	(('s4', 's5'), 's5')	c	o
+
+(('s1', 's5'), 's4')	0	3
+fg	(('s7', 's5'), 's4')	uc	uo
+rcv.oyster.gin	(('s2', 's5'), 's4')	c	o
+rld.oyster.1	(('s1', 's5'), 's5')	c	o
+
+(('s5', 's4'), 's5')	0	2
+rld.card.1	(('s5', 's5'), 's5')	c	o
+snd.card.gin	(('s6', 's4'), 's5')	c	o
+
+(('s8', 's4'), 's5')	0	3
+rcv.card.gin	(('s2', 's4'), 's5')	c	o
+rmb	(('s4', 's4'), 's5')	uc	uo
+rld.card.1	(('s8', 's5'), 's5')	c	o
+
+(('s7', 's4'), 's5')	0	3
+rld.card.1	(('s7', 's5'), 's5')	c	o
+rmb	(('s1', 's4'), 's5')	uc	uo
+rcv.oyster.gin	(('s5', 's4'), 's5')	c	o
+
+(('s2', 's4'), 's5')	0	2
+rld.card.1	(('s2', 's5'), 's5')	c	o
+snd.oyster.gin	(('s3', 's4'), 's5')	c	o
+
+(('s5', 's5'), 's4')	0	2
+snd.card.gin	(('s6', 's5'), 's4')	c	o
+rld.oyster.1	(('s5', 's5'), 's5')	c	o
+
+(('s8', 's5'), 's4')	0	3
+rcv.card.gin	(('s2', 's5'), 's4')	c	o
+rmb	(('s4', 's5'), 's4')	uc	uo
+rld.oyster.1	(('s8', 's5'), 's5')	c	o
+
+(('s7', 's5'), 's4')	0	3
+rmb	(('s1', 's5'), 's4')	uc	uo
+rcv.oyster.gin	(('s5', 's5'), 's4')	c	o
+rld.oyster.1	(('s7', 's5'), 's5')	c	o
+
+(('s2', 's5'), 's4')	0	2
+snd.oyster.gin	(('s3', 's5'), 's4')	c	o
+rld.oyster.1	(('s2', 's5'), 's5')	c	o
+
+(('s6', 's4'), 's5')	0	2
+rld.card.1	(('s6', 's5'), 's5')	c	o
+rcv.card.fin	(('s0', 's3'), 's5')	c	o
+
+(('s3', 's4'), 's5')	0	2
+rld.card.1	(('s3', 's5'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's4'), 's4')	c	o
+
+(('s6', 's5'), 's4')	0	2
+rcv.card.fin	(('s0', 's4'), 's4')	c	o
+rld.oyster.1	(('s6', 's5'), 's5')	c	o
+
+(('s3', 's5'), 's4')	0	2
+rld.oyster.1	(('s3', 's5'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's5'), 's3')	c	o
+
+(('s0', 's3'), 's5')	0	4
+snd.card	(('s4', 's3'), 's5')	c	o
+rld.card.2	(('s0', 's5'), 's5')	c	o
+rld.card.1	(('s0', 's4'), 's5')	c	o
+snd.oyster	(('s1', 's3'), 's5')	c	o
+
+(('s0', 's4'), 's4')	0	4
+snd.card	(('s4', 's4'), 's4')	c	o
+rld.oyster.1	(('s0', 's4'), 's5')	c	o
+rld.card.1	(('s0', 's5'), 's4')	c	o
+snd.oyster	(('s1', 's4'), 's4')	c	o
+
+(('s0', 's5'), 's3')	0	4
+snd.card	(('s4', 's5'), 's3')	c	o
+rld.oyster.2	(('s0', 's5'), 's5')	c	o
+rld.oyster.1	(('s0', 's5'), 's4')	c	o
+snd.oyster	(('s1', 's5'), 's3')	c	o
+
+(('s4', 's3'), 's5')	0	4
+rld.card.2	(('s4', 's5'), 's5')	c	o
+rcv.card.gin	(('s5', 's3'), 's5')	c	o
+rld.card.1	(('s4', 's4'), 's5')	c	o
+fg	(('s8', 's3'), 's5')	uc	uo
+
+(('s1', 's3'), 's5')	0	4
+rld.card.2	(('s1', 's5'), 's5')	c	o
+rld.card.1	(('s1', 's4'), 's5')	c	o
+fg	(('s7', 's3'), 's5')	uc	uo
+rcv.oyster.gin	(('s2', 's3'), 's5')	c	o
+
+(('s4', 's4'), 's4')	0	4
+rld.card.1	(('s4', 's5'), 's4')	c	o
+rld.oyster.1	(('s4', 's4'), 's5')	c	o
+rcv.card.gin	(('s5', 's4'), 's4')	c	o
+fg	(('s8', 's4'), 's4')	uc	uo
+
+(('s1', 's4'), 's4')	0	4
+rld.card.1	(('s1', 's5'), 's4')	c	o
+rld.oyster.1	(('s1', 's4'), 's5')	c	o
+fg	(('s7', 's4'), 's4')	uc	uo
+rcv.oyster.gin	(('s2', 's4'), 's4')	c	o
+
+(('s4', 's5'), 's3')	0	4
+rld.oyster.2	(('s4', 's5'), 's5')	c	o
+rld.oyster.1	(('s4', 's5'), 's4')	c	o
+rcv.card.gin	(('s5', 's5'), 's3')	c	o
+fg	(('s8', 's5'), 's3')	uc	uo
+
+(('s1', 's5'), 's3')	0	4
+rld.oyster.2	(('s1', 's5'), 's5')	c	o
+rld.oyster.1	(('s1', 's5'), 's4')	c	o
+fg	(('s7', 's5'), 's3')	uc	uo
+rcv.oyster.gin	(('s2', 's5'), 's3')	c	o
+
+(('s5', 's3'), 's5')	0	3
+rld.card.2	(('s5', 's5'), 's5')	c	o
+rld.card.1	(('s5', 's4'), 's5')	c	o
+snd.card.gin	(('s6', 's3'), 's5')	c	o
+
+(('s8', 's3'), 's5')	0	4
+rld.card.2	(('s8', 's5'), 's5')	c	o
+rmb	(('s4', 's3'), 's5')	uc	uo
+rcv.card.gin	(('s2', 's3'), 's5')	c	o
+rld.card.1	(('s8', 's4'), 's5')	c	o
+
+(('s7', 's3'), 's5')	0	4
+rld.card.2	(('s7', 's5'), 's5')	c	o
+rmb	(('s1', 's3'), 's5')	uc	uo
+rld.card.1	(('s7', 's4'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's3'), 's5')	c	o
+
+(('s2', 's3'), 's5')	0	3
+rld.card.2	(('s2', 's5'), 's5')	c	o
+snd.oyster.gin	(('s3', 's3'), 's5')	c	o
+rld.card.1	(('s2', 's4'), 's5')	c	o
+
+(('s5', 's4'), 's4')	0	3
+rld.card.1	(('s5', 's5'), 's4')	c	o
+snd.card.gin	(('s6', 's4'), 's4')	c	o
+rld.oyster.1	(('s5', 's4'), 's5')	c	o
+
+(('s8', 's4'), 's4')	0	4
+rld.card.1	(('s8', 's5'), 's4')	c	o
+rmb	(('s4', 's4'), 's4')	uc	uo
+rld.oyster.1	(('s8', 's4'), 's5')	c	o
+rcv.card.gin	(('s2', 's4'), 's4')	c	o
+
+(('s7', 's4'), 's4')	0	4
+rmb	(('s1', 's4'), 's4')	uc	uo
+rld.oyster.1	(('s7', 's4'), 's5')	c	o
+rld.card.1	(('s7', 's5'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's4'), 's4')	c	o
+
+(('s2', 's4'), 's4')	0	3
+rld.card.1	(('s2', 's5'), 's4')	c	o
+snd.oyster.gin	(('s3', 's4'), 's4')	c	o
+rld.oyster.1	(('s2', 's4'), 's5')	c	o
+
+(('s5', 's5'), 's3')	0	3
+rld.oyster.2	(('s5', 's5'), 's5')	c	o
+snd.card.gin	(('s6', 's5'), 's3')	c	o
+rld.oyster.1	(('s5', 's5'), 's4')	c	o
+
+(('s8', 's5'), 's3')	0	4
+rld.oyster.2	(('s8', 's5'), 's5')	c	o
+rmb	(('s4', 's5'), 's3')	uc	uo
+rld.oyster.1	(('s8', 's5'), 's4')	c	o
+rcv.card.gin	(('s2', 's5'), 's3')	c	o
+
+(('s7', 's5'), 's3')	0	4
+rld.oyster.2	(('s7', 's5'), 's5')	c	o
+rmb	(('s1', 's5'), 's3')	uc	uo
+rld.oyster.1	(('s7', 's5'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's5'), 's3')	c	o
+
+(('s2', 's5'), 's3')	0	3
+snd.oyster.gin	(('s3', 's5'), 's3')	c	o
+rld.oyster.2	(('s2', 's5'), 's5')	c	o
+rld.oyster.1	(('s2', 's5'), 's4')	c	o
+
+(('s6', 's3'), 's5')	0	3
+rld.card.2	(('s6', 's5'), 's5')	c	o
+rcv.card.fin	(('s0', 's2'), 's5')	c	o
+rld.card.1	(('s6', 's4'), 's5')	c	o
+
+(('s3', 's3'), 's5')	0	3
+rld.card.2	(('s3', 's5'), 's5')	c	o
+rld.card.1	(('s3', 's4'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's3'), 's4')	c	o
+
+(('s6', 's4'), 's4')	0	3
+rld.card.1	(('s6', 's5'), 's4')	c	o
+rcv.card.fin	(('s0', 's3'), 's4')	c	o
+rld.oyster.1	(('s6', 's4'), 's5')	c	o
+
+(('s3', 's4'), 's4')	0	3
+rld.card.1	(('s3', 's5'), 's4')	c	o
+rld.oyster.1	(('s3', 's4'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's4'), 's3')	c	o
+
+(('s6', 's5'), 's3')	0	3
+rcv.card.fin	(('s0', 's4'), 's3')	c	o
+rld.oyster.2	(('s6', 's5'), 's5')	c	o
+rld.oyster.1	(('s6', 's5'), 's4')	c	o
+
+(('s3', 's5'), 's3')	0	3
+rld.oyster.2	(('s3', 's5'), 's5')	c	o
+rld.oyster.1	(('s3', 's5'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's5'), 's2')	c	o
+
+(('s0', 's2'), 's5')	0	5
+snd.card	(('s4', 's2'), 's5')	c	o
+rld.card.2	(('s0', 's4'), 's5')	c	o
+rld.card.3	(('s0', 's5'), 's5')	c	o
+rld.card.1	(('s0', 's3'), 's5')	c	o
+snd.oyster	(('s1', 's2'), 's5')	c	o
+
+(('s0', 's3'), 's4')	0	5
+snd.card	(('s4', 's3'), 's4')	c	o
+rld.card.2	(('s0', 's5'), 's4')	c	o
+rld.oyster.1	(('s0', 's3'), 's5')	c	o
+rld.card.1	(('s0', 's4'), 's4')	c	o
+snd.oyster	(('s1', 's3'), 's4')	c	o
+
+(('s0', 's4'), 's3')	0	5
+snd.card	(('s4', 's4'), 's3')	c	o
+rld.oyster.2	(('s0', 's4'), 's5')	c	o
+rld.oyster.1	(('s0', 's4'), 's4')	c	o
+rld.card.1	(('s0', 's5'), 's3')	c	o
+snd.oyster	(('s1', 's4'), 's3')	c	o
+
+(('s0', 's5'), 's2')	0	5
+snd.card	(('s4', 's5'), 's2')	c	o
+rld.oyster.2	(('s0', 's5'), 's4')	c	o
+rld.oyster.1	(('s0', 's5'), 's3')	c	o
+snd.oyster	(('s1', 's5'), 's2')	c	o
+rld.oyster.3	(('s0', 's5'), 's5')	c	o
+
+(('s4', 's2'), 's5')	0	5
+rld.card.2	(('s4', 's4'), 's5')	c	o
+rld.card.3	(('s4', 's5'), 's5')	c	o
+rcv.card.gin	(('s5', 's2'), 's5')	c	o
+rld.card.1	(('s4', 's3'), 's5')	c	o
+fg	(('s8', 's2'), 's5')	uc	uo
+
+(('s1', 's2'), 's5')	0	5
+rld.card.2	(('s1', 's4'), 's5')	c	o
+rld.card.3	(('s1', 's5'), 's5')	c	o
+rld.card.1	(('s1', 's3'), 's5')	c	o
+fg	(('s7', 's2'), 's5')	uc	uo
+rcv.oyster.gin	(('s2', 's2'), 's5')	c	o
+
+(('s4', 's3'), 's4')	0	5
+rld.card.2	(('s4', 's5'), 's4')	c	o
+rld.oyster.1	(('s4', 's3'), 's5')	c	o
+rcv.card.gin	(('s5', 's3'), 's4')	c	o
+rld.card.1	(('s4', 's4'), 's4')	c	o
+fg	(('s8', 's3'), 's4')	uc	uo
+
+(('s1', 's3'), 's4')	0	5
+rld.card.2	(('s1', 's5'), 's4')	c	o
+rld.oyster.1	(('s1', 's3'), 's5')	c	o
+rld.card.1	(('s1', 's4'), 's4')	c	o
+fg	(('s7', 's3'), 's4')	uc	uo
+rcv.oyster.gin	(('s2', 's3'), 's4')	c	o
+
+(('s4', 's4'), 's3')	0	5
+rld.card.1	(('s4', 's5'), 's3')	c	o
+rld.oyster.2	(('s4', 's4'), 's5')	c	o
+rld.oyster.1	(('s4', 's4'), 's4')	c	o
+rcv.card.gin	(('s5', 's4'), 's3')	c	o
+fg	(('s8', 's4'), 's3')	uc	uo
+
+(('s1', 's4'), 's3')	0	5
+rld.card.1	(('s1', 's5'), 's3')	c	o
+rld.oyster.2	(('s1', 's4'), 's5')	c	o
+rld.oyster.1	(('s1', 's4'), 's4')	c	o
+fg	(('s7', 's4'), 's3')	uc	uo
+rcv.oyster.gin	(('s2', 's4'), 's3')	c	o
+
+(('s4', 's5'), 's2')	0	5
+rld.oyster.2	(('s4', 's5'), 's4')	c	o
+rld.oyster.1	(('s4', 's5'), 's3')	c	o
+rcv.card.gin	(('s5', 's5'), 's2')	c	o
+fg	(('s8', 's5'), 's2')	uc	uo
+rld.oyster.3	(('s4', 's5'), 's5')	c	o
+
+(('s1', 's5'), 's2')	0	5
+rld.oyster.2	(('s1', 's5'), 's4')	c	o
+rld.oyster.1	(('s1', 's5'), 's3')	c	o
+fg	(('s7', 's5'), 's2')	uc	uo
+rld.oyster.3	(('s1', 's5'), 's5')	c	o
+rcv.oyster.gin	(('s2', 's5'), 's2')	c	o
+
+(('s5', 's2'), 's5')	0	4
+rld.card.2	(('s5', 's4'), 's5')	c	o
+rld.card.3	(('s5', 's5'), 's5')	c	o
+snd.card.gin	(('s6', 's2'), 's5')	c	o
+rld.card.1	(('s5', 's3'), 's5')	c	o
+
+(('s8', 's2'), 's5')	0	5
+rld.card.2	(('s8', 's4'), 's5')	c	o
+rmb	(('s4', 's2'), 's5')	uc	uo
+rld.card.3	(('s8', 's5'), 's5')	c	o
+rcv.card.gin	(('s2', 's2'), 's5')	c	o
+rld.card.1	(('s8', 's3'), 's5')	c	o
+
+(('s7', 's2'), 's5')	0	5
+rld.card.2	(('s7', 's4'), 's5')	c	o
+rmb	(('s1', 's2'), 's5')	uc	uo
+rld.card.3	(('s7', 's5'), 's5')	c	o
+rld.card.1	(('s7', 's3'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's2'), 's5')	c	o
+
+(('s2', 's2'), 's5')	0	4
+snd.oyster.gin	(('s3', 's2'), 's5')	c	o
+rld.card.2	(('s2', 's4'), 's5')	c	o
+rld.card.3	(('s2', 's5'), 's5')	c	o
+rld.card.1	(('s2', 's3'), 's5')	c	o
+
+(('s5', 's3'), 's4')	0	4
+rld.card.1	(('s5', 's4'), 's4')	c	o
+snd.card.gin	(('s6', 's3'), 's4')	c	o
+rld.oyster.1	(('s5', 's3'), 's5')	c	o
+rld.card.2	(('s5', 's5'), 's4')	c	o
+
+(('s8', 's3'), 's4')	0	5
+rld.card.2	(('s8', 's5'), 's4')	c	o
+rld.oyster.1	(('s8', 's3'), 's5')	c	o
+rmb	(('s4', 's3'), 's4')	uc	uo
+rcv.card.gin	(('s2', 's3'), 's4')	c	o
+rld.card.1	(('s8', 's4'), 's4')	c	o
+
+(('s7', 's3'), 's4')	0	5
+rld.card.2	(('s7', 's5'), 's4')	c	o
+rmb	(('s1', 's3'), 's4')	uc	uo
+rld.oyster.1	(('s7', 's3'), 's5')	c	o
+rld.card.1	(('s7', 's4'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's3'), 's4')	c	o
+
+(('s2', 's3'), 's4')	0	4
+rld.card.1	(('s2', 's4'), 's4')	c	o
+snd.oyster.gin	(('s3', 's3'), 's4')	c	o
+rld.oyster.1	(('s2', 's3'), 's5')	c	o
+rld.card.2	(('s2', 's5'), 's4')	c	o
+
+(('s5', 's4'), 's3')	0	4
+rld.oyster.2	(('s5', 's4'), 's5')	c	o
+snd.card.gin	(('s6', 's4'), 's3')	c	o
+rld.oyster.1	(('s5', 's4'), 's4')	c	o
+rld.card.1	(('s5', 's5'), 's3')	c	o
+
+(('s8', 's4'), 's3')	0	5
+rld.card.1	(('s8', 's5'), 's3')	c	o
+rld.oyster.2	(('s8', 's4'), 's5')	c	o
+rmb	(('s4', 's4'), 's3')	uc	uo
+rld.oyster.1	(('s8', 's4'), 's4')	c	o
+rcv.card.gin	(('s2', 's4'), 's3')	c	o
+
+(('s7', 's4'), 's3')	0	5
+rld.oyster.2	(('s7', 's4'), 's5')	c	o
+rmb	(('s1', 's4'), 's3')	uc	uo
+rld.oyster.1	(('s7', 's4'), 's4')	c	o
+rld.card.1	(('s7', 's5'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's4'), 's3')	c	o
+
+(('s2', 's4'), 's3')	0	4
+snd.oyster.gin	(('s3', 's4'), 's3')	c	o
+rld.oyster.2	(('s2', 's4'), 's5')	c	o
+rld.oyster.1	(('s2', 's4'), 's4')	c	o
+rld.card.1	(('s2', 's5'), 's3')	c	o
+
+(('s5', 's5'), 's2')	0	4
+rld.oyster.2	(('s5', 's5'), 's4')	c	o
+snd.card.gin	(('s6', 's5'), 's2')	c	o
+rld.oyster.1	(('s5', 's5'), 's3')	c	o
+rld.oyster.3	(('s5', 's5'), 's5')	c	o
+
+(('s8', 's5'), 's2')	0	5
+rld.oyster.2	(('s8', 's5'), 's4')	c	o
+rmb	(('s4', 's5'), 's2')	uc	uo
+rld.oyster.1	(('s8', 's5'), 's3')	c	o
+rcv.card.gin	(('s2', 's5'), 's2')	c	o
+rld.oyster.3	(('s8', 's5'), 's5')	c	o
+
+(('s7', 's5'), 's2')	0	5
+rld.oyster.2	(('s7', 's5'), 's4')	c	o
+rmb	(('s1', 's5'), 's2')	uc	uo
+rld.oyster.1	(('s7', 's5'), 's3')	c	o
+rld.oyster.3	(('s7', 's5'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's5'), 's2')	c	o
+
+(('s2', 's5'), 's2')	0	4
+snd.oyster.gin	(('s3', 's5'), 's2')	c	o
+rld.oyster.2	(('s2', 's5'), 's4')	c	o
+rld.oyster.1	(('s2', 's5'), 's3')	c	o
+rld.oyster.3	(('s2', 's5'), 's5')	c	o
+
+(('s6', 's2'), 's5')	0	4
+rcv.card.fin	(('s0', 's1'), 's5')	c	o
+rld.card.2	(('s6', 's4'), 's5')	c	o
+rld.card.3	(('s6', 's5'), 's5')	c	o
+rld.card.1	(('s6', 's3'), 's5')	c	o
+
+(('s3', 's2'), 's5')	0	4
+rld.card.2	(('s3', 's4'), 's5')	c	o
+rld.card.3	(('s3', 's5'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's2'), 's4')	c	o
+rld.card.1	(('s3', 's3'), 's5')	c	o
+
+(('s6', 's3'), 's4')	0	4
+rld.card.1	(('s6', 's4'), 's4')	c	o
+rcv.card.fin	(('s0', 's2'), 's4')	c	o
+rld.oyster.1	(('s6', 's3'), 's5')	c	o
+rld.card.2	(('s6', 's5'), 's4')	c	o
+
+(('s3', 's3'), 's4')	0	4
+rld.card.1	(('s3', 's4'), 's4')	c	o
+rld.oyster.1	(('s3', 's3'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's3'), 's3')	c	o
+rld.card.2	(('s3', 's5'), 's4')	c	o
+
+(('s6', 's4'), 's3')	0	4
+rcv.card.fin	(('s0', 's3'), 's3')	c	o
+rld.oyster.2	(('s6', 's4'), 's5')	c	o
+rld.oyster.1	(('s6', 's4'), 's4')	c	o
+rld.card.1	(('s6', 's5'), 's3')	c	o
+
+(('s3', 's4'), 's3')	0	4
+rld.oyster.2	(('s3', 's4'), 's5')	c	o
+rld.oyster.1	(('s3', 's4'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's4'), 's2')	c	o
+rld.card.1	(('s3', 's5'), 's3')	c	o
+
+(('s6', 's5'), 's2')	0	4
+rcv.card.fin	(('s0', 's4'), 's2')	c	o
+rld.oyster.2	(('s6', 's5'), 's4')	c	o
+rld.oyster.1	(('s6', 's5'), 's3')	c	o
+rld.oyster.3	(('s6', 's5'), 's5')	c	o
+
+(('s3', 's5'), 's2')	0	4
+rld.oyster.2	(('s3', 's5'), 's4')	c	o
+rld.oyster.1	(('s3', 's5'), 's3')	c	o
+rcv.oyster.fin	(('s0', 's5'), 's1')	c	o
+rld.oyster.3	(('s3', 's5'), 's5')	c	o
+
+(('s0', 's1'), 's5')	0	6
+snd.card	(('s4', 's1'), 's5')	c	o
+rld.card.2	(('s0', 's3'), 's5')	c	o
+rld.card.3	(('s0', 's4'), 's5')	c	o
+rld.card.4	(('s0', 's5'), 's5')	c	o
+rld.card.1	(('s0', 's2'), 's5')	c	o
+snd.oyster	(('s1', 's1'), 's5')	c	o
+
+(('s0', 's2'), 's4')	0	6
+snd.card	(('s4', 's2'), 's4')	c	o
+rld.card.2	(('s0', 's4'), 's4')	c	o
+rld.card.3	(('s0', 's5'), 's4')	c	o
+rld.oyster.1	(('s0', 's2'), 's5')	c	o
+rld.card.1	(('s0', 's3'), 's4')	c	o
+snd.oyster	(('s1', 's2'), 's4')	c	o
+
+(('s0', 's3'), 's3')	0	6
+snd.card	(('s4', 's3'), 's3')	c	o
+rld.card.2	(('s0', 's5'), 's3')	c	o
+rld.oyster.2	(('s0', 's3'), 's5')	c	o
+rld.oyster.1	(('s0', 's3'), 's4')	c	o
+rld.card.1	(('s0', 's4'), 's3')	c	o
+snd.oyster	(('s1', 's3'), 's3')	c	o
+
+(('s0', 's4'), 's2')	0	6
+snd.card	(('s4', 's4'), 's2')	c	o
+rld.oyster.2	(('s0', 's4'), 's4')	c	o
+rld.oyster.1	(('s0', 's4'), 's3')	c	o
+rld.card.1	(('s0', 's5'), 's2')	c	o
+snd.oyster	(('s1', 's4'), 's2')	c	o
+rld.oyster.3	(('s0', 's4'), 's5')	c	o
+
+(('s0', 's5'), 's1')	0	6
+snd.card	(('s4', 's5'), 's1')	c	o
+rld.oyster.2	(('s0', 's5'), 's3')	c	o
+rld.oyster.1	(('s0', 's5'), 's2')	c	o
+rld.oyster.4	(('s0', 's5'), 's5')	c	o
+snd.oyster	(('s1', 's5'), 's1')	c	o
+rld.oyster.3	(('s0', 's5'), 's4')	c	o
+
+(('s4', 's1'), 's5')	0	6
+rld.card.2	(('s4', 's3'), 's5')	c	o
+rld.card.3	(('s4', 's4'), 's5')	c	o
+rld.card.4	(('s4', 's5'), 's5')	c	o
+rcv.card.gin	(('s5', 's1'), 's5')	c	o
+rld.card.1	(('s4', 's2'), 's5')	c	o
+fg	(('s8', 's1'), 's5')	uc	uo
+
+(('s1', 's1'), 's5')	0	6
+rld.card.2	(('s1', 's3'), 's5')	c	o
+rld.card.3	(('s1', 's4'), 's5')	c	o
+rld.card.4	(('s1', 's5'), 's5')	c	o
+rld.card.1	(('s1', 's2'), 's5')	c	o
+fg	(('s7', 's1'), 's5')	uc	uo
+rcv.oyster.gin	(('s2', 's1'), 's5')	c	o
+
+(('s4', 's2'), 's4')	0	6
+rld.card.2	(('s4', 's4'), 's4')	c	o
+rld.oyster.1	(('s4', 's2'), 's5')	c	o
+rld.card.3	(('s4', 's5'), 's4')	c	o
+rcv.card.gin	(('s5', 's2'), 's4')	c	o
+rld.card.1	(('s4', 's3'), 's4')	c	o
+fg	(('s8', 's2'), 's4')	uc	uo
+
+(('s1', 's2'), 's4')	0	6
+rld.card.2	(('s1', 's4'), 's4')	c	o
+rld.card.3	(('s1', 's5'), 's4')	c	o
+rld.oyster.1	(('s1', 's2'), 's5')	c	o
+rld.card.1	(('s1', 's3'), 's4')	c	o
+fg	(('s7', 's2'), 's4')	uc	uo
+rcv.oyster.gin	(('s2', 's2'), 's4')	c	o
+
+(('s4', 's3'), 's3')	0	6
+rld.card.2	(('s4', 's5'), 's3')	c	o
+rld.oyster.2	(('s4', 's3'), 's5')	c	o
+rld.oyster.1	(('s4', 's3'), 's4')	c	o
+rcv.card.gin	(('s5', 's3'), 's3')	c	o
+rld.card.1	(('s4', 's4'), 's3')	c	o
+fg	(('s8', 's3'), 's3')	uc	uo
+
+(('s1', 's3'), 's3')	0	6
+rld.card.2	(('s1', 's5'), 's3')	c	o
+rld.oyster.2	(('s1', 's3'), 's5')	c	o
+rld.oyster.1	(('s1', 's3'), 's4')	c	o
+rld.card.1	(('s1', 's4'), 's3')	c	o
+fg	(('s7', 's3'), 's3')	uc	uo
+rcv.oyster.gin	(('s2', 's3'), 's3')	c	o
+
+(('s4', 's4'), 's2')	0	6
+rld.card.1	(('s4', 's5'), 's2')	c	o
+rld.oyster.2	(('s4', 's4'), 's4')	c	o
+rld.oyster.1	(('s4', 's4'), 's3')	c	o
+rcv.card.gin	(('s5', 's4'), 's2')	c	o
+fg	(('s8', 's4'), 's2')	uc	uo
+rld.oyster.3	(('s4', 's4'), 's5')	c	o
+
+(('s1', 's4'), 's2')	0	6
+rld.card.1	(('s1', 's5'), 's2')	c	o
+rld.oyster.2	(('s1', 's4'), 's4')	c	o
+rld.oyster.1	(('s1', 's4'), 's3')	c	o
+fg	(('s7', 's4'), 's2')	uc	uo
+rld.oyster.3	(('s1', 's4'), 's5')	c	o
+rcv.oyster.gin	(('s2', 's4'), 's2')	c	o
+
+(('s4', 's5'), 's1')	0	6
+rld.oyster.2	(('s4', 's5'), 's3')	c	o
+rld.oyster.1	(('s4', 's5'), 's2')	c	o
+rld.oyster.4	(('s4', 's5'), 's5')	c	o
+rcv.card.gin	(('s5', 's5'), 's1')	c	o
+fg	(('s8', 's5'), 's1')	uc	uo
+rld.oyster.3	(('s4', 's5'), 's4')	c	o
+
+(('s1', 's5'), 's1')	0	6
+rld.oyster.2	(('s1', 's5'), 's3')	c	o
+rld.oyster.1	(('s1', 's5'), 's2')	c	o
+fg	(('s7', 's5'), 's1')	uc	uo
+rld.oyster.4	(('s1', 's5'), 's5')	c	o
+rld.oyster.3	(('s1', 's5'), 's4')	c	o
+rcv.oyster.gin	(('s2', 's5'), 's1')	c	o
+
+(('s5', 's1'), 's5')	0	5
+rld.card.2	(('s5', 's3'), 's5')	c	o
+rld.card.3	(('s5', 's4'), 's5')	c	o
+snd.card.gin	(('s6', 's1'), 's5')	c	o
+rld.card.4	(('s5', 's5'), 's5')	c	o
+rld.card.1	(('s5', 's2'), 's5')	c	o
+
+(('s8', 's1'), 's5')	0	6
+rld.card.2	(('s8', 's3'), 's5')	c	o
+rmb	(('s4', 's1'), 's5')	uc	uo
+rld.card.3	(('s8', 's4'), 's5')	c	o
+rld.card.4	(('s8', 's5'), 's5')	c	o
+rcv.card.gin	(('s2', 's1'), 's5')	c	o
+rld.card.1	(('s8', 's2'), 's5')	c	o
+
+(('s7', 's1'), 's5')	0	6
+rld.card.2	(('s7', 's3'), 's5')	c	o
+rmb	(('s1', 's1'), 's5')	uc	uo
+rld.card.3	(('s7', 's4'), 's5')	c	o
+rld.card.4	(('s7', 's5'), 's5')	c	o
+rld.card.1	(('s7', 's2'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's1'), 's5')	c	o
+
+(('s2', 's1'), 's5')	0	5
+snd.oyster.gin	(('s3', 's1'), 's5')	c	o
+rld.card.2	(('s2', 's3'), 's5')	c	o
+rld.card.3	(('s2', 's4'), 's5')	c	o
+rld.card.4	(('s2', 's5'), 's5')	c	o
+rld.card.1	(('s2', 's2'), 's5')	c	o
+
+(('s5', 's2'), 's4')	0	5
+rld.card.2	(('s5', 's4'), 's4')	c	o
+rld.card.3	(('s5', 's5'), 's4')	c	o
+snd.card.gin	(('s6', 's2'), 's4')	c	o
+rld.oyster.1	(('s5', 's2'), 's5')	c	o
+rld.card.1	(('s5', 's3'), 's4')	c	o
+
+(('s8', 's2'), 's4')	0	6
+rld.card.2	(('s8', 's4'), 's4')	c	o
+rld.oyster.1	(('s8', 's2'), 's5')	c	o
+rmb	(('s4', 's2'), 's4')	uc	uo
+rld.card.3	(('s8', 's5'), 's4')	c	o
+rcv.card.gin	(('s2', 's2'), 's4')	c	o
+rld.card.1	(('s8', 's3'), 's4')	c	o
+
+(('s7', 's2'), 's4')	0	6
+rld.card.2	(('s7', 's4'), 's4')	c	o
+rmb	(('s1', 's2'), 's4')	uc	uo
+rld.card.3	(('s7', 's5'), 's4')	c	o
+rld.oyster.1	(('s7', 's2'), 's5')	c	o
+rld.card.1	(('s7', 's3'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's2'), 's4')	c	o
+
+(('s2', 's2'), 's4')	0	5
+snd.oyster.gin	(('s3', 's2'), 's4')	c	o
+rld.card.2	(('s2', 's4'), 's4')	c	o
+rld.card.3	(('s2', 's5'), 's4')	c	o
+rld.oyster.1	(('s2', 's2'), 's5')	c	o
+rld.card.1	(('s2', 's3'), 's4')	c	o
+
+(('s5', 's3'), 's3')	0	5
+rld.card.1	(('s5', 's4'), 's3')	c	o
+rld.oyster.2	(('s5', 's3'), 's5')	c	o
+snd.card.gin	(('s6', 's3'), 's3')	c	o
+rld.oyster.1	(('s5', 's3'), 's4')	c	o
+rld.card.2	(('s5', 's5'), 's3')	c	o
+
+(('s8', 's3'), 's3')	0	6
+rld.card.2	(('s8', 's5'), 's3')	c	o
+rld.oyster.2	(('s8', 's3'), 's5')	c	o
+rmb	(('s4', 's3'), 's3')	uc	uo
+rld.oyster.1	(('s8', 's3'), 's4')	c	o
+rcv.card.gin	(('s2', 's3'), 's3')	c	o
+rld.card.1	(('s8', 's4'), 's3')	c	o
+
+(('s7', 's3'), 's3')	0	6
+rld.card.2	(('s7', 's5'), 's3')	c	o
+rld.oyster.2	(('s7', 's3'), 's5')	c	o
+rmb	(('s1', 's3'), 's3')	uc	uo
+rld.oyster.1	(('s7', 's3'), 's4')	c	o
+rld.card.1	(('s7', 's4'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's3'), 's3')	c	o
+
+(('s2', 's3'), 's3')	0	5
+rld.card.1	(('s2', 's4'), 's3')	c	o
+snd.oyster.gin	(('s3', 's3'), 's3')	c	o
+rld.oyster.2	(('s2', 's3'), 's5')	c	o
+rld.oyster.1	(('s2', 's3'), 's4')	c	o
+rld.card.2	(('s2', 's5'), 's3')	c	o
+
+(('s5', 's4'), 's2')	0	5
+rld.oyster.2	(('s5', 's4'), 's4')	c	o
+snd.card.gin	(('s6', 's4'), 's2')	c	o
+rld.oyster.1	(('s5', 's4'), 's3')	c	o
+rld.card.1	(('s5', 's5'), 's2')	c	o
+rld.oyster.3	(('s5', 's4'), 's5')	c	o
+
+(('s8', 's4'), 's2')	0	6
+rld.card.1	(('s8', 's5'), 's2')	c	o
+rld.oyster.2	(('s8', 's4'), 's4')	c	o
+rmb	(('s4', 's4'), 's2')	uc	uo
+rld.oyster.1	(('s8', 's4'), 's3')	c	o
+rcv.card.gin	(('s2', 's4'), 's2')	c	o
+rld.oyster.3	(('s8', 's4'), 's5')	c	o
+
+(('s7', 's4'), 's2')	0	6
+rld.oyster.2	(('s7', 's4'), 's4')	c	o
+rmb	(('s1', 's4'), 's2')	uc	uo
+rld.oyster.1	(('s7', 's4'), 's3')	c	o
+rld.card.1	(('s7', 's5'), 's2')	c	o
+rld.oyster.3	(('s7', 's4'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's4'), 's2')	c	o
+
+(('s2', 's4'), 's2')	0	5
+snd.oyster.gin	(('s3', 's4'), 's2')	c	o
+rld.oyster.2	(('s2', 's4'), 's4')	c	o
+rld.oyster.1	(('s2', 's4'), 's3')	c	o
+rld.card.1	(('s2', 's5'), 's2')	c	o
+rld.oyster.3	(('s2', 's4'), 's5')	c	o
+
+(('s5', 's5'), 's1')	0	5
+rld.oyster.2	(('s5', 's5'), 's3')	c	o
+rld.oyster.1	(('s5', 's5'), 's2')	c	o
+snd.card.gin	(('s6', 's5'), 's1')	c	o
+rld.oyster.4	(('s5', 's5'), 's5')	c	o
+rld.oyster.3	(('s5', 's5'), 's4')	c	o
+
+(('s8', 's5'), 's1')	0	6
+rld.oyster.2	(('s8', 's5'), 's3')	c	o
+rld.oyster.1	(('s8', 's5'), 's2')	c	o
+rmb	(('s4', 's5'), 's1')	uc	uo
+rcv.card.gin	(('s2', 's5'), 's1')	c	o
+rld.oyster.4	(('s8', 's5'), 's5')	c	o
+rld.oyster.3	(('s8', 's5'), 's4')	c	o
+
+(('s7', 's5'), 's1')	0	6
+rld.oyster.2	(('s7', 's5'), 's3')	c	o
+rld.oyster.1	(('s7', 's5'), 's2')	c	o
+rmb	(('s1', 's5'), 's1')	uc	uo
+rld.oyster.4	(('s7', 's5'), 's5')	c	o
+rld.oyster.3	(('s7', 's5'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's5'), 's1')	c	o
+
+(('s2', 's5'), 's1')	0	5
+snd.oyster.gin	(('s3', 's5'), 's1')	c	o
+rld.oyster.2	(('s2', 's5'), 's3')	c	o
+rld.oyster.1	(('s2', 's5'), 's2')	c	o
+rld.oyster.4	(('s2', 's5'), 's5')	c	o
+rld.oyster.3	(('s2', 's5'), 's4')	c	o
+
+(('s6', 's1'), 's5')	0	5
+rcv.card.fin	(('s0', 's0'), 's5')	c	o
+rld.card.2	(('s6', 's3'), 's5')	c	o
+rld.card.3	(('s6', 's4'), 's5')	c	o
+rld.card.4	(('s6', 's5'), 's5')	c	o
+rld.card.1	(('s6', 's2'), 's5')	c	o
+
+(('s3', 's1'), 's5')	0	5
+rld.card.2	(('s3', 's3'), 's5')	c	o
+rld.card.3	(('s3', 's4'), 's5')	c	o
+rld.card.4	(('s3', 's5'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's1'), 's4')	c	o
+rld.card.1	(('s3', 's2'), 's5')	c	o
+
+(('s6', 's2'), 's4')	0	5
+rcv.card.fin	(('s0', 's1'), 's4')	c	o
+rld.card.2	(('s6', 's4'), 's4')	c	o
+rld.card.3	(('s6', 's5'), 's4')	c	o
+rld.oyster.1	(('s6', 's2'), 's5')	c	o
+rld.card.1	(('s6', 's3'), 's4')	c	o
+
+(('s3', 's2'), 's4')	0	5
+rld.card.2	(('s3', 's4'), 's4')	c	o
+rld.oyster.1	(('s3', 's2'), 's5')	c	o
+rld.card.3	(('s3', 's5'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's2'), 's3')	c	o
+rld.card.1	(('s3', 's3'), 's4')	c	o
+
+(('s6', 's3'), 's3')	0	5
+rld.card.1	(('s6', 's4'), 's3')	c	o
+rcv.card.fin	(('s0', 's2'), 's3')	c	o
+rld.oyster.2	(('s6', 's3'), 's5')	c	o
+rld.oyster.1	(('s6', 's3'), 's4')	c	o
+rld.card.2	(('s6', 's5'), 's3')	c	o
+
+(('s3', 's3'), 's3')	0	5
+rld.card.1	(('s3', 's4'), 's3')	c	o
+rld.oyster.2	(('s3', 's3'), 's5')	c	o
+rld.oyster.1	(('s3', 's3'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's3'), 's2')	c	o
+rld.card.2	(('s3', 's5'), 's3')	c	o
+
+(('s6', 's4'), 's2')	0	5
+rcv.card.fin	(('s0', 's3'), 's2')	c	o
+rld.oyster.2	(('s6', 's4'), 's4')	c	o
+rld.oyster.1	(('s6', 's4'), 's3')	c	o
+rld.card.1	(('s6', 's5'), 's2')	c	o
+rld.oyster.3	(('s6', 's4'), 's5')	c	o
+
+(('s3', 's4'), 's2')	0	5
+rld.oyster.2	(('s3', 's4'), 's4')	c	o
+rld.oyster.1	(('s3', 's4'), 's3')	c	o
+rcv.oyster.fin	(('s0', 's4'), 's1')	c	o
+rld.card.1	(('s3', 's5'), 's2')	c	o
+rld.oyster.3	(('s3', 's4'), 's5')	c	o
+
+(('s6', 's5'), 's1')	0	5
+rcv.card.fin	(('s0', 's4'), 's1')	c	o
+rld.oyster.2	(('s6', 's5'), 's3')	c	o
+rld.oyster.1	(('s6', 's5'), 's2')	c	o
+rld.oyster.4	(('s6', 's5'), 's5')	c	o
+rld.oyster.3	(('s6', 's5'), 's4')	c	o
+
+(('s3', 's5'), 's1')	0	5
+rld.oyster.2	(('s3', 's5'), 's3')	c	o
+rld.oyster.1	(('s3', 's5'), 's2')	c	o
+rcv.oyster.fin	(('s0', 's5'), 's0')	c	o
+rld.oyster.4	(('s3', 's5'), 's5')	c	o
+rld.oyster.3	(('s3', 's5'), 's4')	c	o
+
+(('s0', 's0'), 's5')	0	7
+snd.card	(('s4', 's0'), 's5')	c	o
+rld.card.2	(('s0', 's2'), 's5')	c	o
+rld.card.3	(('s0', 's3'), 's5')	c	o
+rld.card.5	(('s0', 's5'), 's5')	c	o
+rld.card.4	(('s0', 's4'), 's5')	c	o
+rld.card.1	(('s0', 's1'), 's5')	c	o
+snd.oyster	(('s1', 's0'), 's5')	c	o
+
+(('s0', 's1'), 's4')	0	7
+snd.card	(('s4', 's1'), 's4')	c	o
+rld.card.2	(('s0', 's3'), 's4')	c	o
+rld.card.3	(('s0', 's4'), 's4')	c	o
+rld.card.4	(('s0', 's5'), 's4')	c	o
+rld.oyster.1	(('s0', 's1'), 's5')	c	o
+rld.card.1	(('s0', 's2'), 's4')	c	o
+snd.oyster	(('s1', 's1'), 's4')	c	o
+
+(('s0', 's2'), 's3')	0	7
+snd.card	(('s4', 's2'), 's3')	c	o
+rld.card.2	(('s0', 's4'), 's3')	c	o
+rld.oyster.2	(('s0', 's2'), 's5')	c	o
+rld.card.3	(('s0', 's5'), 's3')	c	o
+rld.oyster.1	(('s0', 's2'), 's4')	c	o
+rld.card.1	(('s0', 's3'), 's3')	c	o
+snd.oyster	(('s1', 's2'), 's3')	c	o
+
+(('s0', 's3'), 's2')	0	7
+snd.card	(('s4', 's3'), 's2')	c	o
+rld.card.1	(('s0', 's4'), 's2')	c	o
+rld.card.2	(('s0', 's5'), 's2')	c	o
+rld.oyster.3	(('s0', 's3'), 's5')	c	o
+rld.oyster.2	(('s0', 's3'), 's4')	c	o
+rld.oyster.1	(('s0', 's3'), 's3')	c	o
+snd.oyster	(('s1', 's3'), 's2')	c	o
+
+(('s0', 's4'), 's1')	0	7
+snd.card	(('s4', 's4'), 's1')	c	o
+rld.oyster.4	(('s0', 's4'), 's5')	c	o
+rld.card.1	(('s0', 's5'), 's1')	c	o
+rld.oyster.3	(('s0', 's4'), 's4')	c	o
+rld.oyster.2	(('s0', 's4'), 's3')	c	o
+rld.oyster.1	(('s0', 's4'), 's2')	c	o
+snd.oyster	(('s1', 's4'), 's1')	c	o
+
+(('s0', 's5'), 's0')	0	7
+snd.card	(('s4', 's5'), 's0')	c	o
+rld.oyster.2	(('s0', 's5'), 's2')	c	o
+rld.oyster.4	(('s0', 's5'), 's4')	c	o
+rld.oyster.1	(('s0', 's5'), 's1')	c	o
+snd.oyster	(('s1', 's5'), 's0')	c	o
+rld.oyster.3	(('s0', 's5'), 's3')	c	o
+rld.oyster.5	(('s0', 's5'), 's5')	c	o
+
+(('s4', 's0'), 's5')	0	7
+rld.card.2	(('s4', 's2'), 's5')	c	o
+rld.card.3	(('s4', 's3'), 's5')	c	o
+rld.card.5	(('s4', 's5'), 's5')	c	o
+rld.card.4	(('s4', 's4'), 's5')	c	o
+rcv.card.gin	(('s5', 's0'), 's5')	c	o
+rld.card.1	(('s4', 's1'), 's5')	c	o
+fg	(('s8', 's0'), 's5')	uc	uo
+
+(('s1', 's0'), 's5')	0	7
+rld.card.2	(('s1', 's2'), 's5')	c	o
+rld.card.3	(('s1', 's3'), 's5')	c	o
+rld.card.5	(('s1', 's5'), 's5')	c	o
+rld.card.4	(('s1', 's4'), 's5')	c	o
+rld.card.1	(('s1', 's1'), 's5')	c	o
+fg	(('s7', 's0'), 's5')	uc	uo
+rcv.oyster.gin	(('s2', 's0'), 's5')	c	o
+
+(('s4', 's1'), 's4')	0	7
+rld.card.2	(('s4', 's3'), 's4')	c	o
+rld.oyster.1	(('s4', 's1'), 's5')	c	o
+rld.card.3	(('s4', 's4'), 's4')	c	o
+rld.card.4	(('s4', 's5'), 's4')	c	o
+rcv.card.gin	(('s5', 's1'), 's4')	c	o
+rld.card.1	(('s4', 's2'), 's4')	c	o
+fg	(('s8', 's1'), 's4')	uc	uo
+
+(('s1', 's1'), 's4')	0	7
+rld.card.2	(('s1', 's3'), 's4')	c	o
+rld.card.3	(('s1', 's4'), 's4')	c	o
+rld.card.4	(('s1', 's5'), 's4')	c	o
+rld.oyster.1	(('s1', 's1'), 's5')	c	o
+rld.card.1	(('s1', 's2'), 's4')	c	o
+fg	(('s7', 's1'), 's4')	uc	uo
+rcv.oyster.gin	(('s2', 's1'), 's4')	c	o
+
+(('s4', 's2'), 's3')	0	7
+rld.card.2	(('s4', 's4'), 's3')	c	o
+rld.oyster.2	(('s4', 's2'), 's5')	c	o
+rld.card.3	(('s4', 's5'), 's3')	c	o
+rld.oyster.1	(('s4', 's2'), 's4')	c	o
+rcv.card.gin	(('s5', 's2'), 's3')	c	o
+rld.card.1	(('s4', 's3'), 's3')	c	o
+fg	(('s8', 's2'), 's3')	uc	uo
+
+(('s1', 's2'), 's3')	0	7
+rld.card.2	(('s1', 's4'), 's3')	c	o
+rld.oyster.2	(('s1', 's2'), 's5')	c	o
+rld.card.3	(('s1', 's5'), 's3')	c	o
+rld.oyster.1	(('s1', 's2'), 's4')	c	o
+rld.card.1	(('s1', 's3'), 's3')	c	o
+fg	(('s7', 's2'), 's3')	uc	uo
+rcv.oyster.gin	(('s2', 's2'), 's3')	c	o
+
+(('s4', 's3'), 's2')	0	7
+rld.card.1	(('s4', 's4'), 's2')	c	o
+rld.card.2	(('s4', 's5'), 's2')	c	o
+rld.oyster.3	(('s4', 's3'), 's5')	c	o
+rld.oyster.2	(('s4', 's3'), 's4')	c	o
+rld.oyster.1	(('s4', 's3'), 's3')	c	o
+rcv.card.gin	(('s5', 's3'), 's2')	c	o
+fg	(('s8', 's3'), 's2')	uc	uo
+
+(('s1', 's3'), 's2')	0	7
+rld.card.1	(('s1', 's4'), 's2')	c	o
+rld.card.2	(('s1', 's5'), 's2')	c	o
+rld.oyster.3	(('s1', 's3'), 's5')	c	o
+rcv.oyster.gin	(('s2', 's3'), 's2')	c	o
+rld.oyster.2	(('s1', 's3'), 's4')	c	o
+rld.oyster.1	(('s1', 's3'), 's3')	c	o
+fg	(('s7', 's3'), 's2')	uc	uo
+
+(('s4', 's4'), 's1')	0	7
+fg	(('s8', 's4'), 's1')	uc	uo
+rld.card.1	(('s4', 's5'), 's1')	c	o
+rld.oyster.3	(('s4', 's4'), 's4')	c	o
+rld.oyster.2	(('s4', 's4'), 's3')	c	o
+rld.oyster.1	(('s4', 's4'), 's2')	c	o
+rcv.card.gin	(('s5', 's4'), 's1')	c	o
+rld.oyster.4	(('s4', 's4'), 's5')	c	o
+
+(('s1', 's4'), 's1')	0	7
+rld.card.1	(('s1', 's5'), 's1')	c	o
+rld.oyster.3	(('s1', 's4'), 's4')	c	o
+rcv.oyster.gin	(('s2', 's4'), 's1')	c	o
+rld.oyster.2	(('s1', 's4'), 's3')	c	o
+rld.oyster.1	(('s1', 's4'), 's2')	c	o
+fg	(('s7', 's4'), 's1')	uc	uo
+rld.oyster.4	(('s1', 's4'), 's5')	c	o
+
+(('s4', 's5'), 's0')	0	7
+rld.oyster.2	(('s4', 's5'), 's2')	c	o
+rld.oyster.4	(('s4', 's5'), 's4')	c	o
+rld.oyster.1	(('s4', 's5'), 's1')	c	o
+rcv.card.gin	(('s5', 's5'), 's0')	c	o
+fg	(('s8', 's5'), 's0')	uc	uo
+rld.oyster.3	(('s4', 's5'), 's3')	c	o
+rld.oyster.5	(('s4', 's5'), 's5')	c	o
+
+(('s1', 's5'), 's0')	0	7
+rld.oyster.2	(('s1', 's5'), 's2')	c	o
+rld.oyster.1	(('s1', 's5'), 's1')	c	o
+fg	(('s7', 's5'), 's0')	uc	uo
+rld.oyster.4	(('s1', 's5'), 's4')	c	o
+rld.oyster.3	(('s1', 's5'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's5'), 's0')	c	o
+rld.oyster.5	(('s1', 's5'), 's5')	c	o
+
+(('s5', 's0'), 's5')	0	6
+rld.card.2	(('s5', 's2'), 's5')	c	o
+rld.card.3	(('s5', 's3'), 's5')	c	o
+snd.card.gin	(('s6', 's0'), 's5')	c	o
+rld.card.5	(('s5', 's5'), 's5')	c	o
+rld.card.4	(('s5', 's4'), 's5')	c	o
+rld.card.1	(('s5', 's1'), 's5')	c	o
+
+(('s8', 's0'), 's5')	0	7
+rld.card.2	(('s8', 's2'), 's5')	c	o
+rcv.card.gin	(('s2', 's0'), 's5')	c	o
+rmb	(('s4', 's0'), 's5')	uc	uo
+rld.card.3	(('s8', 's3'), 's5')	c	o
+rld.card.4	(('s8', 's4'), 's5')	c	o
+rld.card.5	(('s8', 's5'), 's5')	c	o
+rld.card.1	(('s8', 's1'), 's5')	c	o
+
+(('s7', 's0'), 's5')	0	7
+rld.card.2	(('s7', 's2'), 's5')	c	o
+rmb	(('s1', 's0'), 's5')	uc	uo
+rld.card.3	(('s7', 's3'), 's5')	c	o
+rld.card.5	(('s7', 's5'), 's5')	c	o
+rld.card.4	(('s7', 's4'), 's5')	c	o
+rld.card.1	(('s7', 's1'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's0'), 's5')	c	o
+
+(('s2', 's0'), 's5')	0	6
+snd.oyster.gin	(('s3', 's0'), 's5')	c	o
+rld.card.2	(('s2', 's2'), 's5')	c	o
+rld.card.3	(('s2', 's3'), 's5')	c	o
+rld.card.5	(('s2', 's5'), 's5')	c	o
+rld.card.4	(('s2', 's4'), 's5')	c	o
+rld.card.1	(('s2', 's1'), 's5')	c	o
+
+(('s5', 's1'), 's4')	0	6
+rld.card.2	(('s5', 's3'), 's4')	c	o
+rld.card.3	(('s5', 's4'), 's4')	c	o
+snd.card.gin	(('s6', 's1'), 's4')	c	o
+rld.card.4	(('s5', 's5'), 's4')	c	o
+rld.oyster.1	(('s5', 's1'), 's5')	c	o
+rld.card.1	(('s5', 's2'), 's4')	c	o
+
+(('s8', 's1'), 's4')	0	7
+rld.card.2	(('s8', 's3'), 's4')	c	o
+rld.oyster.1	(('s8', 's1'), 's5')	c	o
+rmb	(('s4', 's1'), 's4')	uc	uo
+rld.card.3	(('s8', 's4'), 's4')	c	o
+rld.card.4	(('s8', 's5'), 's4')	c	o
+rcv.card.gin	(('s2', 's1'), 's4')	c	o
+rld.card.1	(('s8', 's2'), 's4')	c	o
+
+(('s7', 's1'), 's4')	0	7
+rld.card.2	(('s7', 's3'), 's4')	c	o
+rmb	(('s1', 's1'), 's4')	uc	uo
+rld.card.3	(('s7', 's4'), 's4')	c	o
+rld.card.4	(('s7', 's5'), 's4')	c	o
+rld.oyster.1	(('s7', 's1'), 's5')	c	o
+rld.card.1	(('s7', 's2'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's1'), 's4')	c	o
+
+(('s2', 's1'), 's4')	0	6
+snd.oyster.gin	(('s3', 's1'), 's4')	c	o
+rld.card.2	(('s2', 's3'), 's4')	c	o
+rld.card.3	(('s2', 's4'), 's4')	c	o
+rld.card.4	(('s2', 's5'), 's4')	c	o
+rld.oyster.1	(('s2', 's1'), 's5')	c	o
+rld.card.1	(('s2', 's2'), 's4')	c	o
+
+(('s5', 's2'), 's3')	0	6
+rld.card.2	(('s5', 's4'), 's3')	c	o
+rld.oyster.2	(('s5', 's2'), 's5')	c	o
+rld.card.3	(('s5', 's5'), 's3')	c	o
+snd.card.gin	(('s6', 's2'), 's3')	c	o
+rld.oyster.1	(('s5', 's2'), 's4')	c	o
+rld.card.1	(('s5', 's3'), 's3')	c	o
+
+(('s8', 's2'), 's3')	0	7
+rld.card.2	(('s8', 's4'), 's3')	c	o
+rld.oyster.2	(('s8', 's2'), 's5')	c	o
+rmb	(('s4', 's2'), 's3')	uc	uo
+rld.card.3	(('s8', 's5'), 's3')	c	o
+rld.oyster.1	(('s8', 's2'), 's4')	c	o
+rcv.card.gin	(('s2', 's2'), 's3')	c	o
+rld.card.1	(('s8', 's3'), 's3')	c	o
+
+(('s7', 's2'), 's3')	0	7
+rld.card.2	(('s7', 's4'), 's3')	c	o
+rld.oyster.2	(('s7', 's2'), 's5')	c	o
+rmb	(('s1', 's2'), 's3')	uc	uo
+rld.card.3	(('s7', 's5'), 's3')	c	o
+rld.oyster.1	(('s7', 's2'), 's4')	c	o
+rld.card.1	(('s7', 's3'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's2'), 's3')	c	o
+
+(('s2', 's2'), 's3')	0	6
+snd.oyster.gin	(('s3', 's2'), 's3')	c	o
+rld.card.2	(('s2', 's4'), 's3')	c	o
+rld.oyster.2	(('s2', 's2'), 's5')	c	o
+rld.card.3	(('s2', 's5'), 's3')	c	o
+rld.oyster.1	(('s2', 's2'), 's4')	c	o
+rld.card.1	(('s2', 's3'), 's3')	c	o
+
+(('s5', 's3'), 's2')	0	6
+rld.card.1	(('s5', 's4'), 's2')	c	o
+rld.oyster.2	(('s5', 's3'), 's4')	c	o
+snd.card.gin	(('s6', 's3'), 's2')	c	o
+rld.oyster.1	(('s5', 's3'), 's3')	c	o
+rld.card.2	(('s5', 's5'), 's2')	c	o
+rld.oyster.3	(('s5', 's3'), 's5')	c	o
+
+(('s8', 's3'), 's2')	0	7
+rmb	(('s4', 's3'), 's2')	uc	uo
+rld.card.1	(('s8', 's4'), 's2')	c	o
+rld.card.2	(('s8', 's5'), 's2')	c	o
+rld.oyster.3	(('s8', 's3'), 's5')	c	o
+rld.oyster.2	(('s8', 's3'), 's4')	c	o
+rld.oyster.1	(('s8', 's3'), 's3')	c	o
+rcv.card.gin	(('s2', 's3'), 's2')	c	o
+
+(('s2', 's3'), 's2')	0	6
+rld.card.1	(('s2', 's4'), 's2')	c	o
+snd.oyster.gin	(('s3', 's3'), 's2')	c	o
+rld.oyster.2	(('s2', 's3'), 's4')	c	o
+rld.oyster.1	(('s2', 's3'), 's3')	c	o
+rld.card.2	(('s2', 's5'), 's2')	c	o
+rld.oyster.3	(('s2', 's3'), 's5')	c	o
+
+(('s7', 's3'), 's2')	0	7
+rmb	(('s1', 's3'), 's2')	uc	uo
+rld.card.1	(('s7', 's4'), 's2')	c	o
+rld.card.2	(('s7', 's5'), 's2')	c	o
+rld.oyster.3	(('s7', 's3'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's3'), 's2')	c	o
+rld.oyster.2	(('s7', 's3'), 's4')	c	o
+rld.oyster.1	(('s7', 's3'), 's3')	c	o
+
+(('s8', 's4'), 's1')	0	7
+rmb	(('s4', 's4'), 's1')	uc	uo
+rld.card.1	(('s8', 's5'), 's1')	c	o
+rld.oyster.3	(('s8', 's4'), 's4')	c	o
+rld.oyster.2	(('s8', 's4'), 's3')	c	o
+rld.oyster.1	(('s8', 's4'), 's2')	c	o
+rcv.card.gin	(('s2', 's4'), 's1')	c	o
+rld.oyster.4	(('s8', 's4'), 's5')	c	o
+
+(('s5', 's4'), 's1')	0	6
+rld.oyster.2	(('s5', 's4'), 's3')	c	o
+rld.oyster.1	(('s5', 's4'), 's2')	c	o
+snd.card.gin	(('s6', 's4'), 's1')	c	o
+rld.card.1	(('s5', 's5'), 's1')	c	o
+rld.oyster.4	(('s5', 's4'), 's5')	c	o
+rld.oyster.3	(('s5', 's4'), 's4')	c	o
+
+(('s2', 's4'), 's1')	0	6
+snd.oyster.gin	(('s3', 's4'), 's1')	c	o
+rld.oyster.2	(('s2', 's4'), 's3')	c	o
+rld.oyster.1	(('s2', 's4'), 's2')	c	o
+rld.card.1	(('s2', 's5'), 's1')	c	o
+rld.oyster.4	(('s2', 's4'), 's5')	c	o
+rld.oyster.3	(('s2', 's4'), 's4')	c	o
+
+(('s7', 's4'), 's1')	0	7
+rmb	(('s1', 's4'), 's1')	uc	uo
+rld.card.1	(('s7', 's5'), 's1')	c	o
+rld.oyster.3	(('s7', 's4'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's4'), 's1')	c	o
+rld.oyster.2	(('s7', 's4'), 's3')	c	o
+rld.oyster.1	(('s7', 's4'), 's2')	c	o
+rld.oyster.4	(('s7', 's4'), 's5')	c	o
+
+(('s5', 's5'), 's0')	0	6
+rld.oyster.2	(('s5', 's5'), 's2')	c	o
+snd.card.gin	(('s6', 's5'), 's0')	c	o
+rld.oyster.1	(('s5', 's5'), 's1')	c	o
+rld.oyster.4	(('s5', 's5'), 's4')	c	o
+rld.oyster.3	(('s5', 's5'), 's3')	c	o
+rld.oyster.5	(('s5', 's5'), 's5')	c	o
+
+(('s8', 's5'), 's0')	0	7
+rld.oyster.2	(('s8', 's5'), 's2')	c	o
+rmb	(('s4', 's5'), 's0')	uc	uo
+rld.oyster.1	(('s8', 's5'), 's1')	c	o
+rcv.card.gin	(('s2', 's5'), 's0')	c	o
+rld.oyster.4	(('s8', 's5'), 's4')	c	o
+rld.oyster.3	(('s8', 's5'), 's3')	c	o
+rld.oyster.5	(('s8', 's5'), 's5')	c	o
+
+(('s7', 's5'), 's0')	0	7
+rld.oyster.2	(('s7', 's5'), 's2')	c	o
+rmb	(('s1', 's5'), 's0')	uc	uo
+rld.oyster.1	(('s7', 's5'), 's1')	c	o
+rld.oyster.4	(('s7', 's5'), 's4')	c	o
+rld.oyster.3	(('s7', 's5'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's5'), 's0')	c	o
+rld.oyster.5	(('s7', 's5'), 's5')	c	o
+
+(('s2', 's5'), 's0')	0	6
+snd.oyster.gin	(('s3', 's5'), 's0')	c	o
+rld.oyster.2	(('s2', 's5'), 's2')	c	o
+rld.oyster.1	(('s2', 's5'), 's1')	c	o
+rld.oyster.4	(('s2', 's5'), 's4')	c	o
+rld.oyster.3	(('s2', 's5'), 's3')	c	o
+rld.oyster.5	(('s2', 's5'), 's5')	c	o
+
+(('s6', 's0'), 's5')	0	5
+rld.card.2	(('s6', 's2'), 's5')	c	o
+rld.card.3	(('s6', 's3'), 's5')	c	o
+rld.card.5	(('s6', 's5'), 's5')	c	o
+rld.card.4	(('s6', 's4'), 's5')	c	o
+rld.card.1	(('s6', 's1'), 's5')	c	o
+
+(('s3', 's0'), 's5')	0	6
+rld.card.2	(('s3', 's2'), 's5')	c	o
+rld.card.3	(('s3', 's3'), 's5')	c	o
+rld.card.5	(('s3', 's5'), 's5')	c	o
+rld.card.4	(('s3', 's4'), 's5')	c	o
+rcv.oyster.fin	(('s0', 's0'), 's4')	c	o
+rld.card.1	(('s3', 's1'), 's5')	c	o
+
+(('s6', 's1'), 's4')	0	6
+rcv.card.fin	(('s0', 's0'), 's4')	c	o
+rld.card.2	(('s6', 's3'), 's4')	c	o
+rld.card.3	(('s6', 's4'), 's4')	c	o
+rld.card.4	(('s6', 's5'), 's4')	c	o
+rld.oyster.1	(('s6', 's1'), 's5')	c	o
+rld.card.1	(('s6', 's2'), 's4')	c	o
+
+(('s3', 's1'), 's4')	0	6
+rld.card.2	(('s3', 's3'), 's4')	c	o
+rld.oyster.1	(('s3', 's1'), 's5')	c	o
+rld.card.3	(('s3', 's4'), 's4')	c	o
+rld.card.4	(('s3', 's5'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's1'), 's3')	c	o
+rld.card.1	(('s3', 's2'), 's4')	c	o
+
+(('s6', 's2'), 's3')	0	6
+rcv.card.fin	(('s0', 's1'), 's3')	c	o
+rld.card.2	(('s6', 's4'), 's3')	c	o
+rld.oyster.2	(('s6', 's2'), 's5')	c	o
+rld.card.3	(('s6', 's5'), 's3')	c	o
+rld.oyster.1	(('s6', 's2'), 's4')	c	o
+rld.card.1	(('s6', 's3'), 's3')	c	o
+
+(('s3', 's2'), 's3')	0	6
+rld.card.2	(('s3', 's4'), 's3')	c	o
+rld.oyster.2	(('s3', 's2'), 's5')	c	o
+rld.card.3	(('s3', 's5'), 's3')	c	o
+rld.oyster.1	(('s3', 's2'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's2'), 's2')	c	o
+rld.card.1	(('s3', 's3'), 's3')	c	o
+
+(('s6', 's3'), 's2')	0	6
+rld.card.1	(('s6', 's4'), 's2')	c	o
+rcv.card.fin	(('s0', 's2'), 's2')	c	o
+rld.oyster.2	(('s6', 's3'), 's4')	c	o
+rld.oyster.1	(('s6', 's3'), 's3')	c	o
+rld.card.2	(('s6', 's5'), 's2')	c	o
+rld.oyster.3	(('s6', 's3'), 's5')	c	o
+
+(('s3', 's3'), 's2')	0	6
+rld.card.1	(('s3', 's4'), 's2')	c	o
+rld.oyster.2	(('s3', 's3'), 's4')	c	o
+rld.oyster.1	(('s3', 's3'), 's3')	c	o
+rcv.oyster.fin	(('s0', 's3'), 's1')	c	o
+rld.card.2	(('s3', 's5'), 's2')	c	o
+rld.oyster.3	(('s3', 's3'), 's5')	c	o
+
+(('s6', 's4'), 's1')	0	6
+rcv.card.fin	(('s0', 's3'), 's1')	c	o
+rld.oyster.2	(('s6', 's4'), 's3')	c	o
+rld.oyster.1	(('s6', 's4'), 's2')	c	o
+rld.card.1	(('s6', 's5'), 's1')	c	o
+rld.oyster.4	(('s6', 's4'), 's5')	c	o
+rld.oyster.3	(('s6', 's4'), 's4')	c	o
+
+(('s3', 's4'), 's1')	0	6
+rld.oyster.2	(('s3', 's4'), 's3')	c	o
+rld.oyster.1	(('s3', 's4'), 's2')	c	o
+rcv.oyster.fin	(('s0', 's4'), 's0')	c	o
+rld.card.1	(('s3', 's5'), 's1')	c	o
+rld.oyster.4	(('s3', 's4'), 's5')	c	o
+rld.oyster.3	(('s3', 's4'), 's4')	c	o
+
+(('s6', 's5'), 's0')	0	6
+rcv.card.fin	(('s0', 's4'), 's0')	c	o
+rld.oyster.2	(('s6', 's5'), 's2')	c	o
+rld.oyster.1	(('s6', 's5'), 's1')	c	o
+rld.oyster.4	(('s6', 's5'), 's4')	c	o
+rld.oyster.3	(('s6', 's5'), 's3')	c	o
+rld.oyster.5	(('s6', 's5'), 's5')	c	o
+
+(('s3', 's5'), 's0')	0	5
+rld.oyster.2	(('s3', 's5'), 's2')	c	o
+rld.oyster.1	(('s3', 's5'), 's1')	c	o
+rld.oyster.4	(('s3', 's5'), 's4')	c	o
+rld.oyster.3	(('s3', 's5'), 's3')	c	o
+rld.oyster.5	(('s3', 's5'), 's5')	c	o
+
+(('s0', 's0'), 's4')	0	8
+snd.card	(('s4', 's0'), 's4')	c	o
+rld.card.2	(('s0', 's2'), 's4')	c	o
+rld.card.1	(('s0', 's1'), 's4')	c	o
+rld.card.3	(('s0', 's3'), 's4')	c	o
+rld.card.5	(('s0', 's5'), 's4')	c	o
+rld.card.4	(('s0', 's4'), 's4')	c	o
+rld.oyster.1	(('s0', 's0'), 's5')	c	o
+snd.oyster	(('s1', 's0'), 's4')	c	o
+
+(('s0', 's1'), 's3')	0	8
+snd.card	(('s4', 's1'), 's3')	c	o
+rld.card.2	(('s0', 's3'), 's3')	c	o
+rld.card.1	(('s0', 's2'), 's3')	c	o
+rld.oyster.2	(('s0', 's1'), 's5')	c	o
+rld.card.3	(('s0', 's4'), 's3')	c	o
+rld.card.4	(('s0', 's5'), 's3')	c	o
+rld.oyster.1	(('s0', 's1'), 's4')	c	o
+snd.oyster	(('s1', 's1'), 's3')	c	o
+
+(('s0', 's2'), 's2')	0	8
+snd.card	(('s4', 's2'), 's2')	c	o
+rld.card.2	(('s0', 's4'), 's2')	c	o
+rld.card.1	(('s0', 's3'), 's2')	c	o
+rld.oyster.3	(('s0', 's2'), 's5')	c	o
+rld.oyster.2	(('s0', 's2'), 's4')	c	o
+rld.card.3	(('s0', 's5'), 's2')	c	o
+rld.oyster.1	(('s0', 's2'), 's3')	c	o
+snd.oyster	(('s1', 's2'), 's2')	c	o
+
+(('s0', 's3'), 's1')	0	8
+snd.card	(('s4', 's3'), 's1')	c	o
+rld.oyster.4	(('s0', 's3'), 's5')	c	o
+rld.card.1	(('s0', 's4'), 's1')	c	o
+rld.card.2	(('s0', 's5'), 's1')	c	o
+rld.oyster.3	(('s0', 's3'), 's4')	c	o
+rld.oyster.2	(('s0', 's3'), 's3')	c	o
+rld.oyster.1	(('s0', 's3'), 's2')	c	o
+snd.oyster	(('s1', 's3'), 's1')	c	o
+
+(('s0', 's4'), 's0')	0	8
+snd.card	(('s4', 's4'), 's0')	c	o
+rld.oyster.4	(('s0', 's4'), 's4')	c	o
+rld.card.1	(('s0', 's5'), 's0')	c	o
+rld.oyster.3	(('s0', 's4'), 's3')	c	o
+rld.oyster.5	(('s0', 's4'), 's5')	c	o
+rld.oyster.2	(('s0', 's4'), 's2')	c	o
+rld.oyster.1	(('s0', 's4'), 's1')	c	o
+snd.oyster	(('s1', 's4'), 's0')	c	o
+
+(('s4', 's0'), 's4')	0	8
+rld.card.2	(('s4', 's2'), 's4')	c	o
+rld.card.1	(('s4', 's1'), 's4')	c	o
+fg	(('s8', 's0'), 's4')	uc	uo
+rld.card.3	(('s4', 's3'), 's4')	c	o
+rld.card.5	(('s4', 's5'), 's4')	c	o
+rld.card.4	(('s4', 's4'), 's4')	c	o
+rld.oyster.1	(('s4', 's0'), 's5')	c	o
+rcv.card.gin	(('s5', 's0'), 's4')	c	o
+
+(('s1', 's0'), 's4')	0	8
+rld.card.2	(('s1', 's2'), 's4')	c	o
+rld.card.1	(('s1', 's1'), 's4')	c	o
+rcv.oyster.gin	(('s2', 's0'), 's4')	c	o
+rld.card.3	(('s1', 's3'), 's4')	c	o
+rld.card.5	(('s1', 's5'), 's4')	c	o
+rld.card.4	(('s1', 's4'), 's4')	c	o
+rld.oyster.1	(('s1', 's0'), 's5')	c	o
+fg	(('s7', 's0'), 's4')	uc	uo
+
+(('s4', 's1'), 's3')	0	8
+rld.card.2	(('s4', 's3'), 's3')	c	o
+rld.card.1	(('s4', 's2'), 's3')	c	o
+fg	(('s8', 's1'), 's3')	uc	uo
+rld.oyster.2	(('s4', 's1'), 's5')	c	o
+rld.card.3	(('s4', 's4'), 's3')	c	o
+rld.card.4	(('s4', 's5'), 's3')	c	o
+rld.oyster.1	(('s4', 's1'), 's4')	c	o
+rcv.card.gin	(('s5', 's1'), 's3')	c	o
+
+(('s1', 's1'), 's3')	0	8
+rld.card.2	(('s1', 's3'), 's3')	c	o
+rld.card.1	(('s1', 's2'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's1'), 's3')	c	o
+rld.oyster.2	(('s1', 's1'), 's5')	c	o
+rld.card.3	(('s1', 's4'), 's3')	c	o
+rld.card.4	(('s1', 's5'), 's3')	c	o
+rld.oyster.1	(('s1', 's1'), 's4')	c	o
+fg	(('s7', 's1'), 's3')	uc	uo
+
+(('s4', 's2'), 's2')	0	8
+rld.card.2	(('s4', 's4'), 's2')	c	o
+rld.card.1	(('s4', 's3'), 's2')	c	o
+fg	(('s8', 's2'), 's2')	uc	uo
+rld.oyster.3	(('s4', 's2'), 's5')	c	o
+rld.oyster.2	(('s4', 's2'), 's4')	c	o
+rld.card.3	(('s4', 's5'), 's2')	c	o
+rld.oyster.1	(('s4', 's2'), 's3')	c	o
+rcv.card.gin	(('s5', 's2'), 's2')	c	o
+
+(('s1', 's2'), 's2')	0	8
+rld.card.2	(('s1', 's4'), 's2')	c	o
+rld.card.1	(('s1', 's3'), 's2')	c	o
+rld.oyster.3	(('s1', 's2'), 's5')	c	o
+rcv.oyster.gin	(('s2', 's2'), 's2')	c	o
+rld.oyster.2	(('s1', 's2'), 's4')	c	o
+rld.card.3	(('s1', 's5'), 's2')	c	o
+rld.oyster.1	(('s1', 's2'), 's3')	c	o
+fg	(('s7', 's2'), 's2')	uc	uo
+
+(('s4', 's3'), 's1')	0	8
+rld.card.1	(('s4', 's4'), 's1')	c	o
+rld.card.2	(('s4', 's5'), 's1')	c	o
+rld.oyster.3	(('s4', 's3'), 's4')	c	o
+rld.oyster.2	(('s4', 's3'), 's3')	c	o
+rld.oyster.1	(('s4', 's3'), 's2')	c	o
+rcv.card.gin	(('s5', 's3'), 's1')	c	o
+fg	(('s8', 's3'), 's1')	uc	uo
+rld.oyster.4	(('s4', 's3'), 's5')	c	o
+
+(('s1', 's3'), 's1')	0	8
+rld.card.1	(('s1', 's4'), 's1')	c	o
+rld.card.2	(('s1', 's5'), 's1')	c	o
+rld.oyster.3	(('s1', 's3'), 's4')	c	o
+rcv.oyster.gin	(('s2', 's3'), 's1')	c	o
+rld.oyster.2	(('s1', 's3'), 's3')	c	o
+rld.oyster.1	(('s1', 's3'), 's2')	c	o
+fg	(('s7', 's3'), 's1')	uc	uo
+rld.oyster.4	(('s1', 's3'), 's5')	c	o
+
+(('s4', 's4'), 's0')	0	8
+fg	(('s8', 's4'), 's0')	uc	uo
+rld.card.1	(('s4', 's5'), 's0')	c	o
+rld.oyster.3	(('s4', 's4'), 's3')	c	o
+rld.oyster.5	(('s4', 's4'), 's5')	c	o
+rld.oyster.2	(('s4', 's4'), 's2')	c	o
+rld.oyster.1	(('s4', 's4'), 's1')	c	o
+rcv.card.gin	(('s5', 's4'), 's0')	c	o
+rld.oyster.4	(('s4', 's4'), 's4')	c	o
+
+(('s1', 's4'), 's0')	0	8
+rld.card.1	(('s1', 's5'), 's0')	c	o
+rld.oyster.3	(('s1', 's4'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's4'), 's0')	c	o
+rld.oyster.5	(('s1', 's4'), 's5')	c	o
+rld.oyster.2	(('s1', 's4'), 's2')	c	o
+rld.oyster.1	(('s1', 's4'), 's1')	c	o
+fg	(('s7', 's4'), 's0')	uc	uo
+rld.oyster.4	(('s1', 's4'), 's4')	c	o
+
+(('s8', 's0'), 's4')	0	8
+rmb	(('s4', 's0'), 's4')	uc	uo
+rld.card.2	(('s8', 's2'), 's4')	c	o
+rld.card.1	(('s8', 's1'), 's4')	c	o
+rld.card.3	(('s8', 's3'), 's4')	c	o
+rld.card.4	(('s8', 's4'), 's4')	c	o
+rld.card.5	(('s8', 's5'), 's4')	c	o
+rld.oyster.1	(('s8', 's0'), 's5')	c	o
+rcv.card.gin	(('s2', 's0'), 's4')	c	o
+
+(('s5', 's0'), 's4')	0	7
+rld.card.2	(('s5', 's2'), 's4')	c	o
+rld.oyster.1	(('s5', 's0'), 's5')	c	o
+rld.card.3	(('s5', 's3'), 's4')	c	o
+snd.card.gin	(('s6', 's0'), 's4')	c	o
+rld.card.5	(('s5', 's5'), 's4')	c	o
+rld.card.4	(('s5', 's4'), 's4')	c	o
+rld.card.1	(('s5', 's1'), 's4')	c	o
+
+(('s2', 's0'), 's4')	0	7
+snd.oyster.gin	(('s3', 's0'), 's4')	c	o
+rld.card.2	(('s2', 's2'), 's4')	c	o
+rld.card.3	(('s2', 's3'), 's4')	c	o
+rld.card.5	(('s2', 's5'), 's4')	c	o
+rld.card.4	(('s2', 's4'), 's4')	c	o
+rld.oyster.1	(('s2', 's0'), 's5')	c	o
+rld.card.1	(('s2', 's1'), 's4')	c	o
+
+(('s7', 's0'), 's4')	0	8
+rmb	(('s1', 's0'), 's4')	uc	uo
+rld.card.2	(('s7', 's2'), 's4')	c	o
+rld.card.1	(('s7', 's1'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's0'), 's4')	c	o
+rld.card.3	(('s7', 's3'), 's4')	c	o
+rld.card.5	(('s7', 's5'), 's4')	c	o
+rld.card.4	(('s7', 's4'), 's4')	c	o
+rld.oyster.1	(('s7', 's0'), 's5')	c	o
+
+(('s8', 's1'), 's3')	0	8
+rmb	(('s4', 's1'), 's3')	uc	uo
+rld.card.2	(('s8', 's3'), 's3')	c	o
+rld.card.1	(('s8', 's2'), 's3')	c	o
+rld.oyster.2	(('s8', 's1'), 's5')	c	o
+rld.card.3	(('s8', 's4'), 's3')	c	o
+rld.card.4	(('s8', 's5'), 's3')	c	o
+rld.oyster.1	(('s8', 's1'), 's4')	c	o
+rcv.card.gin	(('s2', 's1'), 's3')	c	o
+
+(('s5', 's1'), 's3')	0	7
+rld.card.2	(('s5', 's3'), 's3')	c	o
+rld.oyster.2	(('s5', 's1'), 's5')	c	o
+rld.card.3	(('s5', 's4'), 's3')	c	o
+snd.card.gin	(('s6', 's1'), 's3')	c	o
+rld.card.4	(('s5', 's5'), 's3')	c	o
+rld.oyster.1	(('s5', 's1'), 's4')	c	o
+rld.card.1	(('s5', 's2'), 's3')	c	o
+
+(('s2', 's1'), 's3')	0	7
+snd.oyster.gin	(('s3', 's1'), 's3')	c	o
+rld.card.2	(('s2', 's3'), 's3')	c	o
+rld.oyster.2	(('s2', 's1'), 's5')	c	o
+rld.card.3	(('s2', 's4'), 's3')	c	o
+rld.card.4	(('s2', 's5'), 's3')	c	o
+rld.oyster.1	(('s2', 's1'), 's4')	c	o
+rld.card.1	(('s2', 's2'), 's3')	c	o
+
+(('s7', 's1'), 's3')	0	8
+rmb	(('s1', 's1'), 's3')	uc	uo
+rld.card.2	(('s7', 's3'), 's3')	c	o
+rld.card.1	(('s7', 's2'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's1'), 's3')	c	o
+rld.oyster.2	(('s7', 's1'), 's5')	c	o
+rld.card.3	(('s7', 's4'), 's3')	c	o
+rld.card.4	(('s7', 's5'), 's3')	c	o
+rld.oyster.1	(('s7', 's1'), 's4')	c	o
+
+(('s8', 's2'), 's2')	0	8
+rmb	(('s4', 's2'), 's2')	uc	uo
+rld.card.2	(('s8', 's4'), 's2')	c	o
+rld.card.1	(('s8', 's3'), 's2')	c	o
+rld.oyster.3	(('s8', 's2'), 's5')	c	o
+rld.oyster.2	(('s8', 's2'), 's4')	c	o
+rld.card.3	(('s8', 's5'), 's2')	c	o
+rld.oyster.1	(('s8', 's2'), 's3')	c	o
+rcv.card.gin	(('s2', 's2'), 's2')	c	o
+
+(('s5', 's2'), 's2')	0	7
+snd.card.gin	(('s6', 's2'), 's2')	c	o
+rld.card.1	(('s5', 's3'), 's2')	c	o
+rld.card.2	(('s5', 's4'), 's2')	c	o
+rld.oyster.3	(('s5', 's2'), 's5')	c	o
+rld.oyster.2	(('s5', 's2'), 's4')	c	o
+rld.card.3	(('s5', 's5'), 's2')	c	o
+rld.oyster.1	(('s5', 's2'), 's3')	c	o
+
+(('s2', 's2'), 's2')	0	7
+snd.oyster.gin	(('s3', 's2'), 's2')	c	o
+rld.card.1	(('s2', 's3'), 's2')	c	o
+rld.card.2	(('s2', 's4'), 's2')	c	o
+rld.oyster.3	(('s2', 's2'), 's5')	c	o
+rld.oyster.2	(('s2', 's2'), 's4')	c	o
+rld.card.3	(('s2', 's5'), 's2')	c	o
+rld.oyster.1	(('s2', 's2'), 's3')	c	o
+
+(('s7', 's2'), 's2')	0	8
+rmb	(('s1', 's2'), 's2')	uc	uo
+rld.card.2	(('s7', 's4'), 's2')	c	o
+rld.card.1	(('s7', 's3'), 's2')	c	o
+rld.oyster.3	(('s7', 's2'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's2'), 's2')	c	o
+rld.oyster.2	(('s7', 's2'), 's4')	c	o
+rld.card.3	(('s7', 's5'), 's2')	c	o
+rld.oyster.1	(('s7', 's2'), 's3')	c	o
+
+(('s5', 's3'), 's1')	0	7
+snd.card.gin	(('s6', 's3'), 's1')	c	o
+rld.card.2	(('s5', 's5'), 's1')	c	o
+rld.card.1	(('s5', 's4'), 's1')	c	o
+rld.oyster.3	(('s5', 's3'), 's4')	c	o
+rld.oyster.2	(('s5', 's3'), 's3')	c	o
+rld.oyster.1	(('s5', 's3'), 's2')	c	o
+rld.oyster.4	(('s5', 's3'), 's5')	c	o
+
+(('s8', 's3'), 's1')	0	8
+rmb	(('s4', 's3'), 's1')	uc	uo
+rld.card.1	(('s8', 's4'), 's1')	c	o
+rld.card.2	(('s8', 's5'), 's1')	c	o
+rld.oyster.3	(('s8', 's3'), 's4')	c	o
+rld.oyster.2	(('s8', 's3'), 's3')	c	o
+rld.oyster.1	(('s8', 's3'), 's2')	c	o
+rcv.card.gin	(('s2', 's3'), 's1')	c	o
+rld.oyster.4	(('s8', 's3'), 's5')	c	o
+
+(('s2', 's3'), 's1')	0	7
+snd.oyster.gin	(('s3', 's3'), 's1')	c	o
+rld.card.2	(('s2', 's5'), 's1')	c	o
+rld.card.1	(('s2', 's4'), 's1')	c	o
+rld.oyster.3	(('s2', 's3'), 's4')	c	o
+rld.oyster.2	(('s2', 's3'), 's3')	c	o
+rld.oyster.1	(('s2', 's3'), 's2')	c	o
+rld.oyster.4	(('s2', 's3'), 's5')	c	o
+
+(('s7', 's3'), 's1')	0	8
+rmb	(('s1', 's3'), 's1')	uc	uo
+rld.card.1	(('s7', 's4'), 's1')	c	o
+rld.card.2	(('s7', 's5'), 's1')	c	o
+rld.oyster.3	(('s7', 's3'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's3'), 's1')	c	o
+rld.oyster.2	(('s7', 's3'), 's3')	c	o
+rld.oyster.1	(('s7', 's3'), 's2')	c	o
+rld.oyster.4	(('s7', 's3'), 's5')	c	o
+
+(('s8', 's4'), 's0')	0	8
+rmb	(('s4', 's4'), 's0')	uc	uo
+rld.card.1	(('s8', 's5'), 's0')	c	o
+rld.oyster.3	(('s8', 's4'), 's3')	c	o
+rld.oyster.5	(('s8', 's4'), 's5')	c	o
+rld.oyster.2	(('s8', 's4'), 's2')	c	o
+rld.oyster.1	(('s8', 's4'), 's1')	c	o
+rcv.card.gin	(('s2', 's4'), 's0')	c	o
+rld.oyster.4	(('s8', 's4'), 's4')	c	o
+
+(('s5', 's4'), 's0')	0	7
+rld.oyster.2	(('s5', 's4'), 's2')	c	o
+snd.card.gin	(('s6', 's4'), 's0')	c	o
+rld.oyster.1	(('s5', 's4'), 's1')	c	o
+rld.card.1	(('s5', 's5'), 's0')	c	o
+rld.oyster.4	(('s5', 's4'), 's4')	c	o
+rld.oyster.3	(('s5', 's4'), 's3')	c	o
+rld.oyster.5	(('s5', 's4'), 's5')	c	o
+
+(('s2', 's4'), 's0')	0	7
+snd.oyster.gin	(('s3', 's4'), 's0')	c	o
+rld.oyster.2	(('s2', 's4'), 's2')	c	o
+rld.oyster.1	(('s2', 's4'), 's1')	c	o
+rld.card.1	(('s2', 's5'), 's0')	c	o
+rld.oyster.4	(('s2', 's4'), 's4')	c	o
+rld.oyster.3	(('s2', 's4'), 's3')	c	o
+rld.oyster.5	(('s2', 's4'), 's5')	c	o
+
+(('s7', 's4'), 's0')	0	8
+rmb	(('s1', 's4'), 's0')	uc	uo
+rld.card.1	(('s7', 's5'), 's0')	c	o
+rld.oyster.3	(('s7', 's4'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's4'), 's0')	c	o
+rld.oyster.5	(('s7', 's4'), 's5')	c	o
+rld.oyster.2	(('s7', 's4'), 's2')	c	o
+rld.oyster.1	(('s7', 's4'), 's1')	c	o
+rld.oyster.4	(('s7', 's4'), 's4')	c	o
+
+(('s6', 's0'), 's4')	0	6
+rld.card.2	(('s6', 's2'), 's4')	c	o
+rld.card.3	(('s6', 's3'), 's4')	c	o
+rld.card.5	(('s6', 's5'), 's4')	c	o
+rld.card.4	(('s6', 's4'), 's4')	c	o
+rld.oyster.1	(('s6', 's0'), 's5')	c	o
+rld.card.1	(('s6', 's1'), 's4')	c	o
+
+(('s3', 's0'), 's4')	0	7
+rld.card.2	(('s3', 's2'), 's4')	c	o
+rld.oyster.1	(('s3', 's0'), 's5')	c	o
+rld.card.3	(('s3', 's3'), 's4')	c	o
+rld.card.5	(('s3', 's5'), 's4')	c	o
+rld.card.4	(('s3', 's4'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's0'), 's3')	c	o
+rld.card.1	(('s3', 's1'), 's4')	c	o
+
+(('s6', 's1'), 's3')	0	7
+rcv.card.fin	(('s0', 's0'), 's3')	c	o
+rld.card.2	(('s6', 's3'), 's3')	c	o
+rld.oyster.2	(('s6', 's1'), 's5')	c	o
+rld.card.3	(('s6', 's4'), 's3')	c	o
+rld.card.4	(('s6', 's5'), 's3')	c	o
+rld.oyster.1	(('s6', 's1'), 's4')	c	o
+rld.card.1	(('s6', 's2'), 's3')	c	o
+
+(('s3', 's1'), 's3')	0	7
+rld.card.2	(('s3', 's3'), 's3')	c	o
+rld.oyster.2	(('s3', 's1'), 's5')	c	o
+rld.card.3	(('s3', 's4'), 's3')	c	o
+rld.card.4	(('s3', 's5'), 's3')	c	o
+rld.oyster.1	(('s3', 's1'), 's4')	c	o
+rcv.oyster.fin	(('s0', 's1'), 's2')	c	o
+rld.card.1	(('s3', 's2'), 's3')	c	o
+
+(('s6', 's2'), 's2')	0	7
+rld.card.1	(('s6', 's3'), 's2')	c	o
+rld.card.2	(('s6', 's4'), 's2')	c	o
+rld.oyster.3	(('s6', 's2'), 's5')	c	o
+rcv.card.fin	(('s0', 's1'), 's2')	c	o
+rld.oyster.2	(('s6', 's2'), 's4')	c	o
+rld.card.3	(('s6', 's5'), 's2')	c	o
+rld.oyster.1	(('s6', 's2'), 's3')	c	o
+
+(('s3', 's2'), 's2')	0	7
+rcv.oyster.fin	(('s0', 's2'), 's1')	c	o
+rld.card.1	(('s3', 's3'), 's2')	c	o
+rld.card.2	(('s3', 's4'), 's2')	c	o
+rld.oyster.3	(('s3', 's2'), 's5')	c	o
+rld.oyster.2	(('s3', 's2'), 's4')	c	o
+rld.card.3	(('s3', 's5'), 's2')	c	o
+rld.oyster.1	(('s3', 's2'), 's3')	c	o
+
+(('s6', 's3'), 's1')	0	7
+rld.card.2	(('s6', 's5'), 's1')	c	o
+rld.card.1	(('s6', 's4'), 's1')	c	o
+rld.oyster.3	(('s6', 's3'), 's4')	c	o
+rcv.card.fin	(('s0', 's2'), 's1')	c	o
+rld.oyster.2	(('s6', 's3'), 's3')	c	o
+rld.oyster.1	(('s6', 's3'), 's2')	c	o
+rld.oyster.4	(('s6', 's3'), 's5')	c	o
+
+(('s3', 's3'), 's1')	0	7
+rcv.oyster.fin	(('s0', 's3'), 's0')	c	o
+rld.card.2	(('s3', 's5'), 's1')	c	o
+rld.card.1	(('s3', 's4'), 's1')	c	o
+rld.oyster.3	(('s3', 's3'), 's4')	c	o
+rld.oyster.2	(('s3', 's3'), 's3')	c	o
+rld.oyster.1	(('s3', 's3'), 's2')	c	o
+rld.oyster.4	(('s3', 's3'), 's5')	c	o
+
+(('s6', 's4'), 's0')	0	7
+rcv.card.fin	(('s0', 's3'), 's0')	c	o
+rld.oyster.2	(('s6', 's4'), 's2')	c	o
+rld.oyster.1	(('s6', 's4'), 's1')	c	o
+rld.card.1	(('s6', 's5'), 's0')	c	o
+rld.oyster.4	(('s6', 's4'), 's4')	c	o
+rld.oyster.3	(('s6', 's4'), 's3')	c	o
+rld.oyster.5	(('s6', 's4'), 's5')	c	o
+
+(('s3', 's4'), 's0')	0	6
+rld.oyster.2	(('s3', 's4'), 's2')	c	o
+rld.oyster.1	(('s3', 's4'), 's1')	c	o
+rld.card.1	(('s3', 's5'), 's0')	c	o
+rld.oyster.4	(('s3', 's4'), 's4')	c	o
+rld.oyster.3	(('s3', 's4'), 's3')	c	o
+rld.oyster.5	(('s3', 's4'), 's5')	c	o
+
+(('s0', 's0'), 's3')	0	9
+snd.card	(('s4', 's0'), 's3')	c	o
+rld.card.2	(('s0', 's2'), 's3')	c	o
+rld.card.1	(('s0', 's1'), 's3')	c	o
+rld.oyster.2	(('s0', 's0'), 's5')	c	o
+rld.card.3	(('s0', 's3'), 's3')	c	o
+rld.card.5	(('s0', 's5'), 's3')	c	o
+rld.card.4	(('s0', 's4'), 's3')	c	o
+rld.oyster.1	(('s0', 's0'), 's4')	c	o
+snd.oyster	(('s1', 's0'), 's3')	c	o
+
+(('s0', 's1'), 's2')	0	9
+snd.card	(('s4', 's1'), 's2')	c	o
+rld.card.2	(('s0', 's3'), 's2')	c	o
+rld.card.1	(('s0', 's2'), 's2')	c	o
+rld.oyster.3	(('s0', 's1'), 's5')	c	o
+rld.oyster.2	(('s0', 's1'), 's4')	c	o
+rld.card.3	(('s0', 's4'), 's2')	c	o
+rld.card.4	(('s0', 's5'), 's2')	c	o
+rld.oyster.1	(('s0', 's1'), 's3')	c	o
+snd.oyster	(('s1', 's1'), 's2')	c	o
+
+(('s0', 's2'), 's1')	0	9
+snd.card	(('s4', 's2'), 's1')	c	o
+rld.oyster.4	(('s0', 's2'), 's5')	c	o
+rld.card.2	(('s0', 's4'), 's1')	c	o
+rld.card.1	(('s0', 's3'), 's1')	c	o
+rld.oyster.3	(('s0', 's2'), 's4')	c	o
+rld.oyster.2	(('s0', 's2'), 's3')	c	o
+rld.card.3	(('s0', 's5'), 's1')	c	o
+rld.oyster.1	(('s0', 's2'), 's2')	c	o
+snd.oyster	(('s1', 's2'), 's1')	c	o
+
+(('s0', 's3'), 's0')	0	9
+snd.card	(('s4', 's3'), 's0')	c	o
+rld.oyster.4	(('s0', 's3'), 's4')	c	o
+rld.card.1	(('s0', 's4'), 's0')	c	o
+rld.card.2	(('s0', 's5'), 's0')	c	o
+rld.oyster.3	(('s0', 's3'), 's3')	c	o
+rld.oyster.5	(('s0', 's3'), 's5')	c	o
+rld.oyster.2	(('s0', 's3'), 's2')	c	o
+rld.oyster.1	(('s0', 's3'), 's1')	c	o
+snd.oyster	(('s1', 's3'), 's0')	c	o
+
+(('s4', 's0'), 's3')	0	9
+rld.card.2	(('s4', 's2'), 's3')	c	o
+rld.card.1	(('s4', 's1'), 's3')	c	o
+fg	(('s8', 's0'), 's3')	uc	uo
+rld.oyster.2	(('s4', 's0'), 's5')	c	o
+rld.card.3	(('s4', 's3'), 's3')	c	o
+rld.card.5	(('s4', 's5'), 's3')	c	o
+rld.card.4	(('s4', 's4'), 's3')	c	o
+rld.oyster.1	(('s4', 's0'), 's4')	c	o
+rcv.card.gin	(('s5', 's0'), 's3')	c	o
+
+(('s1', 's0'), 's3')	0	9
+rld.card.2	(('s1', 's2'), 's3')	c	o
+rld.card.1	(('s1', 's1'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's0'), 's3')	c	o
+rld.oyster.2	(('s1', 's0'), 's5')	c	o
+rld.card.3	(('s1', 's3'), 's3')	c	o
+rld.card.5	(('s1', 's5'), 's3')	c	o
+rld.card.4	(('s1', 's4'), 's3')	c	o
+rld.oyster.1	(('s1', 's0'), 's4')	c	o
+fg	(('s7', 's0'), 's3')	uc	uo
+
+(('s4', 's1'), 's2')	0	9
+rld.card.2	(('s4', 's3'), 's2')	c	o
+rld.card.1	(('s4', 's2'), 's2')	c	o
+fg	(('s8', 's1'), 's2')	uc	uo
+rld.oyster.3	(('s4', 's1'), 's5')	c	o
+rld.oyster.2	(('s4', 's1'), 's4')	c	o
+rld.card.3	(('s4', 's4'), 's2')	c	o
+rld.card.4	(('s4', 's5'), 's2')	c	o
+rld.oyster.1	(('s4', 's1'), 's3')	c	o
+rcv.card.gin	(('s5', 's1'), 's2')	c	o
+
+(('s1', 's1'), 's2')	0	9
+rld.card.2	(('s1', 's3'), 's2')	c	o
+rld.card.1	(('s1', 's2'), 's2')	c	o
+rld.oyster.3	(('s1', 's1'), 's5')	c	o
+rcv.oyster.gin	(('s2', 's1'), 's2')	c	o
+rld.oyster.2	(('s1', 's1'), 's4')	c	o
+rld.card.3	(('s1', 's4'), 's2')	c	o
+rld.card.4	(('s1', 's5'), 's2')	c	o
+rld.oyster.1	(('s1', 's1'), 's3')	c	o
+fg	(('s7', 's1'), 's2')	uc	uo
+
+(('s4', 's2'), 's1')	0	9
+rld.card.2	(('s4', 's4'), 's1')	c	o
+rld.card.1	(('s4', 's3'), 's1')	c	o
+fg	(('s8', 's2'), 's1')	uc	uo
+rld.oyster.3	(('s4', 's2'), 's4')	c	o
+rld.oyster.2	(('s4', 's2'), 's3')	c	o
+rld.card.3	(('s4', 's5'), 's1')	c	o
+rld.oyster.1	(('s4', 's2'), 's2')	c	o
+rcv.card.gin	(('s5', 's2'), 's1')	c	o
+rld.oyster.4	(('s4', 's2'), 's5')	c	o
+
+(('s1', 's2'), 's1')	0	9
+rld.card.2	(('s1', 's4'), 's1')	c	o
+rld.card.1	(('s1', 's3'), 's1')	c	o
+rld.oyster.3	(('s1', 's2'), 's4')	c	o
+rcv.oyster.gin	(('s2', 's2'), 's1')	c	o
+rld.oyster.2	(('s1', 's2'), 's3')	c	o
+rld.card.3	(('s1', 's5'), 's1')	c	o
+rld.oyster.1	(('s1', 's2'), 's2')	c	o
+fg	(('s7', 's2'), 's1')	uc	uo
+rld.oyster.4	(('s1', 's2'), 's5')	c	o
+
+(('s4', 's3'), 's0')	0	9
+rld.card.1	(('s4', 's4'), 's0')	c	o
+rld.card.2	(('s4', 's5'), 's0')	c	o
+rld.oyster.3	(('s4', 's3'), 's3')	c	o
+rld.oyster.5	(('s4', 's3'), 's5')	c	o
+rld.oyster.2	(('s4', 's3'), 's2')	c	o
+rld.oyster.1	(('s4', 's3'), 's1')	c	o
+rcv.card.gin	(('s5', 's3'), 's0')	c	o
+fg	(('s8', 's3'), 's0')	uc	uo
+rld.oyster.4	(('s4', 's3'), 's4')	c	o
+
+(('s1', 's3'), 's0')	0	9
+rld.card.1	(('s1', 's4'), 's0')	c	o
+rld.card.2	(('s1', 's5'), 's0')	c	o
+rld.oyster.3	(('s1', 's3'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's3'), 's0')	c	o
+rld.oyster.5	(('s1', 's3'), 's5')	c	o
+rld.oyster.2	(('s1', 's3'), 's2')	c	o
+rld.oyster.1	(('s1', 's3'), 's1')	c	o
+fg	(('s7', 's3'), 's0')	uc	uo
+rld.oyster.4	(('s1', 's3'), 's4')	c	o
+
+(('s8', 's0'), 's3')	0	9
+rmb	(('s4', 's0'), 's3')	uc	uo
+rld.card.2	(('s8', 's2'), 's3')	c	o
+rld.card.1	(('s8', 's1'), 's3')	c	o
+rld.oyster.2	(('s8', 's0'), 's5')	c	o
+rld.card.3	(('s8', 's3'), 's3')	c	o
+rld.card.4	(('s8', 's4'), 's3')	c	o
+rld.card.5	(('s8', 's5'), 's3')	c	o
+rld.oyster.1	(('s8', 's0'), 's4')	c	o
+rcv.card.gin	(('s2', 's0'), 's3')	c	o
+
+(('s5', 's0'), 's3')	0	8
+snd.card.gin	(('s6', 's0'), 's3')	c	o
+rld.card.2	(('s5', 's2'), 's3')	c	o
+rld.card.1	(('s5', 's1'), 's3')	c	o
+rld.oyster.2	(('s5', 's0'), 's5')	c	o
+rld.card.3	(('s5', 's3'), 's3')	c	o
+rld.card.5	(('s5', 's5'), 's3')	c	o
+rld.card.4	(('s5', 's4'), 's3')	c	o
+rld.oyster.1	(('s5', 's0'), 's4')	c	o
+
+(('s2', 's0'), 's3')	0	8
+snd.oyster.gin	(('s3', 's0'), 's3')	c	o
+rld.card.2	(('s2', 's2'), 's3')	c	o
+rld.card.1	(('s2', 's1'), 's3')	c	o
+rld.oyster.2	(('s2', 's0'), 's5')	c	o
+rld.card.3	(('s2', 's3'), 's3')	c	o
+rld.card.5	(('s2', 's5'), 's3')	c	o
+rld.card.4	(('s2', 's4'), 's3')	c	o
+rld.oyster.1	(('s2', 's0'), 's4')	c	o
+
+(('s7', 's0'), 's3')	0	9
+rmb	(('s1', 's0'), 's3')	uc	uo
+rld.card.2	(('s7', 's2'), 's3')	c	o
+rld.card.1	(('s7', 's1'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's0'), 's3')	c	o
+rld.oyster.2	(('s7', 's0'), 's5')	c	o
+rld.card.3	(('s7', 's3'), 's3')	c	o
+rld.card.5	(('s7', 's5'), 's3')	c	o
+rld.card.4	(('s7', 's4'), 's3')	c	o
+rld.oyster.1	(('s7', 's0'), 's4')	c	o
+
+(('s8', 's1'), 's2')	0	9
+rmb	(('s4', 's1'), 's2')	uc	uo
+rld.card.2	(('s8', 's3'), 's2')	c	o
+rld.card.1	(('s8', 's2'), 's2')	c	o
+rld.oyster.3	(('s8', 's1'), 's5')	c	o
+rld.oyster.2	(('s8', 's1'), 's4')	c	o
+rld.card.3	(('s8', 's4'), 's2')	c	o
+rld.card.4	(('s8', 's5'), 's2')	c	o
+rld.oyster.1	(('s8', 's1'), 's3')	c	o
+rcv.card.gin	(('s2', 's1'), 's2')	c	o
+
+(('s5', 's1'), 's2')	0	8
+snd.card.gin	(('s6', 's1'), 's2')	c	o
+rld.card.2	(('s5', 's3'), 's2')	c	o
+rld.card.1	(('s5', 's2'), 's2')	c	o
+rld.oyster.3	(('s5', 's1'), 's5')	c	o
+rld.oyster.2	(('s5', 's1'), 's4')	c	o
+rld.card.3	(('s5', 's4'), 's2')	c	o
+rld.card.4	(('s5', 's5'), 's2')	c	o
+rld.oyster.1	(('s5', 's1'), 's3')	c	o
+
+(('s2', 's1'), 's2')	0	8
+snd.oyster.gin	(('s3', 's1'), 's2')	c	o
+rld.card.2	(('s2', 's3'), 's2')	c	o
+rld.card.1	(('s2', 's2'), 's2')	c	o
+rld.oyster.3	(('s2', 's1'), 's5')	c	o
+rld.oyster.2	(('s2', 's1'), 's4')	c	o
+rld.card.3	(('s2', 's4'), 's2')	c	o
+rld.card.4	(('s2', 's5'), 's2')	c	o
+rld.oyster.1	(('s2', 's1'), 's3')	c	o
+
+(('s7', 's1'), 's2')	0	9
+rmb	(('s1', 's1'), 's2')	uc	uo
+rld.card.2	(('s7', 's3'), 's2')	c	o
+rld.card.1	(('s7', 's2'), 's2')	c	o
+rld.oyster.3	(('s7', 's1'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's1'), 's2')	c	o
+rld.oyster.2	(('s7', 's1'), 's4')	c	o
+rld.card.3	(('s7', 's4'), 's2')	c	o
+rld.card.4	(('s7', 's5'), 's2')	c	o
+rld.oyster.1	(('s7', 's1'), 's3')	c	o
+
+(('s8', 's2'), 's1')	0	9
+rmb	(('s4', 's2'), 's1')	uc	uo
+rld.card.2	(('s8', 's4'), 's1')	c	o
+rld.card.1	(('s8', 's3'), 's1')	c	o
+rld.oyster.3	(('s8', 's2'), 's4')	c	o
+rld.oyster.2	(('s8', 's2'), 's3')	c	o
+rld.card.3	(('s8', 's5'), 's1')	c	o
+rld.oyster.1	(('s8', 's2'), 's2')	c	o
+rcv.card.gin	(('s2', 's2'), 's1')	c	o
+rld.oyster.4	(('s8', 's2'), 's5')	c	o
+
+(('s5', 's2'), 's1')	0	8
+snd.card.gin	(('s6', 's2'), 's1')	c	o
+rld.card.1	(('s5', 's3'), 's1')	c	o
+rld.card.2	(('s5', 's4'), 's1')	c	o
+rld.oyster.3	(('s5', 's2'), 's4')	c	o
+rld.oyster.2	(('s5', 's2'), 's3')	c	o
+rld.card.3	(('s5', 's5'), 's1')	c	o
+rld.oyster.1	(('s5', 's2'), 's2')	c	o
+rld.oyster.4	(('s5', 's2'), 's5')	c	o
+
+(('s2', 's2'), 's1')	0	8
+snd.oyster.gin	(('s3', 's2'), 's1')	c	o
+rld.card.1	(('s2', 's3'), 's1')	c	o
+rld.card.2	(('s2', 's4'), 's1')	c	o
+rld.oyster.3	(('s2', 's2'), 's4')	c	o
+rld.oyster.2	(('s2', 's2'), 's3')	c	o
+rld.card.3	(('s2', 's5'), 's1')	c	o
+rld.oyster.1	(('s2', 's2'), 's2')	c	o
+rld.oyster.4	(('s2', 's2'), 's5')	c	o
+
+(('s7', 's2'), 's1')	0	9
+rmb	(('s1', 's2'), 's1')	uc	uo
+rld.card.2	(('s7', 's4'), 's1')	c	o
+rld.card.1	(('s7', 's3'), 's1')	c	o
+rld.oyster.3	(('s7', 's2'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's2'), 's1')	c	o
+rld.oyster.2	(('s7', 's2'), 's3')	c	o
+rld.card.3	(('s7', 's5'), 's1')	c	o
+rld.oyster.1	(('s7', 's2'), 's2')	c	o
+rld.oyster.4	(('s7', 's2'), 's5')	c	o
+
+(('s5', 's3'), 's0')	0	8
+snd.card.gin	(('s6', 's3'), 's0')	c	o
+rld.card.2	(('s5', 's5'), 's0')	c	o
+rld.card.1	(('s5', 's4'), 's0')	c	o
+rld.oyster.3	(('s5', 's3'), 's3')	c	o
+rld.oyster.5	(('s5', 's3'), 's5')	c	o
+rld.oyster.2	(('s5', 's3'), 's2')	c	o
+rld.oyster.1	(('s5', 's3'), 's1')	c	o
+rld.oyster.4	(('s5', 's3'), 's4')	c	o
+
+(('s8', 's3'), 's0')	0	9
+rmb	(('s4', 's3'), 's0')	uc	uo
+rld.card.1	(('s8', 's4'), 's0')	c	o
+rld.card.2	(('s8', 's5'), 's0')	c	o
+rld.oyster.3	(('s8', 's3'), 's3')	c	o
+rld.oyster.5	(('s8', 's3'), 's5')	c	o
+rld.oyster.2	(('s8', 's3'), 's2')	c	o
+rld.oyster.1	(('s8', 's3'), 's1')	c	o
+rcv.card.gin	(('s2', 's3'), 's0')	c	o
+rld.oyster.4	(('s8', 's3'), 's4')	c	o
+
+(('s2', 's3'), 's0')	0	8
+snd.oyster.gin	(('s3', 's3'), 's0')	c	o
+rld.card.2	(('s2', 's5'), 's0')	c	o
+rld.card.1	(('s2', 's4'), 's0')	c	o
+rld.oyster.3	(('s2', 's3'), 's3')	c	o
+rld.oyster.5	(('s2', 's3'), 's5')	c	o
+rld.oyster.2	(('s2', 's3'), 's2')	c	o
+rld.oyster.1	(('s2', 's3'), 's1')	c	o
+rld.oyster.4	(('s2', 's3'), 's4')	c	o
+
+(('s7', 's3'), 's0')	0	9
+rmb	(('s1', 's3'), 's0')	uc	uo
+rld.card.1	(('s7', 's4'), 's0')	c	o
+rld.card.2	(('s7', 's5'), 's0')	c	o
+rld.oyster.3	(('s7', 's3'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's3'), 's0')	c	o
+rld.oyster.5	(('s7', 's3'), 's5')	c	o
+rld.oyster.2	(('s7', 's3'), 's2')	c	o
+rld.oyster.1	(('s7', 's3'), 's1')	c	o
+rld.oyster.4	(('s7', 's3'), 's4')	c	o
+
+(('s6', 's0'), 's3')	0	7
+rld.card.2	(('s6', 's2'), 's3')	c	o
+rld.oyster.2	(('s6', 's0'), 's5')	c	o
+rld.card.3	(('s6', 's3'), 's3')	c	o
+rld.card.5	(('s6', 's5'), 's3')	c	o
+rld.card.4	(('s6', 's4'), 's3')	c	o
+rld.oyster.1	(('s6', 's0'), 's4')	c	o
+rld.card.1	(('s6', 's1'), 's3')	c	o
+
+(('s3', 's0'), 's3')	0	8
+rcv.oyster.fin	(('s0', 's0'), 's2')	c	o
+rld.card.2	(('s3', 's2'), 's3')	c	o
+rld.card.1	(('s3', 's1'), 's3')	c	o
+rld.oyster.2	(('s3', 's0'), 's5')	c	o
+rld.card.3	(('s3', 's3'), 's3')	c	o
+rld.card.5	(('s3', 's5'), 's3')	c	o
+rld.card.4	(('s3', 's4'), 's3')	c	o
+rld.oyster.1	(('s3', 's0'), 's4')	c	o
+
+(('s6', 's1'), 's2')	0	8
+rld.card.2	(('s6', 's3'), 's2')	c	o
+rld.card.1	(('s6', 's2'), 's2')	c	o
+rld.oyster.3	(('s6', 's1'), 's5')	c	o
+rcv.card.fin	(('s0', 's0'), 's2')	c	o
+rld.oyster.2	(('s6', 's1'), 's4')	c	o
+rld.card.3	(('s6', 's4'), 's2')	c	o
+rld.card.4	(('s6', 's5'), 's2')	c	o
+rld.oyster.1	(('s6', 's1'), 's3')	c	o
+
+(('s3', 's1'), 's2')	0	8
+rcv.oyster.fin	(('s0', 's1'), 's1')	c	o
+rld.card.2	(('s3', 's3'), 's2')	c	o
+rld.card.1	(('s3', 's2'), 's2')	c	o
+rld.oyster.3	(('s3', 's1'), 's5')	c	o
+rld.oyster.2	(('s3', 's1'), 's4')	c	o
+rld.card.3	(('s3', 's4'), 's2')	c	o
+rld.card.4	(('s3', 's5'), 's2')	c	o
+rld.oyster.1	(('s3', 's1'), 's3')	c	o
+
+(('s6', 's2'), 's1')	0	8
+rld.card.1	(('s6', 's3'), 's1')	c	o
+rld.card.2	(('s6', 's4'), 's1')	c	o
+rld.oyster.3	(('s6', 's2'), 's4')	c	o
+rcv.card.fin	(('s0', 's1'), 's1')	c	o
+rld.oyster.2	(('s6', 's2'), 's3')	c	o
+rld.card.3	(('s6', 's5'), 's1')	c	o
+rld.oyster.1	(('s6', 's2'), 's2')	c	o
+rld.oyster.4	(('s6', 's2'), 's5')	c	o
+
+(('s3', 's2'), 's1')	0	8
+rcv.oyster.fin	(('s0', 's2'), 's0')	c	o
+rld.card.1	(('s3', 's3'), 's1')	c	o
+rld.card.2	(('s3', 's4'), 's1')	c	o
+rld.oyster.3	(('s3', 's2'), 's4')	c	o
+rld.oyster.2	(('s3', 's2'), 's3')	c	o
+rld.card.3	(('s3', 's5'), 's1')	c	o
+rld.oyster.1	(('s3', 's2'), 's2')	c	o
+rld.oyster.4	(('s3', 's2'), 's5')	c	o
+
+(('s6', 's3'), 's0')	0	8
+rld.card.2	(('s6', 's5'), 's0')	c	o
+rld.card.1	(('s6', 's4'), 's0')	c	o
+rld.oyster.3	(('s6', 's3'), 's3')	c	o
+rld.oyster.5	(('s6', 's3'), 's5')	c	o
+rcv.card.fin	(('s0', 's2'), 's0')	c	o
+rld.oyster.2	(('s6', 's3'), 's2')	c	o
+rld.oyster.1	(('s6', 's3'), 's1')	c	o
+rld.oyster.4	(('s6', 's3'), 's4')	c	o
+
+(('s3', 's3'), 's0')	0	7
+rld.card.2	(('s3', 's5'), 's0')	c	o
+rld.card.1	(('s3', 's4'), 's0')	c	o
+rld.oyster.3	(('s3', 's3'), 's3')	c	o
+rld.oyster.5	(('s3', 's3'), 's5')	c	o
+rld.oyster.2	(('s3', 's3'), 's2')	c	o
+rld.oyster.1	(('s3', 's3'), 's1')	c	o
+rld.oyster.4	(('s3', 's3'), 's4')	c	o
+
+(('s0', 's0'), 's2')	0	10
+snd.card	(('s4', 's0'), 's2')	c	o
+rld.card.2	(('s0', 's2'), 's2')	c	o
+rld.card.1	(('s0', 's1'), 's2')	c	o
+rld.oyster.3	(('s0', 's0'), 's5')	c	o
+rld.oyster.2	(('s0', 's0'), 's4')	c	o
+rld.card.3	(('s0', 's3'), 's2')	c	o
+rld.card.5	(('s0', 's5'), 's2')	c	o
+rld.card.4	(('s0', 's4'), 's2')	c	o
+rld.oyster.1	(('s0', 's0'), 's3')	c	o
+snd.oyster	(('s1', 's0'), 's2')	c	o
+
+(('s0', 's1'), 's1')	0	10
+snd.card	(('s4', 's1'), 's1')	c	o
+rld.oyster.4	(('s0', 's1'), 's5')	c	o
+rld.card.2	(('s0', 's3'), 's1')	c	o
+rld.card.1	(('s0', 's2'), 's1')	c	o
+rld.oyster.3	(('s0', 's1'), 's4')	c	o
+rld.oyster.2	(('s0', 's1'), 's3')	c	o
+rld.card.3	(('s0', 's4'), 's1')	c	o
+rld.card.4	(('s0', 's5'), 's1')	c	o
+rld.oyster.1	(('s0', 's1'), 's2')	c	o
+snd.oyster	(('s1', 's1'), 's1')	c	o
+
+(('s0', 's2'), 's0')	0	10
+snd.card	(('s4', 's2'), 's0')	c	o
+rld.oyster.4	(('s0', 's2'), 's4')	c	o
+rld.card.2	(('s0', 's4'), 's0')	c	o
+rld.card.1	(('s0', 's3'), 's0')	c	o
+rld.oyster.3	(('s0', 's2'), 's3')	c	o
+rld.oyster.5	(('s0', 's2'), 's5')	c	o
+rld.oyster.2	(('s0', 's2'), 's2')	c	o
+rld.card.3	(('s0', 's5'), 's0')	c	o
+rld.oyster.1	(('s0', 's2'), 's1')	c	o
+snd.oyster	(('s1', 's2'), 's0')	c	o
+
+(('s4', 's0'), 's2')	0	10
+rld.card.2	(('s4', 's2'), 's2')	c	o
+rld.card.1	(('s4', 's1'), 's2')	c	o
+fg	(('s8', 's0'), 's2')	uc	uo
+rld.oyster.3	(('s4', 's0'), 's5')	c	o
+rld.oyster.2	(('s4', 's0'), 's4')	c	o
+rld.card.3	(('s4', 's3'), 's2')	c	o
+rld.card.5	(('s4', 's5'), 's2')	c	o
+rld.card.4	(('s4', 's4'), 's2')	c	o
+rld.oyster.1	(('s4', 's0'), 's3')	c	o
+rcv.card.gin	(('s5', 's0'), 's2')	c	o
+
+(('s1', 's0'), 's2')	0	10
+rld.card.2	(('s1', 's2'), 's2')	c	o
+rld.card.1	(('s1', 's1'), 's2')	c	o
+rld.oyster.3	(('s1', 's0'), 's5')	c	o
+rcv.oyster.gin	(('s2', 's0'), 's2')	c	o
+rld.oyster.2	(('s1', 's0'), 's4')	c	o
+rld.card.3	(('s1', 's3'), 's2')	c	o
+rld.card.5	(('s1', 's5'), 's2')	c	o
+rld.card.4	(('s1', 's4'), 's2')	c	o
+rld.oyster.1	(('s1', 's0'), 's3')	c	o
+fg	(('s7', 's0'), 's2')	uc	uo
+
+(('s4', 's1'), 's1')	0	10
+rld.card.2	(('s4', 's3'), 's1')	c	o
+rld.card.1	(('s4', 's2'), 's1')	c	o
+fg	(('s8', 's1'), 's1')	uc	uo
+rld.oyster.3	(('s4', 's1'), 's4')	c	o
+rld.oyster.2	(('s4', 's1'), 's3')	c	o
+rld.card.3	(('s4', 's4'), 's1')	c	o
+rld.card.4	(('s4', 's5'), 's1')	c	o
+rld.oyster.1	(('s4', 's1'), 's2')	c	o
+rcv.card.gin	(('s5', 's1'), 's1')	c	o
+rld.oyster.4	(('s4', 's1'), 's5')	c	o
+
+(('s1', 's1'), 's1')	0	10
+rld.card.2	(('s1', 's3'), 's1')	c	o
+rld.card.1	(('s1', 's2'), 's1')	c	o
+rld.oyster.3	(('s1', 's1'), 's4')	c	o
+rcv.oyster.gin	(('s2', 's1'), 's1')	c	o
+rld.oyster.2	(('s1', 's1'), 's3')	c	o
+rld.card.3	(('s1', 's4'), 's1')	c	o
+rld.card.4	(('s1', 's5'), 's1')	c	o
+rld.oyster.1	(('s1', 's1'), 's2')	c	o
+fg	(('s7', 's1'), 's1')	uc	uo
+rld.oyster.4	(('s1', 's1'), 's5')	c	o
+
+(('s4', 's2'), 's0')	0	10
+rld.card.2	(('s4', 's4'), 's0')	c	o
+rld.card.1	(('s4', 's3'), 's0')	c	o
+fg	(('s8', 's2'), 's0')	uc	uo
+rld.oyster.3	(('s4', 's2'), 's3')	c	o
+rld.oyster.5	(('s4', 's2'), 's5')	c	o
+rld.oyster.2	(('s4', 's2'), 's2')	c	o
+rld.card.3	(('s4', 's5'), 's0')	c	o
+rld.oyster.1	(('s4', 's2'), 's1')	c	o
+rcv.card.gin	(('s5', 's2'), 's0')	c	o
+rld.oyster.4	(('s4', 's2'), 's4')	c	o
+
+(('s1', 's2'), 's0')	0	10
+rld.card.2	(('s1', 's4'), 's0')	c	o
+rld.card.1	(('s1', 's3'), 's0')	c	o
+rld.oyster.3	(('s1', 's2'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's2'), 's0')	c	o
+rld.oyster.5	(('s1', 's2'), 's5')	c	o
+rld.oyster.2	(('s1', 's2'), 's2')	c	o
+rld.card.3	(('s1', 's5'), 's0')	c	o
+rld.oyster.1	(('s1', 's2'), 's1')	c	o
+fg	(('s7', 's2'), 's0')	uc	uo
+rld.oyster.4	(('s1', 's2'), 's4')	c	o
+
+(('s8', 's0'), 's2')	0	10
+rmb	(('s4', 's0'), 's2')	uc	uo
+rld.card.2	(('s8', 's2'), 's2')	c	o
+rld.card.1	(('s8', 's1'), 's2')	c	o
+rld.oyster.3	(('s8', 's0'), 's5')	c	o
+rld.oyster.2	(('s8', 's0'), 's4')	c	o
+rld.card.3	(('s8', 's3'), 's2')	c	o
+rld.card.4	(('s8', 's4'), 's2')	c	o
+rld.card.5	(('s8', 's5'), 's2')	c	o
+rld.oyster.1	(('s8', 's0'), 's3')	c	o
+rcv.card.gin	(('s2', 's0'), 's2')	c	o
+
+(('s5', 's0'), 's2')	0	9
+snd.card.gin	(('s6', 's0'), 's2')	c	o
+rld.card.2	(('s5', 's2'), 's2')	c	o
+rld.card.1	(('s5', 's1'), 's2')	c	o
+rld.oyster.3	(('s5', 's0'), 's5')	c	o
+rld.oyster.2	(('s5', 's0'), 's4')	c	o
+rld.card.3	(('s5', 's3'), 's2')	c	o
+rld.card.5	(('s5', 's5'), 's2')	c	o
+rld.card.4	(('s5', 's4'), 's2')	c	o
+rld.oyster.1	(('s5', 's0'), 's3')	c	o
+
+(('s2', 's0'), 's2')	0	9
+snd.oyster.gin	(('s3', 's0'), 's2')	c	o
+rld.card.2	(('s2', 's2'), 's2')	c	o
+rld.card.1	(('s2', 's1'), 's2')	c	o
+rld.oyster.3	(('s2', 's0'), 's5')	c	o
+rld.oyster.2	(('s2', 's0'), 's4')	c	o
+rld.card.3	(('s2', 's3'), 's2')	c	o
+rld.card.5	(('s2', 's5'), 's2')	c	o
+rld.card.4	(('s2', 's4'), 's2')	c	o
+rld.oyster.1	(('s2', 's0'), 's3')	c	o
+
+(('s7', 's0'), 's2')	0	10
+rmb	(('s1', 's0'), 's2')	uc	uo
+rld.card.2	(('s7', 's2'), 's2')	c	o
+rld.card.1	(('s7', 's1'), 's2')	c	o
+rld.oyster.3	(('s7', 's0'), 's5')	c	o
+rcv.oyster.gin	(('s5', 's0'), 's2')	c	o
+rld.oyster.2	(('s7', 's0'), 's4')	c	o
+rld.card.3	(('s7', 's3'), 's2')	c	o
+rld.card.5	(('s7', 's5'), 's2')	c	o
+rld.card.4	(('s7', 's4'), 's2')	c	o
+rld.oyster.1	(('s7', 's0'), 's3')	c	o
+
+(('s8', 's1'), 's1')	0	10
+rmb	(('s4', 's1'), 's1')	uc	uo
+rld.card.2	(('s8', 's3'), 's1')	c	o
+rld.card.1	(('s8', 's2'), 's1')	c	o
+rld.oyster.3	(('s8', 's1'), 's4')	c	o
+rld.oyster.2	(('s8', 's1'), 's3')	c	o
+rld.card.3	(('s8', 's4'), 's1')	c	o
+rld.card.4	(('s8', 's5'), 's1')	c	o
+rld.oyster.1	(('s8', 's1'), 's2')	c	o
+rcv.card.gin	(('s2', 's1'), 's1')	c	o
+rld.oyster.4	(('s8', 's1'), 's5')	c	o
+
+(('s5', 's1'), 's1')	0	9
+snd.card.gin	(('s6', 's1'), 's1')	c	o
+rld.card.2	(('s5', 's3'), 's1')	c	o
+rld.card.1	(('s5', 's2'), 's1')	c	o
+rld.oyster.3	(('s5', 's1'), 's4')	c	o
+rld.oyster.2	(('s5', 's1'), 's3')	c	o
+rld.card.3	(('s5', 's4'), 's1')	c	o
+rld.card.4	(('s5', 's5'), 's1')	c	o
+rld.oyster.1	(('s5', 's1'), 's2')	c	o
+rld.oyster.4	(('s5', 's1'), 's5')	c	o
+
+(('s2', 's1'), 's1')	0	9
+snd.oyster.gin	(('s3', 's1'), 's1')	c	o
+rld.card.2	(('s2', 's3'), 's1')	c	o
+rld.card.1	(('s2', 's2'), 's1')	c	o
+rld.oyster.3	(('s2', 's1'), 's4')	c	o
+rld.oyster.2	(('s2', 's1'), 's3')	c	o
+rld.card.3	(('s2', 's4'), 's1')	c	o
+rld.card.4	(('s2', 's5'), 's1')	c	o
+rld.oyster.1	(('s2', 's1'), 's2')	c	o
+rld.oyster.4	(('s2', 's1'), 's5')	c	o
+
+(('s7', 's1'), 's1')	0	10
+rmb	(('s1', 's1'), 's1')	uc	uo
+rld.card.2	(('s7', 's3'), 's1')	c	o
+rld.card.1	(('s7', 's2'), 's1')	c	o
+rld.oyster.3	(('s7', 's1'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's1'), 's1')	c	o
+rld.oyster.2	(('s7', 's1'), 's3')	c	o
+rld.card.3	(('s7', 's4'), 's1')	c	o
+rld.card.4	(('s7', 's5'), 's1')	c	o
+rld.oyster.1	(('s7', 's1'), 's2')	c	o
+rld.oyster.4	(('s7', 's1'), 's5')	c	o
+
+(('s8', 's2'), 's0')	0	10
+rmb	(('s4', 's2'), 's0')	uc	uo
+rld.card.2	(('s8', 's4'), 's0')	c	o
+rld.card.1	(('s8', 's3'), 's0')	c	o
+rld.oyster.3	(('s8', 's2'), 's3')	c	o
+rld.oyster.5	(('s8', 's2'), 's5')	c	o
+rld.oyster.2	(('s8', 's2'), 's2')	c	o
+rld.card.3	(('s8', 's5'), 's0')	c	o
+rld.oyster.1	(('s8', 's2'), 's1')	c	o
+rcv.card.gin	(('s2', 's2'), 's0')	c	o
+rld.oyster.4	(('s8', 's2'), 's4')	c	o
+
+(('s5', 's2'), 's0')	0	9
+snd.card.gin	(('s6', 's2'), 's0')	c	o
+rld.card.1	(('s5', 's3'), 's0')	c	o
+rld.card.2	(('s5', 's4'), 's0')	c	o
+rld.oyster.3	(('s5', 's2'), 's3')	c	o
+rld.oyster.5	(('s5', 's2'), 's5')	c	o
+rld.oyster.2	(('s5', 's2'), 's2')	c	o
+rld.card.3	(('s5', 's5'), 's0')	c	o
+rld.oyster.1	(('s5', 's2'), 's1')	c	o
+rld.oyster.4	(('s5', 's2'), 's4')	c	o
+
+(('s2', 's2'), 's0')	0	9
+snd.oyster.gin	(('s3', 's2'), 's0')	c	o
+rld.card.1	(('s2', 's3'), 's0')	c	o
+rld.card.2	(('s2', 's4'), 's0')	c	o
+rld.oyster.3	(('s2', 's2'), 's3')	c	o
+rld.oyster.5	(('s2', 's2'), 's5')	c	o
+rld.oyster.2	(('s2', 's2'), 's2')	c	o
+rld.card.3	(('s2', 's5'), 's0')	c	o
+rld.oyster.1	(('s2', 's2'), 's1')	c	o
+rld.oyster.4	(('s2', 's2'), 's4')	c	o
+
+(('s7', 's2'), 's0')	0	10
+rmb	(('s1', 's2'), 's0')	uc	uo
+rld.card.2	(('s7', 's4'), 's0')	c	o
+rld.card.1	(('s7', 's3'), 's0')	c	o
+rld.oyster.3	(('s7', 's2'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's2'), 's0')	c	o
+rld.oyster.5	(('s7', 's2'), 's5')	c	o
+rld.oyster.2	(('s7', 's2'), 's2')	c	o
+rld.card.3	(('s7', 's5'), 's0')	c	o
+rld.oyster.1	(('s7', 's2'), 's1')	c	o
+rld.oyster.4	(('s7', 's2'), 's4')	c	o
+
+(('s6', 's0'), 's2')	0	8
+rld.card.2	(('s6', 's2'), 's2')	c	o
+rld.card.1	(('s6', 's1'), 's2')	c	o
+rld.oyster.3	(('s6', 's0'), 's5')	c	o
+rld.oyster.2	(('s6', 's0'), 's4')	c	o
+rld.card.3	(('s6', 's3'), 's2')	c	o
+rld.card.5	(('s6', 's5'), 's2')	c	o
+rld.card.4	(('s6', 's4'), 's2')	c	o
+rld.oyster.1	(('s6', 's0'), 's3')	c	o
+
+(('s3', 's0'), 's2')	0	9
+rcv.oyster.fin	(('s0', 's0'), 's1')	c	o
+rld.card.2	(('s3', 's2'), 's2')	c	o
+rld.card.1	(('s3', 's1'), 's2')	c	o
+rld.oyster.3	(('s3', 's0'), 's5')	c	o
+rld.oyster.2	(('s3', 's0'), 's4')	c	o
+rld.card.3	(('s3', 's3'), 's2')	c	o
+rld.card.5	(('s3', 's5'), 's2')	c	o
+rld.card.4	(('s3', 's4'), 's2')	c	o
+rld.oyster.1	(('s3', 's0'), 's3')	c	o
+
+(('s6', 's1'), 's1')	0	9
+rld.card.2	(('s6', 's3'), 's1')	c	o
+rld.card.1	(('s6', 's2'), 's1')	c	o
+rld.oyster.3	(('s6', 's1'), 's4')	c	o
+rcv.card.fin	(('s0', 's0'), 's1')	c	o
+rld.oyster.2	(('s6', 's1'), 's3')	c	o
+rld.card.3	(('s6', 's4'), 's1')	c	o
+rld.card.4	(('s6', 's5'), 's1')	c	o
+rld.oyster.1	(('s6', 's1'), 's2')	c	o
+rld.oyster.4	(('s6', 's1'), 's5')	c	o
+
+(('s3', 's1'), 's1')	0	9
+rcv.oyster.fin	(('s0', 's1'), 's0')	c	o
+rld.card.2	(('s3', 's3'), 's1')	c	o
+rld.card.1	(('s3', 's2'), 's1')	c	o
+rld.oyster.3	(('s3', 's1'), 's4')	c	o
+rld.oyster.2	(('s3', 's1'), 's3')	c	o
+rld.card.3	(('s3', 's4'), 's1')	c	o
+rld.card.4	(('s3', 's5'), 's1')	c	o
+rld.oyster.1	(('s3', 's1'), 's2')	c	o
+rld.oyster.4	(('s3', 's1'), 's5')	c	o
+
+(('s6', 's2'), 's0')	0	9
+rld.card.1	(('s6', 's3'), 's0')	c	o
+rld.card.2	(('s6', 's4'), 's0')	c	o
+rld.oyster.3	(('s6', 's2'), 's3')	c	o
+rld.oyster.5	(('s6', 's2'), 's5')	c	o
+rcv.card.fin	(('s0', 's1'), 's0')	c	o
+rld.oyster.2	(('s6', 's2'), 's2')	c	o
+rld.card.3	(('s6', 's5'), 's0')	c	o
+rld.oyster.1	(('s6', 's2'), 's1')	c	o
+rld.oyster.4	(('s6', 's2'), 's4')	c	o
+
+(('s3', 's2'), 's0')	0	8
+rld.card.1	(('s3', 's3'), 's0')	c	o
+rld.card.2	(('s3', 's4'), 's0')	c	o
+rld.oyster.3	(('s3', 's2'), 's3')	c	o
+rld.oyster.5	(('s3', 's2'), 's5')	c	o
+rld.oyster.2	(('s3', 's2'), 's2')	c	o
+rld.card.3	(('s3', 's5'), 's0')	c	o
+rld.oyster.1	(('s3', 's2'), 's1')	c	o
+rld.oyster.4	(('s3', 's2'), 's4')	c	o
+
+(('s0', 's0'), 's1')	0	11
+snd.card	(('s4', 's0'), 's1')	c	o
+rld.oyster.4	(('s0', 's0'), 's5')	c	o
+rld.card.2	(('s0', 's2'), 's1')	c	o
+rld.card.1	(('s0', 's1'), 's1')	c	o
+rld.oyster.3	(('s0', 's0'), 's4')	c	o
+rld.oyster.2	(('s0', 's0'), 's3')	c	o
+rld.card.3	(('s0', 's3'), 's1')	c	o
+rld.card.5	(('s0', 's5'), 's1')	c	o
+rld.card.4	(('s0', 's4'), 's1')	c	o
+rld.oyster.1	(('s0', 's0'), 's2')	c	o
+snd.oyster	(('s1', 's0'), 's1')	c	o
+
+(('s0', 's1'), 's0')	0	11
+snd.card	(('s4', 's1'), 's0')	c	o
+rld.oyster.4	(('s0', 's1'), 's4')	c	o
+rld.card.2	(('s0', 's3'), 's0')	c	o
+rld.card.1	(('s0', 's2'), 's0')	c	o
+rld.oyster.3	(('s0', 's1'), 's3')	c	o
+rld.oyster.5	(('s0', 's1'), 's5')	c	o
+rld.oyster.2	(('s0', 's1'), 's2')	c	o
+rld.card.3	(('s0', 's4'), 's0')	c	o
+rld.card.4	(('s0', 's5'), 's0')	c	o
+rld.oyster.1	(('s0', 's1'), 's1')	c	o
+snd.oyster	(('s1', 's1'), 's0')	c	o
+
+(('s4', 's0'), 's1')	0	11
+rld.card.2	(('s4', 's2'), 's1')	c	o
+rld.card.1	(('s4', 's1'), 's1')	c	o
+fg	(('s8', 's0'), 's1')	uc	uo
+rld.oyster.3	(('s4', 's0'), 's4')	c	o
+rld.oyster.2	(('s4', 's0'), 's3')	c	o
+rld.card.3	(('s4', 's3'), 's1')	c	o
+rld.card.5	(('s4', 's5'), 's1')	c	o
+rld.card.4	(('s4', 's4'), 's1')	c	o
+rld.oyster.1	(('s4', 's0'), 's2')	c	o
+rcv.card.gin	(('s5', 's0'), 's1')	c	o
+rld.oyster.4	(('s4', 's0'), 's5')	c	o
+
+(('s1', 's0'), 's1')	0	11
+rld.card.2	(('s1', 's2'), 's1')	c	o
+rld.card.1	(('s1', 's1'), 's1')	c	o
+rld.oyster.3	(('s1', 's0'), 's4')	c	o
+rcv.oyster.gin	(('s2', 's0'), 's1')	c	o
+rld.oyster.2	(('s1', 's0'), 's3')	c	o
+rld.card.3	(('s1', 's3'), 's1')	c	o
+rld.card.5	(('s1', 's5'), 's1')	c	o
+rld.card.4	(('s1', 's4'), 's1')	c	o
+rld.oyster.1	(('s1', 's0'), 's2')	c	o
+fg	(('s7', 's0'), 's1')	uc	uo
+rld.oyster.4	(('s1', 's0'), 's5')	c	o
+
+(('s4', 's1'), 's0')	0	11
+rld.card.2	(('s4', 's3'), 's0')	c	o
+rld.card.1	(('s4', 's2'), 's0')	c	o
+fg	(('s8', 's1'), 's0')	uc	uo
+rld.oyster.3	(('s4', 's1'), 's3')	c	o
+rld.oyster.5	(('s4', 's1'), 's5')	c	o
+rld.oyster.2	(('s4', 's1'), 's2')	c	o
+rld.card.3	(('s4', 's4'), 's0')	c	o
+rld.card.4	(('s4', 's5'), 's0')	c	o
+rld.oyster.1	(('s4', 's1'), 's1')	c	o
+rcv.card.gin	(('s5', 's1'), 's0')	c	o
+rld.oyster.4	(('s4', 's1'), 's4')	c	o
+
+(('s1', 's1'), 's0')	0	11
+rld.card.2	(('s1', 's3'), 's0')	c	o
+rld.card.1	(('s1', 's2'), 's0')	c	o
+rld.oyster.3	(('s1', 's1'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's1'), 's0')	c	o
+rld.oyster.5	(('s1', 's1'), 's5')	c	o
+rld.oyster.2	(('s1', 's1'), 's2')	c	o
+rld.card.3	(('s1', 's4'), 's0')	c	o
+rld.card.4	(('s1', 's5'), 's0')	c	o
+rld.oyster.1	(('s1', 's1'), 's1')	c	o
+fg	(('s7', 's1'), 's0')	uc	uo
+rld.oyster.4	(('s1', 's1'), 's4')	c	o
+
+(('s8', 's0'), 's1')	0	11
+rmb	(('s4', 's0'), 's1')	uc	uo
+rld.card.2	(('s8', 's2'), 's1')	c	o
+rld.card.1	(('s8', 's1'), 's1')	c	o
+rld.oyster.3	(('s8', 's0'), 's4')	c	o
+rld.oyster.2	(('s8', 's0'), 's3')	c	o
+rld.card.3	(('s8', 's3'), 's1')	c	o
+rld.card.4	(('s8', 's4'), 's1')	c	o
+rld.card.5	(('s8', 's5'), 's1')	c	o
+rld.oyster.1	(('s8', 's0'), 's2')	c	o
+rcv.card.gin	(('s2', 's0'), 's1')	c	o
+rld.oyster.4	(('s8', 's0'), 's5')	c	o
+
+(('s5', 's0'), 's1')	0	10
+snd.card.gin	(('s6', 's0'), 's1')	c	o
+rld.card.2	(('s5', 's2'), 's1')	c	o
+rld.card.1	(('s5', 's1'), 's1')	c	o
+rld.oyster.3	(('s5', 's0'), 's4')	c	o
+rld.oyster.2	(('s5', 's0'), 's3')	c	o
+rld.card.3	(('s5', 's3'), 's1')	c	o
+rld.card.5	(('s5', 's5'), 's1')	c	o
+rld.card.4	(('s5', 's4'), 's1')	c	o
+rld.oyster.1	(('s5', 's0'), 's2')	c	o
+rld.oyster.4	(('s5', 's0'), 's5')	c	o
+
+(('s2', 's0'), 's1')	0	10
+snd.oyster.gin	(('s3', 's0'), 's1')	c	o
+rld.card.2	(('s2', 's2'), 's1')	c	o
+rld.card.1	(('s2', 's1'), 's1')	c	o
+rld.oyster.3	(('s2', 's0'), 's4')	c	o
+rld.oyster.2	(('s2', 's0'), 's3')	c	o
+rld.card.3	(('s2', 's3'), 's1')	c	o
+rld.card.5	(('s2', 's5'), 's1')	c	o
+rld.card.4	(('s2', 's4'), 's1')	c	o
+rld.oyster.1	(('s2', 's0'), 's2')	c	o
+rld.oyster.4	(('s2', 's0'), 's5')	c	o
+
+(('s7', 's0'), 's1')	0	11
+rmb	(('s1', 's0'), 's1')	uc	uo
+rld.card.2	(('s7', 's2'), 's1')	c	o
+rld.card.1	(('s7', 's1'), 's1')	c	o
+rld.oyster.3	(('s7', 's0'), 's4')	c	o
+rcv.oyster.gin	(('s5', 's0'), 's1')	c	o
+rld.oyster.2	(('s7', 's0'), 's3')	c	o
+rld.card.3	(('s7', 's3'), 's1')	c	o
+rld.card.5	(('s7', 's5'), 's1')	c	o
+rld.card.4	(('s7', 's4'), 's1')	c	o
+rld.oyster.1	(('s7', 's0'), 's2')	c	o
+rld.oyster.4	(('s7', 's0'), 's5')	c	o
+
+(('s8', 's1'), 's0')	0	11
+rmb	(('s4', 's1'), 's0')	uc	uo
+rld.card.2	(('s8', 's3'), 's0')	c	o
+rld.card.1	(('s8', 's2'), 's0')	c	o
+rld.oyster.3	(('s8', 's1'), 's3')	c	o
+rld.oyster.5	(('s8', 's1'), 's5')	c	o
+rld.oyster.2	(('s8', 's1'), 's2')	c	o
+rld.card.3	(('s8', 's4'), 's0')	c	o
+rld.card.4	(('s8', 's5'), 's0')	c	o
+rld.oyster.1	(('s8', 's1'), 's1')	c	o
+rcv.card.gin	(('s2', 's1'), 's0')	c	o
+rld.oyster.4	(('s8', 's1'), 's4')	c	o
+
+(('s5', 's1'), 's0')	0	10
+snd.card.gin	(('s6', 's1'), 's0')	c	o
+rld.card.2	(('s5', 's3'), 's0')	c	o
+rld.card.1	(('s5', 's2'), 's0')	c	o
+rld.oyster.3	(('s5', 's1'), 's3')	c	o
+rld.oyster.5	(('s5', 's1'), 's5')	c	o
+rld.oyster.2	(('s5', 's1'), 's2')	c	o
+rld.card.3	(('s5', 's4'), 's0')	c	o
+rld.card.4	(('s5', 's5'), 's0')	c	o
+rld.oyster.1	(('s5', 's1'), 's1')	c	o
+rld.oyster.4	(('s5', 's1'), 's4')	c	o
+
+(('s2', 's1'), 's0')	0	10
+snd.oyster.gin	(('s3', 's1'), 's0')	c	o
+rld.card.2	(('s2', 's3'), 's0')	c	o
+rld.card.1	(('s2', 's2'), 's0')	c	o
+rld.oyster.3	(('s2', 's1'), 's3')	c	o
+rld.oyster.5	(('s2', 's1'), 's5')	c	o
+rld.oyster.2	(('s2', 's1'), 's2')	c	o
+rld.card.3	(('s2', 's4'), 's0')	c	o
+rld.card.4	(('s2', 's5'), 's0')	c	o
+rld.oyster.1	(('s2', 's1'), 's1')	c	o
+rld.oyster.4	(('s2', 's1'), 's4')	c	o
+
+(('s7', 's1'), 's0')	0	11
+rmb	(('s1', 's1'), 's0')	uc	uo
+rld.card.2	(('s7', 's3'), 's0')	c	o
+rld.card.1	(('s7', 's2'), 's0')	c	o
+rld.oyster.3	(('s7', 's1'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's1'), 's0')	c	o
+rld.oyster.5	(('s7', 's1'), 's5')	c	o
+rld.oyster.2	(('s7', 's1'), 's2')	c	o
+rld.card.3	(('s7', 's4'), 's0')	c	o
+rld.card.4	(('s7', 's5'), 's0')	c	o
+rld.oyster.1	(('s7', 's1'), 's1')	c	o
+rld.oyster.4	(('s7', 's1'), 's4')	c	o
+
+(('s6', 's0'), 's1')	0	9
+rld.card.2	(('s6', 's2'), 's1')	c	o
+rld.card.1	(('s6', 's1'), 's1')	c	o
+rld.oyster.3	(('s6', 's0'), 's4')	c	o
+rld.oyster.2	(('s6', 's0'), 's3')	c	o
+rld.card.3	(('s6', 's3'), 's1')	c	o
+rld.card.5	(('s6', 's5'), 's1')	c	o
+rld.card.4	(('s6', 's4'), 's1')	c	o
+rld.oyster.1	(('s6', 's0'), 's2')	c	o
+rld.oyster.4	(('s6', 's0'), 's5')	c	o
+
+(('s3', 's0'), 's1')	0	10
+rcv.oyster.fin	(('s0', 's0'), 's0')	c	o
+rld.card.2	(('s3', 's2'), 's1')	c	o
+rld.card.1	(('s3', 's1'), 's1')	c	o
+rld.oyster.3	(('s3', 's0'), 's4')	c	o
+rld.oyster.2	(('s3', 's0'), 's3')	c	o
+rld.card.3	(('s3', 's3'), 's1')	c	o
+rld.card.5	(('s3', 's5'), 's1')	c	o
+rld.card.4	(('s3', 's4'), 's1')	c	o
+rld.oyster.1	(('s3', 's0'), 's2')	c	o
+rld.oyster.4	(('s3', 's0'), 's5')	c	o
+
+(('s6', 's1'), 's0')	0	10
+rld.card.2	(('s6', 's3'), 's0')	c	o
+rld.card.1	(('s6', 's2'), 's0')	c	o
+rld.oyster.3	(('s6', 's1'), 's3')	c	o
+rld.oyster.5	(('s6', 's1'), 's5')	c	o
+rcv.card.fin	(('s0', 's0'), 's0')	c	o
+rld.oyster.2	(('s6', 's1'), 's2')	c	o
+rld.card.3	(('s6', 's4'), 's0')	c	o
+rld.card.4	(('s6', 's5'), 's0')	c	o
+rld.oyster.1	(('s6', 's1'), 's1')	c	o
+rld.oyster.4	(('s6', 's1'), 's4')	c	o
+
+(('s3', 's1'), 's0')	0	9
+rld.card.2	(('s3', 's3'), 's0')	c	o
+rld.card.1	(('s3', 's2'), 's0')	c	o
+rld.oyster.3	(('s3', 's1'), 's3')	c	o
+rld.oyster.5	(('s3', 's1'), 's5')	c	o
+rld.oyster.2	(('s3', 's1'), 's2')	c	o
+rld.card.3	(('s3', 's4'), 's0')	c	o
+rld.card.4	(('s3', 's5'), 's0')	c	o
+rld.oyster.1	(('s3', 's1'), 's1')	c	o
+rld.oyster.4	(('s3', 's1'), 's4')	c	o
+
+(('s0', 's0'), 's0')	0	12
+snd.card	(('s4', 's0'), 's0')	c	o
+rld.oyster.4	(('s0', 's0'), 's4')	c	o
+rld.card.2	(('s0', 's2'), 's0')	c	o
+rld.card.1	(('s0', 's1'), 's0')	c	o
+rld.oyster.3	(('s0', 's0'), 's3')	c	o
+rld.oyster.5	(('s0', 's0'), 's5')	c	o
+rld.oyster.2	(('s0', 's0'), 's2')	c	o
+rld.card.3	(('s0', 's3'), 's0')	c	o
+rld.card.5	(('s0', 's5'), 's0')	c	o
+rld.card.4	(('s0', 's4'), 's0')	c	o
+rld.oyster.1	(('s0', 's0'), 's1')	c	o
+snd.oyster	(('s1', 's0'), 's0')	c	o
+
+(('s4', 's0'), 's0')	0	12
+rld.card.2	(('s4', 's2'), 's0')	c	o
+rld.card.1	(('s4', 's1'), 's0')	c	o
+fg	(('s8', 's0'), 's0')	uc	uo
+rld.oyster.3	(('s4', 's0'), 's3')	c	o
+rld.oyster.5	(('s4', 's0'), 's5')	c	o
+rld.oyster.2	(('s4', 's0'), 's2')	c	o
+rld.card.3	(('s4', 's3'), 's0')	c	o
+rld.card.5	(('s4', 's5'), 's0')	c	o
+rld.card.4	(('s4', 's4'), 's0')	c	o
+rld.oyster.1	(('s4', 's0'), 's1')	c	o
+rcv.card.gin	(('s5', 's0'), 's0')	c	o
+rld.oyster.4	(('s4', 's0'), 's4')	c	o
+
+(('s1', 's0'), 's0')	0	12
+rld.card.2	(('s1', 's2'), 's0')	c	o
+rld.card.1	(('s1', 's1'), 's0')	c	o
+rld.oyster.3	(('s1', 's0'), 's3')	c	o
+rcv.oyster.gin	(('s2', 's0'), 's0')	c	o
+rld.oyster.5	(('s1', 's0'), 's5')	c	o
+rld.oyster.2	(('s1', 's0'), 's2')	c	o
+rld.card.3	(('s1', 's3'), 's0')	c	o
+rld.card.5	(('s1', 's5'), 's0')	c	o
+rld.card.4	(('s1', 's4'), 's0')	c	o
+rld.oyster.1	(('s1', 's0'), 's1')	c	o
+fg	(('s7', 's0'), 's0')	uc	uo
+rld.oyster.4	(('s1', 's0'), 's4')	c	o
+
+(('s8', 's0'), 's0')	0	12
+rmb	(('s4', 's0'), 's0')	uc	uo
+rld.card.2	(('s8', 's2'), 's0')	c	o
+rld.card.1	(('s8', 's1'), 's0')	c	o
+rld.oyster.3	(('s8', 's0'), 's3')	c	o
+rld.oyster.5	(('s8', 's0'), 's5')	c	o
+rld.oyster.2	(('s8', 's0'), 's2')	c	o
+rld.card.3	(('s8', 's3'), 's0')	c	o
+rld.card.4	(('s8', 's4'), 's0')	c	o
+rld.card.5	(('s8', 's5'), 's0')	c	o
+rld.oyster.1	(('s8', 's0'), 's1')	c	o
+rcv.card.gin	(('s2', 's0'), 's0')	c	o
+rld.oyster.4	(('s8', 's0'), 's4')	c	o
+
+(('s5', 's0'), 's0')	0	11
+snd.card.gin	(('s6', 's0'), 's0')	c	o
+rld.card.2	(('s5', 's2'), 's0')	c	o
+rld.card.1	(('s5', 's1'), 's0')	c	o
+rld.oyster.3	(('s5', 's0'), 's3')	c	o
+rld.oyster.5	(('s5', 's0'), 's5')	c	o
+rld.oyster.2	(('s5', 's0'), 's2')	c	o
+rld.card.3	(('s5', 's3'), 's0')	c	o
+rld.card.5	(('s5', 's5'), 's0')	c	o
+rld.card.4	(('s5', 's4'), 's0')	c	o
+rld.oyster.1	(('s5', 's0'), 's1')	c	o
+rld.oyster.4	(('s5', 's0'), 's4')	c	o
+
+(('s2', 's0'), 's0')	0	11
+snd.oyster.gin	(('s3', 's0'), 's0')	c	o
+rld.card.2	(('s2', 's2'), 's0')	c	o
+rld.card.1	(('s2', 's1'), 's0')	c	o
+rld.oyster.3	(('s2', 's0'), 's3')	c	o
+rld.oyster.5	(('s2', 's0'), 's5')	c	o
+rld.oyster.2	(('s2', 's0'), 's2')	c	o
+rld.card.3	(('s2', 's3'), 's0')	c	o
+rld.card.5	(('s2', 's5'), 's0')	c	o
+rld.card.4	(('s2', 's4'), 's0')	c	o
+rld.oyster.1	(('s2', 's0'), 's1')	c	o
+rld.oyster.4	(('s2', 's0'), 's4')	c	o
+
+(('s7', 's0'), 's0')	0	12
+rmb	(('s1', 's0'), 's0')	uc	uo
+rld.card.2	(('s7', 's2'), 's0')	c	o
+rld.card.1	(('s7', 's1'), 's0')	c	o
+rld.oyster.3	(('s7', 's0'), 's3')	c	o
+rcv.oyster.gin	(('s5', 's0'), 's0')	c	o
+rld.oyster.5	(('s7', 's0'), 's5')	c	o
+rld.oyster.2	(('s7', 's0'), 's2')	c	o
+rld.card.3	(('s7', 's3'), 's0')	c	o
+rld.card.5	(('s7', 's5'), 's0')	c	o
+rld.card.4	(('s7', 's4'), 's0')	c	o
+rld.oyster.1	(('s7', 's0'), 's1')	c	o
+rld.oyster.4	(('s7', 's0'), 's4')	c	o
+
+(('s6', 's0'), 's0')	0	10
+rld.card.2	(('s6', 's2'), 's0')	c	o
+rld.card.1	(('s6', 's1'), 's0')	c	o
+rld.oyster.3	(('s6', 's0'), 's3')	c	o
+rld.oyster.5	(('s6', 's0'), 's5')	c	o
+rld.oyster.2	(('s6', 's0'), 's2')	c	o
+rld.card.3	(('s6', 's3'), 's0')	c	o
+rld.card.5	(('s6', 's5'), 's0')	c	o
+rld.card.4	(('s6', 's4'), 's0')	c	o
+rld.oyster.1	(('s6', 's0'), 's1')	c	o
+rld.oyster.4	(('s6', 's0'), 's4')	c	o
+
+(('s3', 's0'), 's0')	0	10
+rld.card.2	(('s3', 's2'), 's0')	c	o
+rld.card.1	(('s3', 's1'), 's0')	c	o
+rld.oyster.3	(('s3', 's0'), 's3')	c	o
+rld.oyster.5	(('s3', 's0'), 's5')	c	o
+rld.oyster.2	(('s3', 's0'), 's2')	c	o
+rld.card.3	(('s3', 's3'), 's0')	c	o
+rld.card.5	(('s3', 's5'), 's0')	c	o
+rld.card.4	(('s3', 's4'), 's0')	c	o
+rld.oyster.1	(('s3', 's0'), 's1')	c	o
+rld.oyster.4	(('s3', 's0'), 's4')	c	o
+

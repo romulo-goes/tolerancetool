@@ -1,0 +1,28 @@
+7
+
+s0	0	4
+snd.oyster	s1	uc	o
+snd.card	s4	uc	o
+snd.oyster	s0	uc	o
+snd.card	s0	uc	o
+
+s1	0	1
+rcv.oyster.gin	s2	uc	o
+
+s2	0	2
+snd.oyster.gin	s3	uc	o
+snd.oyster.gin	s2	uc	o
+
+s3	0	1
+rcv.oyster.fin	s0	uc	o
+
+s4	0	1
+rcv.card.gin	s5	uc	o
+
+s5	0	2
+snd.card.gin	s6	uc	o
+snd.card.gin	s5	uc	o
+
+s6	0	1
+rcv.card.fin	s0	uc	o
+

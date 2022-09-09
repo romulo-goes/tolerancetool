@@ -1,0 +1,56 @@
+17
+
+closed	0	2
+syn_ac1	SYNsent	c	o
+listen_A	listen	c	o
+
+SYNsent	0	2
+syn_ack_c2a	i0	c	o
+syn_c2a	i1	c	o
+
+listen	0	1
+syn_c2a	i2	c	o
+
+i0	0	1
+ack_ac1	Estab	c	o
+
+i1	0	1
+ack_ac1	SYNrcv	c	o
+
+i2	0	1
+syn_ack_ac1	SYNrcv	c	o
+
+Estab	0	2
+fin_c2a	i3	c	o
+fin_ac1	FINw1	c	o
+
+SYNrcv	0	1
+ack_c2a	Estab	c	o
+
+i3	0	1
+ack_ac1	Closew	c	o
+
+FINw1	0	2
+ack_c2a	FINw2	c	o
+fin_c2a	i4	c	o
+
+Closew	0	1
+fin_ac1	lastack	c	o
+
+FINw2	0	1
+fin_c2a	i5	c	o
+
+i4	0	1
+ack_ac1	Closing	c	o
+
+i5	0	1
+ack_ac1	timew	c	o
+
+lastack	0	1
+ack_c2a	closed	c	o
+
+Closing	0	1
+ack_c2a	closed	c	o
+
+timew	0	1
+del_tcba	closed	c	o
