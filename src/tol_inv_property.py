@@ -1,3 +1,10 @@
+import os
+import sys
+path_script=os.path.dirname(os.path.realpath(__file__))
+path_to_DESops = path_script[0:path_script.find('tolerancetool/src')]+'tolerancetool/lib/'
+
+sys.path.insert(1, path_to_DESops)
+#
 import DESops as d
 from itertools import product
 

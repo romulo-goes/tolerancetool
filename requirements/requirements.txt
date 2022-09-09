@@ -1,3 +1,3 @@
-python-igraph
+igraph
 pydash
 tqdm

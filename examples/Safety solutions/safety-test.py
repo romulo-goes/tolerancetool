@@ -12,7 +12,7 @@ import tol_safety_property as safe
 import tol_inv_property as inv
 
 path_to_DESops = path_script[0:path_script.find('tolerancetool')]+'tolerancetool/lib/'
-
+print(path_to_DESops)
 sys.path.insert(1, path_to_DESops)
 # Import the DESops functions
 import DESops as d
