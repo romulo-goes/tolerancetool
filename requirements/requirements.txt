@@ -1,0 +1,3 @@
+python-igraph
+pydash
+tqdm
